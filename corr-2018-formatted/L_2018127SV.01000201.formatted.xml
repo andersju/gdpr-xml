@@ -1,0 +1,1856 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CORR xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://formex.publications.europa.eu/schema/formex-05.56-20160701.xd">
+  <BIB.INSTANCE>
+    <DOCUMENT.REF FILE="L_2018127SV.01000201.doc.xml">
+      <COLL>L</COLL>
+      <NO.OJ>127</NO.OJ>
+      <YEAR>2018</YEAR>
+      <LG.OJ>SV</LG.OJ>
+      <PAGE.FIRST>2</PAGE.FIRST>
+      <PAGE.SEQ>1</PAGE.SEQ>
+      <VOLUME.REF>01</VOLUME.REF>
+    </DOCUMENT.REF>
+    <DATE ISO="20180523">20180523</DATE>
+    <LG.DOC>SV</LG.DOC>
+    <NO.SEQ>0002</NO.SEQ>
+    <PAGE.FIRST>2</PAGE.FIRST>
+    <PAGE.SEQ>1</PAGE.SEQ>
+    <PAGE.LAST>15</PAGE.LAST>
+    <PAGE.TOTAL>14</PAGE.TOTAL>
+  </BIB.INSTANCE>
+  <TITLE>
+    <TI>
+      <P>Rättelse till Europaparlamentets och rådets förordning (EU) 2016/679 av den <DATE ISO="20160427">27 april 2016</DATE> om skydd för fysiska personer med avseende på behandling av personuppgifter och om det fria flödet av sådana uppgifter och om upphävande av direktiv 95/46/EG (allmän dataskyddsförordning)</P>
+      <P>(<REF.DOC.OJ COLL="L" DATE.PUB="20160504" NO.OJ="119">Europeiska unionens officiella tidning L 119 av den 4 maj 2016</REF.DOC.OJ>)</P>
+    </TI>
+  </TITLE>
+  <CONTENTS.CORR>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>1.</NO.P>
+          <TXT>Sidan 4, skäl 22</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>I stället för:</P>
+        <QUOT.S LEVEL="1">
+          <CONSID>
+            <NP>
+              <NO.P><QUOT.START CODE="201D" ID="QS0001" REF.END="QE0001"/>(22)</NO.P>
+              <TXT>All behandling av personuppgifter som sker inom ramen för arbetet på personuppgiftsansvarigas eller personuppgiftsbiträdens verksamhetsställen […]<QUOT.END CODE="201D" ID="QE0001" REF.START="QS0001"/></TXT>
+            </NP>
+          </CONSID>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>ska det stå:</P>
+        <QUOT.S LEVEL="1">
+          <CONSID>
+            <NP>
+              <NO.P><QUOT.START CODE="201D" ID="QS0002" REF.END="QE0002"/>(22)</NO.P>
+              <TXT>All behandling av personuppgifter inom ramen för den verksamhet som bedrivs på personuppgiftsansvarigas eller personuppgiftsbiträdens verksamhetsställen […]<QUOT.END CODE="201D" ID="QE0002" REF.START="QS0002"/>.</TXT>
+            </NP>
+          </CONSID>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>2.</NO.P>
+          <TXT>Sidan 6, skäl 31 första meningen</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>I stället för:</P>
+        <QUOT.S LEVEL="1">
+          <CONSID>
+            <NP>
+              <NO.P><QUOT.START CODE="201D" ID="QS0003" REF.END="QE0003"/>(31)</NO.P>
+              <TXT>Offentliga myndigheter som för sin myndighetsutövning mottar personuppgifter i enlighet med en rättslig förpliktelse, […] i enlighet med unionsrätten eller medlemstaternas nationella rätt.<QUOT.END CODE="201D" ID="QE0003" REF.START="QS0003"/></TXT>
+            </NP>
+          </CONSID>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>ska det stå:</P>
+        <QUOT.S LEVEL="1">
+          <CONSID>
+            <NP>
+              <NO.P><QUOT.START CODE="201D" ID="QS0004" REF.END="QE0004"/>(31)</NO.P>
+              <TXT>Offentliga myndigheter som i sitt offentliga uppdrag mottar personuppgifter i enlighet med en rättslig förpliktelse, […] i enlighet med unionsrätten eller medlemsstaternas nationella rätt.<QUOT.END CODE="201D" ID="QE0004" REF.START="QS0004"/></TXT>
+            </NP>
+          </CONSID>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>3.</NO.P>
+          <TXT>Sidorna 6–7, skäl 36 första meningen</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>I stället för:</P>
+        <QUOT.S LEVEL="1">
+          <CONSID>
+            <NP>
+              <NO.P><QUOT.START CODE="201D" ID="QS0005" REF.END="QE0005"/>(36)</NO.P>
+              <TXT>[…], såvida inte beslut om ändamålen och medlen för behandling av personuppgifter […]<QUOT.END CODE="201D" ID="QE0005" REF.START="QS0005"/></TXT>
+            </NP>
+          </CONSID>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>ska det stå:</P>
+        <QUOT.S LEVEL="1">
+          <CONSID>
+            <NP>
+              <NO.P><QUOT.START CODE="201D" ID="QS0006" REF.END="QE0006"/>(36)</NO.P>
+              <TXT>[…], såvida inte beslut om ändamålen och medlen för behandlingen av personuppgifter […]<QUOT.END CODE="201D" ID="QE0006" REF.START="QS0006"/>.</TXT>
+            </NP>
+          </CONSID>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>4.</NO.P>
+          <TXT>Sidorna 9–10, skäl 50 sista meningen</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>I stället för:</P>
+        <QUOT.S LEVEL="1">
+          <CONSID>
+            <NP>
+              <NO.P><QUOT.START CODE="201D" ID="QS0007" REF.END="QE0007"/>(50)</NO.P>
+              <TXT>[…] särskilt de registrerades rimliga förväntningar till följd av förhållandet till den personuppgiftsansvarige i fråga om den art, den planerade ytterligare behandlingens konsekvenser för de registrerade samt förekomsten av lämpliga skyddsåtgärder för både den ursprungliga och den planerade ytterligare behandlingen.<QUOT.END CODE="201D" ID="QE0007" REF.START="QS0007"/></TXT>
+            </NP>
+          </CONSID>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>ska det stå:</P>
+        <QUOT.S LEVEL="1">
+          <CONSID>
+            <NP>
+              <NO.P><QUOT.START CODE="201D" ID="QS0008" REF.END="QE0008"/>(50)</NO.P>
+              <TXT>[…] särskilt de registrerades rimliga förväntningar till följd av förhållandet till den personuppgiftsansvarige när det gäller den fortsatta behandlingen, personuppgifternas art, konsekvenserna för de registrerade av den planerade fortsatta behandlingen samt förekomsten av lämpliga skyddsåtgärder för både den ursprungliga och den planerade ytterligare behandlingen.<QUOT.END CODE="201D" ID="QE0008" REF.START="QS0008"/></TXT>
+            </NP>
+          </CONSID>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>5.</NO.P>
+          <TXT>Sidan 10, skäl 51</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>I stället för:</P>
+        <QUOT.S LEVEL="1">
+          <CONSID>
+            <NP>
+              <NO.P><QUOT.START CODE="201D" ID="QS0009" REF.END="QE0009"/>(51)</NO.P>
+              <TXT>Personuppgifter som till sin natur är särskilt känsliga med hänsyn till grundläggande rättigheterna och friheter […]<QUOT.END CODE="201D" ID="QE0009" REF.START="QS0009"/></TXT>
+            </NP>
+          </CONSID>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>ska det stå:</P>
+        <QUOT.S LEVEL="1">
+          <CONSID>
+            <NP>
+              <NO.P><QUOT.START CODE="201D" ID="QS0010" REF.END="QE0010"/>(51)</NO.P>
+              <TXT>Personuppgifter som till sin natur är särskilt känsliga med hänsyn till grundläggande rättigheter och friheter […]<QUOT.END CODE="201D" ID="QE0010" REF.START="QS0010"/>.</TXT>
+            </NP>
+          </CONSID>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <?PAGE NO='3'?>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>6.</NO.P>
+          <TXT>Sidan 12, skäl 63 tredje meningen</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>I stället för:</P>
+        <QUOT.S LEVEL="1">
+          <CONSID>
+            <NP>
+              <NO.P><QUOT.START CODE="201D" ID="QS0011" REF.END="QE0011"/>(63)</NO.P>
+              <TXT>[…] Alla registrerade bör därför ha rätt att få kännedom och underrättelse om framför allt orsaken till att personuppgifterna behandlas, […]<QUOT.END CODE="201D" ID="QE0011" REF.START="QS0011"/></TXT>
+            </NP>
+          </CONSID>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>ska det stå:</P>
+        <QUOT.S LEVEL="1">
+          <CONSID>
+            <NP>
+              <NO.P><QUOT.START CODE="201D" ID="QS0012" REF.END="QE0012"/>(63)</NO.P>
+              <TXT>[…] Alla registrerade bör därför ha rätt att få kännedom och underrättelse om framför allt för vilka ändamål personuppgifterna behandlas, […]<QUOT.END CODE="201D" ID="QE0012" REF.START="QS0012"/>.</TXT>
+            </NP>
+          </CONSID>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>7.</NO.P>
+          <TXT>Sidan 14, skäl 71, sista meningen på första stycket och första meningen på andra stycket</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>I stället för:</P>
+        <QUOT.S LEVEL="1">
+          <CONSID>
+            <NP>
+              <NO.P><QUOT.START CODE="201D" ID="QS0013" REF.END="QE0013"/>(71)</NO.P>
+              <TXT>[…] Sådana åtgärder bör inte gälla barn.</TXT>
+              <P>I syfte att sörja för rättvis och transparent behandling med avseende på den registrerade, med beaktande av omständigheterna och det sammanhang i vilket personuppgifterna behandlas, bör den personuppgiftsansvarige använda adekvata matematiska eller statistiska förfaranden för profilering, genomföra tekniska och organisatoriska åtgärder som framför allt säkerställer att faktorer som kan medföra felaktigheter i personuppgifter korrigeras och att risken för fel minimeras samt säkra personuppgifterna på sådant sätt att man beaktar potentiella risker för den registrerades intressen och rättigheter och förhindrar bland annat diskriminerande effekter för fysiska personer, på grund av ras eller etniskt ursprung, politiska åsikter, religion eller övertygelse, medlemskap i fackföreningar, genetisk status eller hälsostatus eller sexuell läggning, eller som leder till åtgärder som får sådana effekter.<QUOT.END CODE="201D" ID="QE0013" REF.START="QS0013"/></P>
+            </NP>
+          </CONSID>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>ska det stå:</P>
+        <QUOT.S LEVEL="1">
+          <CONSID>
+            <NP>
+              <NO.P><QUOT.START CODE="201D" ID="QS0014" REF.END="QE0014"/>(71)</NO.P>
+              <TXT>[…] Sådana åtgärder bör inte gälla barn.</TXT>
+              <P>I syfte att sörja för rättvis och öppen behandling med avseende på den registrerade, med beaktande av omständigheterna och det sammanhang i vilket personuppgifterna behandlas, bör den personuppgiftsansvarige använda adekvata matematiska eller statistiska förfaranden för profilering, genomföra tekniska och organisatoriska åtgärder som framför allt säkerställer att faktorer som kan medföra felaktigheter i personuppgifter korrigeras och att risken för fel minimeras samt säkra personuppgifterna på sådant sätt att man beaktar potentiella risker för den registrerades intressen och rättigheter samt förhindra bland annat diskriminerande effekter för fysiska personer, på grund av ras eller etniskt ursprung, politiska åsikter, religion eller övertygelse, medlemskap i fackföreningar, genetisk status eller hälsostatus eller sexuell läggning, eller behandling som leder till åtgärder som får sådana effekter.<QUOT.END CODE="201D" ID="QE0014" REF.START="QS0014"/></P>
+            </NP>
+          </CONSID>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>8.</NO.P>
+          <TXT>Sidan 15, skäl 75</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>I stället för:</P>
+        <QUOT.S LEVEL="1">
+          <CONSID>
+            <NP>
+              <NO.P><QUOT.START CODE="201D" ID="QS0015" REF.END="QE0015"/>(75)</NO.P>
+              <TXT>[…] om genetiska uppgifter, uppgifter om hälsa eller sexualliv eller fällande domar i brottmål samt överträdelser eller därmed sammanhängande säkerhetsåtgärder behandlas, […]<QUOT.END CODE="201D" ID="QE0015" REF.START="QS0015"/></TXT>
+            </NP>
+          </CONSID>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>ska det stå:</P>
+        <QUOT.S LEVEL="1">
+          <CONSID>
+            <NP>
+              <NO.P><QUOT.START CODE="201D" ID="QS0016" REF.END="QE0016"/>(75)</NO.P>
+              <TXT>[…] om genetiska uppgifter, uppgifter om hälsa eller sexualliv eller fällande domar i brottmål samt lagöverträdelser som innefattar brott eller därmed sammanhängande säkerhetsåtgärder behandlas, […]<QUOT.END CODE="201D" ID="QE0016" REF.START="QS0016"/>.</TXT>
+            </NP>
+          </CONSID>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>9.</NO.P>
+          <TXT>Sidorna 15–16, skäl 80 första meningen</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>I stället för:</P>
+        <QUOT.S LEVEL="1">
+          <CONSID>
+            <NP>
+              <NO.P><QUOT.START CODE="201D" ID="QS0017" REF.END="QE0017"/>(80)</NO.P>
+              <TXT>[…] eller behandling av personuppgifter om fällande domar i brottmål samt överträdelser och det är osannolikt att […]<QUOT.END CODE="201D" ID="QE0017" REF.START="QS0017"/></TXT>
+            </NP>
+          </CONSID>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>ska det stå:</P>
+        <QUOT.S LEVEL="1">
+          <CONSID>
+            <NP>
+              <NO.P><QUOT.START CODE="201D" ID="QS0018" REF.END="QE0018"/>(80)</NO.P>
+              <TXT>[…] eller behandling av personuppgifter om fällande domar i brottmål samt lagöverträdelser som innefattar brott och det är osannolikt att […]<QUOT.END CODE="201D" ID="QE0018" REF.START="QS0018"/>.</TXT>
+            </NP>
+          </CONSID>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <?PAGE NO='4'?>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>10.</NO.P>
+          <TXT>Sidan 16, skäl 84 första meningen</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>I stället för:</P>
+        <QUOT.S LEVEL="1">
+          <CONSID>
+            <NP>
+              <NO.P><QUOT.START CODE="201D" ID="QS0019" REF.END="QE0019"/>(84)</NO.P>
+              <TXT>[…] en konsekvensbedömning utförs avseende datasskydd för att bedöma framför allt riskens ursprung, art, särdrag och allvar.<QUOT.END CODE="201D" ID="QE0019" REF.START="QS0019"/></TXT>
+            </NP>
+          </CONSID>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>ska det stå:</P>
+        <QUOT.S LEVEL="1">
+          <CONSID>
+            <NP>
+              <NO.P><QUOT.START CODE="201D" ID="QS0020" REF.END="QE0020"/>(84)</NO.P>
+              <TXT>[…] en konsekvensbedömning utförs avseende dataskydd för att bedöma framför allt riskens ursprung, art, särdrag och allvar.<QUOT.END CODE="201D" ID="QE0020" REF.START="QS0020"/></TXT>
+            </NP>
+          </CONSID>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>11.</NO.P>
+          <TXT>Sidan 17, skäl 90</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>I stället för:</P>
+        <QUOT.S LEVEL="1">
+          <CONSID>
+            <NP>
+              <NO.P><QUOT.START CODE="201D" ID="QS0021" REF.END="QE0021"/>(90)</NO.P>
+              <TXT>[…] bedöma den höga riskens specifika sannolikhetsgrad och allvar samt dess ursprung. Konsekvensbedömningen bör främst […]<QUOT.END CODE="201D" ID="QE0021" REF.START="QS0021"/></TXT>
+            </NP>
+          </CONSID>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>ska det stå:</P>
+        <QUOT.S LEVEL="1">
+          <CONSID>
+            <NP>
+              <NO.P><QUOT.START CODE="201D" ID="QS0022" REF.END="QE0022"/>(90)</NO.P>
+              <TXT>[…] bedöma den höga riskens specifika sannolikhetsgrad och allvar. Konsekvensbedömningen bör främst […]<QUOT.END CODE="201D" ID="QE0022" REF.START="QS0022"/>.</TXT>
+            </NP>
+          </CONSID>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>12.</NO.P>
+          <TXT>Sidan 18, skäl 91 andra meningen</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>I stället för:</P>
+        <QUOT.S LEVEL="1">
+          <CONSID>
+            <NP>
+              <NO.P><QUOT.START CODE="201D" ID="QS0023" REF.END="QE0023"/>(91)</NO.P>
+              <TXT>[…] särskilda kategorier av personuppgifter, biometriska uppgifter eller uppgifter om fällande domar i brottmål samt överträdelser eller därmed sammanhängande säkerhetsåtgärder. Likaså krävs […]<QUOT.END CODE="201D" ID="QE0023" REF.START="QS0023"/></TXT>
+            </NP>
+          </CONSID>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>ska det stå:</P>
+        <QUOT.S LEVEL="1">
+          <CONSID>
+            <NP>
+              <NO.P><QUOT.START CODE="201D" ID="QS0024" REF.END="QE0024"/>(91)</NO.P>
+              <TXT>[…] särskilda kategorier av personuppgifter, biometriska uppgifter eller uppgifter om fällande domar i brottmål samt lagöverträdelser som innefattar brott eller därmed sammanhängande säkerhetsåtgärder. Likaså krävs […]<QUOT.END CODE="201D" ID="QE0024" REF.START="QS0024"/>.</TXT>
+            </NP>
+          </CONSID>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>13.</NO.P>
+          <TXT>Sidan 18, skäl 97 första meningen</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>I stället för:</P>
+        <QUOT.S LEVEL="1">
+          <CONSID>
+            <NP>
+              <NO.P><QUOT.START CODE="201D" ID="QS0025" REF.END="QE0025"/>(97)</NO.P>
+              <TXT>[…] och uppgifter som rör fällande domar i brottmål och överträdelser, bör en person med sakkunskap i fråga om dataskyddslagstiftning och -förfaranden […]<QUOT.END CODE="201D" ID="QE0025" REF.START="QS0025"/></TXT>
+            </NP>
+          </CONSID>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>ska det stå:</P>
+        <QUOT.S LEVEL="1">
+          <CONSID>
+            <NP>
+              <NO.P><QUOT.START CODE="201D" ID="QS0026" REF.END="QE0026"/>(97)</NO.P>
+              <TXT>[…] och uppgifter som rör fällande domar i brottmål och lagöverträdelser som innefattar brott, bör en person med sakkunskap i fråga om dataskyddslagstiftning och -förfaranden […]<QUOT.END CODE="201D" ID="QE0026" REF.START="QS0026"/>.</TXT>
+            </NP>
+          </CONSID>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>14.</NO.P>
+          <TXT>Sidan 26, skäl 143 andra stycket första meningen</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>I stället för:</P>
+        <QUOT.S LEVEL="1">
+          <CONSID>
+            <P><QUOT.START CODE="201D" ID="QS0027" REF.END="QE0027"/>Om talan avslås eller avvisas av en tillsynsmyndighet, […]<QUOT.END CODE="201D" ID="QE0027" REF.START="QS0027"/></P>
+          </CONSID>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>ska det stå:</P>
+        <QUOT.S LEVEL="1">
+          <CONSID>
+            <P><QUOT.START CODE="201D" ID="QS0028" REF.END="QE0028"/>Om ett klagomål avslås eller avvisas av en tillsynsmyndighet, […]<QUOT.END CODE="201D" ID="QE0028" REF.START="QS0028"/>.</P>
+          </CONSID>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <?PAGE NO='5'?>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>15.</NO.P>
+          <TXT>Sidan 27, skäl 145</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>I stället för:</P>
+        <QUOT.S LEVEL="1">
+          <CONSID>
+            <NP>
+              <NO.P><QUOT.START CODE="201D" ID="QS0029" REF.END="QE0029"/>(145)</NO.P>
+              <TXT>[…] eller personuppgiftsbiträdet är etablerad eller där den registrerade är bosatt, såvida inte den personuppgiftsansvarige är en myndighet i en medlemsstat som agerar inom ramen för sin myndighetsutövning.<QUOT.END CODE="201D" ID="QE0029" REF.START="QS0029"/></TXT>
+            </NP>
+          </CONSID>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>ska det stå:</P>
+        <QUOT.S LEVEL="1">
+          <CONSID>
+            <NP>
+              <NO.P><QUOT.START CODE="201D" ID="QS0030" REF.END="QE0030"/>(145)</NO.P>
+              <TXT>[…] eller personuppgiftsbiträdet har ett verksamhetsställe eller där den registrerade är bosatt, såvida inte den personuppgiftsansvarige är en myndighet i en medlemsstat som agerar inom ramen för sina offentliga befogenheter.<QUOT.END CODE="201D" ID="QE0030" REF.START="QS0030"/></TXT>
+            </NP>
+          </CONSID>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>16.</NO.P>
+          <TXT>Sidan 29, skäl 155</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>I stället för:</P>
+        <QUOT.S LEVEL="1">
+          <CONSID>
+            <NP>
+              <NO.P><QUOT.START CODE="201D" ID="QS0031" REF.END="QE0031"/>(155)</NO.P>
+              <TXT>En medlemsstatsnationella rätt eller kollektivavtal, […], planering och organisering av arbetet samt hälsa och säkerhet på arbetsplatsen, […]<QUOT.END CODE="201D" ID="QE0031" REF.START="QS0031"/></TXT>
+            </NP>
+          </CONSID>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>ska det stå:</P>
+        <QUOT.S LEVEL="1">
+          <CONSID>
+            <NP>
+              <NO.P><QUOT.START CODE="201D" ID="QS0032" REF.END="QE0032"/>(155)</NO.P>
+              <TXT>En medlemsstats nationella rätt eller kollektivavtal, […], planering och organisering av arbetet, jämställdhet och mångfald i arbetslivet samt hälsa och säkerhet på arbetsplatsen, […]<QUOT.END CODE="201D" ID="QE0032" REF.START="QS0032"/>.</TXT>
+            </NP>
+          </CONSID>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>17.</NO.P>
+          <TXT>Sidan 30, skäl 162 sista meningen</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>I stället för:</P>
+        <QUOT.S LEVEL="1">
+          <CONSID>
+            <NP>
+              <NO.P><QUOT.START CODE="201D" ID="QS0033" REF.END="QE0033"/>(162)</NO.P>
+              <TXT>[…] till stöd för åtgärder eller beslut som avser en särskild fysiskperson.<QUOT.END CODE="201D" ID="QE0033" REF.START="QS0033"/></TXT>
+            </NP>
+          </CONSID>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>ska det stå:</P>
+        <QUOT.S LEVEL="1">
+          <CONSID>
+            <NP>
+              <NO.P><QUOT.START CODE="201D" ID="QS0034" REF.END="QE0034"/>(162)</NO.P>
+              <TXT>[…] till stöd för åtgärder eller beslut som avser en särskild fysisk person.<QUOT.END CODE="201D" ID="QE0034" REF.START="QS0034"/></TXT>
+            </NP>
+          </CONSID>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>18.</NO.P>
+          <TXT>Sidan 32, artikel 3.1</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>I stället för:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="003.001">
+            <NO.PARAG><QUOT.START CODE="201D" ID="QS0035" REF.END="QE0035"/>1.</NO.PARAG>
+            <ALINEA>Denna förordning ska tillämpas på behandlingen av personuppgifter inom ramen för den verksamhet som bedrivs av en personuppgiftsansvarig eller ett personuppgiftsbiträde som är etablerad i unionen, oavsett om behandlingen utförs i unionen eller inte.<QUOT.END CODE="201D" ID="QE0035" REF.START="QS0035"/></ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>ska det stå:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="003.001">
+            <NO.PARAG><QUOT.START CODE="201D" ID="QS0036" REF.END="QE0036"/>1.</NO.PARAG>
+            <ALINEA>Denna förordning ska tillämpas på behandlingen av personuppgifter inom ramen för den verksamhet som bedrivs på personuppgiftsansvarigas eller personuppgiftsbiträdens verksamhetsställen inom unionen, oavsett om behandlingen utförs i unionen eller inte.<QUOT.END CODE="201D" ID="QE0036" REF.START="QS0036"/></ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>19.</NO.P>
+          <TXT>Sidan 33, artikel 4.1</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>I stället för:</P>
+        <QUOT.S LEVEL="1">
+          <DLIST SEPARATOR=":">
+            <DLIST.ITEM>
+              <PREFIX><QUOT.START CODE="201D" ID="QS0037" REF.END="QE0037"/>1.</PREFIX>
+              <TERM>personuppgifter</TERM>
+              <DEFINITION>varje upplysning som avser en identifierad eller identifierbar fysisk person (nedan kallad <HT TYPE="ITALIC">en registrerad</HT>), varvid en identifierbarfysisk person […]<QUOT.END CODE="201D" ID="QE0037" REF.START="QS0037"/></DEFINITION>
+            </DLIST.ITEM>
+          </DLIST>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>ska det stå:</P>
+        <QUOT.S LEVEL="1">
+          <DLIST SEPARATOR=":">
+            <DLIST.ITEM>
+              <PREFIX><QUOT.START CODE="201D" ID="QS0038" REF.END="QE0038"/>1.</PREFIX>
+              <TERM>personuppgifter</TERM>
+              <DEFINITION>varje upplysning som avser en identifierad eller identifierbar fysisk person (nedan kallad <HT TYPE="ITALIC">en registrerad</HT>), varvid en identifierbar fysisk person […]<QUOT.END CODE="201D" ID="QE0038" REF.START="QS0038"/>.</DEFINITION>
+            </DLIST.ITEM>
+          </DLIST>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <?PAGE NO='6'?>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>20.</NO.P>
+          <TXT>Sidan 35, artikel 5.1 led d</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>I stället för:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201D" ID="QS0039" REF.END="QE0039"/>d)</NO.P>
+                <TXT>De ska vara korrekta och om nödvändigt uppdaterade. Alla rimliga åtgärder måste vidtas för att säkerställa att personuppgifter som är felaktiga i förhållande till de ändamål för vilka de behandlas raderas eller rättas utan dröjsmål (<HT TYPE="ITALIC">korrekthet</HT>).<QUOT.END CODE="201D" ID="QE0039" REF.START="QS0039"/></TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>ska det stå:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201D" ID="QS0040" REF.END="QE0040"/>d)</NO.P>
+                <TXT>De ska vara riktiga och om nödvändigt uppdaterade. Alla rimliga åtgärder måste vidtas för att säkerställa att personuppgifter som är felaktiga i förhållande till de ändamål för vilka de behandlas raderas eller rättas utan dröjsmål (<HT TYPE="ITALIC">riktighet</HT>).<QUOT.END CODE="201D" ID="QE0040" REF.START="QS0040"/></TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>21.</NO.P>
+          <TXT>Sidan 37, artikel 6.4 led c</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>I stället för:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201D" ID="QS0041" REF.END="QE0041"/>c)</NO.P>
+                <TXT>[…] om fällande domar i brottmål och överträdelser behandlas i enlighet med artikel 10.<QUOT.END CODE="201D" ID="QE0041" REF.START="QS0041"/></TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>ska det stå:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201D" ID="QS0042" REF.END="QE0042"/>c)</NO.P>
+                <TXT>[…] om fällande domar i brottmål och lagöverträdelser som innefattar brott behandlas i enlighet med artikel 10.<QUOT.END CODE="201D" ID="QE0042" REF.START="QS0042"/></TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>22.</NO.P>
+          <TXT>Sidan 39, artikel 9.2 led j</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>I stället för:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201D" ID="QS0043" REF.END="QE0043"/>j)</NO.P>
+                <TXT>[…], vilken ska stå i proportion till det eftersträvade syftet, vara förenligt med det väsentliga innehållet […]<QUOT.END CODE="201D" ID="QE0043" REF.START="QS0043"/></TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>ska det stå:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201D" ID="QS0044" REF.END="QE0044"/>j)</NO.P>
+                <TXT>[…], vilken ska stå i proportion till det eftersträvade syftet, vara förenlig med det väsentliga innehållet […]<QUOT.END CODE="201D" ID="QE0044" REF.START="QS0044"/>.</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>23.</NO.P>
+          <TXT>Sidan 39, artikel 10</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>I stället för:</P>
+        <QUOT.S LEVEL="1">
+          <ARTICLE IDENTIFIER="010">
+            <TI.ART><QUOT.START CODE="201D" ID="QS0045" REF.END="QE0045"/>Artikel 10</TI.ART>
+            <STI.ART>Behandling av personuppgifter som rör fällande domar i brottmål samt överträdelser</STI.ART>
+            <ALINEA>Behandling av personuppgifter som rör fällande domar i brottmål och överträdelser eller därmed sammanhängande säkerhetsåtgärder enligt artikel 6.1 får endast utföras under kontroll av myndighet eller då behandling är […]<QUOT.END CODE="201D" ID="QE0045" REF.START="QS0045"/></ALINEA>
+          </ARTICLE>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>ska det stå:</P>
+        <QUOT.S LEVEL="1">
+          <ARTICLE IDENTIFIER="010">
+            <TI.ART><QUOT.START CODE="201D" ID="QS0046" REF.END="QE0046"/>Artikel 10</TI.ART>
+            <STI.ART>Behandling av personuppgifter som rör fällande domar i brottmål samt lagöverträdelser som innefattar brott</STI.ART>
+            <ALINEA>Behandling av personuppgifter som rör fällande domar i brottmål och lagöverträdelser som innefattar brott eller därmed sammanhängande säkerhetsåtgärder enligt artikel 6.1 får endast utföras under kontroll av en myndighet eller då behandling är […]<QUOT.END CODE="201D" ID="QE0046" REF.START="QS0046"/>.</ALINEA>
+          </ARTICLE>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>24.</NO.P>
+          <TXT>Sidan 41, artikel 13.2, inledningen</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>I stället för:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="013.002">
+            <NO.PARAG><QUOT.START CODE="201D" ID="QS0047" REF.END="QE0047"/>2.</NO.PARAG>
+            <ALINEA>[…] för att säkerställa rättvis och transparent behandling:<QUOT.END CODE="201D" ID="QE0047" REF.START="QS0047"/></ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>ska det stå:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="013.002">
+            <NO.PARAG><QUOT.START CODE="201D" ID="QS0048" REF.END="QE0048"/>2.</NO.PARAG>
+            <ALINEA>[…] för att säkerställa rättvis och öppen behandling:<QUOT.END CODE="201D" ID="QE0048" REF.START="QS0048"/>.</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <?PAGE NO='7'?>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>25.</NO.P>
+          <TXT>Sidan 42, artikel 14.2, inledningen</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>I stället för:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="014.002">
+            <NO.PARAG><QUOT.START CODE="201D" ID="QS0049" REF.END="QE0049"/>2.</NO.PARAG>
+            <ALINEA>[…] för att säkerställa rättvis och transparent behandling när det gäller den registrerade:<QUOT.END CODE="201D" ID="QE0049" REF.START="QS0049"/></ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>ska det stå:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="014.002">
+            <NO.PARAG><QUOT.START CODE="201D" ID="QS0050" REF.END="QE0050"/>2.</NO.PARAG>
+            <ALINEA>[…] för att säkerställa rättvis och öppen behandling när det gäller den registrerade:<QUOT.END CODE="201D" ID="QE0050" REF.START="QS0050"/>.</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>26.</NO.P>
+          <TXT>Sidan 44, artikel 18.1 led a</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>I stället för:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201D" ID="QS0051" REF.END="QE0051"/>a)</NO.P>
+                <TXT>Den registrerade bestrider personuppgifternas korrekthet, under en tid som ger den personuppgiftsansvarige möjlighet att kontrollera om personuppgifterna är korrekta.<QUOT.END CODE="201D" ID="QE0051" REF.START="QS0051"/></TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>ska det stå:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201D" ID="QS0052" REF.END="QE0052"/>a)</NO.P>
+                <TXT>Den registrerade bestrider personuppgifternas riktighet, under en tid som ger den personuppgiftsansvarige möjlighet att kontrollera om personuppgifterna är riktiga.<QUOT.END CODE="201D" ID="QE0052" REF.START="QS0052"/></TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>27.</NO.P>
+          <TXT>Sidan 45, artikel 20.2</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>I stället för:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="020.002">
+            <NO.PARAG><QUOT.START CODE="201D" ID="QS0053" REF.END="QE0053"/>2</NO.PARAG>
+            <ALINEA>Vid utövandet av sin rätt […]<QUOT.END CODE="201D" ID="QE0053" REF.START="QS0053"/></ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>ska det stå:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="020.002">
+            <NO.PARAG><QUOT.START CODE="201D" ID="QS0054" REF.END="QE0054"/>2.</NO.PARAG>
+            <ALINEA>Vid utövandet av sin rätt […]<QUOT.END CODE="201D" ID="QE0054" REF.START="QS0054"/>.</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>28.</NO.P>
+          <TXT>Sidan 45, artikel 21.1 andra meningen</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>I stället för:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="021.001">
+            <NO.PARAG><QUOT.START CODE="201D" ID="QS0055" REF.END="QE0055"/>1.</NO.PARAG>
+            <ALINEA>[…] Den personuppgiftsansvarige får inte längre behandla personuppgifterna såvida denne inte kan påvisa tvingande berättigade skäl för behandlingen […]<QUOT.END CODE="201D" ID="QE0055" REF.START="QS0055"/></ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>ska det stå:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="021.001">
+            <NO.PARAG><QUOT.START CODE="201D" ID="QS0056" REF.END="QE0056"/>1.</NO.PARAG>
+            <ALINEA>[…] Den personuppgiftsansvarige får inte längre behandla personuppgifterna såvida denne inte kan påvisa avgörande berättigade skäl för behandlingen […]<QUOT.END CODE="201D" ID="QE0056" REF.START="QS0056"/>.</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>29.</NO.P>
+          <TXT>Sidan 48, artikel 27.2 led a</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>I stället för:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201D" ID="QS0057" REF.END="QE0057"/>a)</NO.P>
+                <TXT>[…], eller behandling av personuppgifter avseende fällande domar i brottmål samt överträdelser, som avses i artikel 10, […]<QUOT.END CODE="201D" ID="QE0057" REF.START="QS0057"/></TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>ska det stå:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201D" ID="QS0058" REF.END="QE0058"/>a)</NO.P>
+                <TXT>[…], eller behandling av personuppgifter avseende fällande domar i brottmål samt lagöverträdelser som innefattar brott, som avses i artikel 10, […]<QUOT.END CODE="201D" ID="QE0058" REF.START="QS0058"/>.</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <?PAGE NO='8'?>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>30.</NO.P>
+          <TXT>Sidan 51, artikel 30.5</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>I stället för:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="030.005">
+            <NO.PARAG><QUOT.START CODE="201D" ID="QS0059" REF.END="QE0059"/>5.</NO.PARAG>
+            <ALINEA>[…] om fällande domar i brottmål samt överträdelser som avses i artikel 10.<QUOT.END CODE="201D" ID="QE0059" REF.START="QS0059"/></ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>ska det stå:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="030.005">
+            <NO.PARAG><QUOT.START CODE="201D" ID="QS0060" REF.END="QE0060"/>5.</NO.PARAG>
+            <ALINEA>[…] om fällande domar i brottmål samt lagöverträdelser som innefattar brott, som avses i artikel 10.<QUOT.END CODE="201D" ID="QE0060" REF.START="QS0060"/></ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>31.</NO.P>
+          <TXT>Sidan 53, artikel 34.3 led a</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>I stället för:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201D" ID="QS0061" REF.END="QE0061"/>a)</NO.P>
+                <TXT>Den personuppgiftsansvarige har genomfört lämpliga tekniska och organisatoriska skyddsåtgärder och dessa åtgärder tillämpats på de personuppgifter som […]<QUOT.END CODE="201D" ID="QE0061" REF.START="QS0061"/></TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>ska det stå:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201D" ID="QS0062" REF.END="QE0062"/>a)</NO.P>
+                <TXT>Den personuppgiftsansvarige har genomfört lämpliga tekniska och organisatoriska skyddsåtgärder och dessa åtgärder har tillämpats på de personuppgifter som […]<QUOT.END CODE="201D" ID="QE0062" REF.START="QS0062"/>.</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>32.</NO.P>
+          <TXT>Sidan 53, artikel 34.4</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>I stället för:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="034.004">
+            <NO.PARAG><QUOT.START CODE="201D" ID="QS0063" REF.END="QE0063"/>4.</NO.PARAG>
+            <ALINEA>[…] en hög risk, kräva att personuppgiftsbiträdet gör det eller får besluta att något av de villkor som avses i punkt 3 uppfylls.<QUOT.END CODE="201D" ID="QE0063" REF.START="QS0063"/></ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>ska det stå:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="034.004">
+            <NO.PARAG><QUOT.START CODE="201D" ID="QS0064" REF.END="QE0064"/>4.</NO.PARAG>
+            <ALINEA>[…] en hög risk, kräva att den personuppgiftsansvarige gör det eller får besluta att något av de villkor som avses i punkt 3 uppfylls.<QUOT.END CODE="201D" ID="QE0064" REF.START="QS0064"/></ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>33.</NO.P>
+          <TXT>Sidan 53, artikel 35.3 led b</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>I stället för:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201D" ID="QS0065" REF.END="QE0065"/>b)</NO.P>
+                <TXT>[…] som rör fällande domar i brottmål och överträdelser som avses i artikel 10.<QUOT.END CODE="201D" ID="QE0065" REF.START="QS0065"/></TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>ska det stå:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201D" ID="QS0066" REF.END="QE0066"/>b)</NO.P>
+                <TXT>[…] som rör fällande domar i brottmål och lagöverträdelser som innefattar brott, som avses i artikel 10.<QUOT.END CODE="201D" ID="QE0066" REF.START="QS0066"/></TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>34.</NO.P>
+          <TXT>Sidan 55, artikel 37.1 led c</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>I stället för:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201D" ID="QS0067" REF.END="QE0067"/>c)</NO.P>
+                <TXT>den personuppgiftsansvariges eller personuppgiftsbiträdets kärnverksamhet består av behandling i stor omfattning av särskilda kategorier av uppgifter i enlighet med artikel 9 och personuppgifter som rör fällande domar i brottmål och överträdelser, som avses i artikel 10.<QUOT.END CODE="201D" ID="QE0067" REF.START="QS0067"/></TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>ska det stå:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201D" ID="QS0068" REF.END="QE0068"/>c)</NO.P>
+                <TXT>den personuppgiftsansvariges eller personuppgiftsbiträdets kärnverksamhet består av behandling i stor omfattning av särskilda kategorier av uppgifter i enlighet med artikel 9 eller personuppgifter som rör fällande domar i brottmål och lagöverträdelser som innefattar brott, som avses i artikel 10.<QUOT.END CODE="201D" ID="QE0068" REF.START="QS0068"/></TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <?PAGE NO='9'?>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>35.</NO.P>
+          <TXT>Sidan 55, artikel 37.2</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>I stället för:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="037.002">
+            <NO.PARAG><QUOT.START CODE="201D" ID="QS0069" REF.END="QE0069"/>2.</NO.PARAG>
+            <ALINEA>En koncern får utnämna ett enda dataskyddsombud om det på varje etableringsort är lätt att nå ett dataskyddsombud.<QUOT.END CODE="201D" ID="QE0069" REF.START="QS0069"/></ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>ska det stå:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="037.002">
+            <NO.PARAG><QUOT.START CODE="201D" ID="QS0070" REF.END="QE0070"/>2.</NO.PARAG>
+            <ALINEA>En koncern får utnämna ett enda dataskyddsombud om det på varje verksamhetsställe är lätt att nå ett dataskyddsombud.<QUOT.END CODE="201D" ID="QE0070" REF.START="QS0070"/></ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>36.</NO.P>
+          <TXT>Sidan 56, artikel 38.3</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>I stället för:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="038.003">
+            <NO.PARAG><QUOT.START CODE="201D" ID="QS0071" REF.END="QE0071"/>3.</NO.PARAG>
+            <ALINEA>Den personuppgiftsansvarige och personuppgiftsbiträdet ska säkerställa att uppgiftskyddsombudet inte tar emot […]<QUOT.END CODE="201D" ID="QE0071" REF.START="QS0071"/></ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>ska det stå:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="038.003">
+            <NO.PARAG><QUOT.START CODE="201D" ID="QS0072" REF.END="QE0072"/>3.</NO.PARAG>
+            <ALINEA>Den personuppgiftsansvarige och personuppgiftsbiträdet ska säkerställa att dataskyddsombudet inte tar emot […]<QUOT.END CODE="201D" ID="QE0072" REF.START="QS0072"/>.</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>37.</NO.P>
+          <TXT>Sidan 57, artikel 40.5, andra meningen</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>I stället för:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="040.005">
+            <NO.PARAG><QUOT.START CODE="201D" ID="QS0073" REF.END="QE0073"/>5.</NO.PARAG>
+            <ALINEA>[…] överensstämmer med denna förordning och ska godkänna ett det utkastet till kod, ändring eller utökning om den finner att tillräckliga garantier tillhandahålls.<QUOT.END CODE="201D" ID="QE0073" REF.START="QS0073"/></ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>ska det stå:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="040.005">
+            <NO.PARAG><QUOT.START CODE="201D" ID="QS0074" REF.END="QE0074"/>5.</NO.PARAG>
+            <ALINEA>[…] överensstämmer med denna förordning och ska godkänna utkastet till kod, ändring eller utökning om den finner att tillräckliga garantier tillhandahålls.<QUOT.END CODE="201D" ID="QE0074" REF.START="QS0074"/></ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>38.</NO.P>
+          <TXT>Sidan 58, artikel 41.3</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>I stället för:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="041.003">
+            <NO.PARAG><QUOT.START CODE="201D" ID="QS0075" REF.END="QE0075"/>3.</NO.PARAG>
+            <ALINEA>Den behöriga tillsynsmyndigheten ska inlämna utkastet till kriterier för ackreditering av ett organ som avses i punkt 1 i den här artikeln till styrelsen i enlighet med den mekanism för enhetlighet som avses i artikel 63.<QUOT.END CODE="201D" ID="QE0075" REF.START="QS0075"/></ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>ska det stå:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="041.003">
+            <NO.PARAG><QUOT.START CODE="201D" ID="QS0076" REF.END="QE0076"/>3.</NO.PARAG>
+            <ALINEA>Den behöriga tillsynsmyndigheten ska inlämna utkastet till krav för ackreditering av ett organ som avses i punkt 1 i den här artikeln till styrelsen i enlighet med den mekanism för enhetlighet som avses i artikel 63.<QUOT.END CODE="201D" ID="QE0076" REF.START="QS0076"/></ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>39.</NO.P>
+          <TXT>Sidan 58, artikel 41.5</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>I stället för:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="041.005">
+            <NO.PARAG><QUOT.START CODE="201D" ID="QS0077" REF.END="QE0077"/>5.</NO.PARAG>
+            <ALINEA>Den behöriga tillsynsmyndigheten ska återkalla ackrediteringen av ett organ som avses i punkt 1 om villkoren för ackrediteringen inte, eller inte längre, uppfylls eller om åtgärder som vidtagits av organet strider mot denna förordning.<QUOT.END CODE="201D" ID="QE0077" REF.START="QS0077"/></ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>ska det stå:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="041.005">
+            <NO.PARAG><QUOT.START CODE="201D" ID="QS0078" REF.END="QE0078"/>5.</NO.PARAG>
+            <ALINEA>Den behöriga tillsynsmyndigheten ska återkalla ackrediteringen av ett organ som avses i punkt 1 om kraven för ackrediteringen inte, eller inte längre, uppfylls eller om åtgärder som vidtagits av organet strider mot denna förordning.<QUOT.END CODE="201D" ID="QE0078" REF.START="QS0078"/></ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <?PAGE NO='10'?>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>40.</NO.P>
+          <TXT>Sidan 59, artikel 42.7</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>I stället för:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="042.007">
+            <NO.PARAG><QUOT.START CODE="201D" ID="QS0079" REF.END="QE0079"/>7.</NO.PARAG>
+            <ALINEA>Certifiering ska utfärdas till en personuppgiftsansvarig eller ett personuppgiftsbiträde för en period på högst tre år och får förnyas på samma villkor under förutsättning att kraven fortsätter att vara uppfyllda. Certifiering ska, i tillämpliga fall, återkallas av de certifieringsorgan som avses i artikel 43 eller av den behöriga tillsynsmyndigheten om kraven för certifieringen inte eller inte längre uppfylls.<QUOT.END CODE="201D" ID="QE0079" REF.START="QS0079"/></ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>ska det stå:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="042.007">
+            <NO.PARAG><QUOT.START CODE="201D" ID="QS0080" REF.END="QE0080"/>7.</NO.PARAG>
+            <ALINEA>Certifiering ska utfärdas till en personuppgiftsansvarig eller ett personuppgiftsbiträde för en period på högst tre år och får förnyas på samma villkor under förutsättning att de relevanta kriterierna fortsätter att vara uppfyllda. Certifiering ska, i tillämpliga fall, återkallas av de certifieringsorgan som avses i artikel 43 eller av den behöriga tillsynsmyndigheten om kriterierna för certifieringen inte eller inte längre uppfylls.<QUOT.END CODE="201D" ID="QE0080" REF.START="QS0080"/></ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>41.</NO.P>
+          <TXT>Sidan 59, artikel 43.1, sista meningen</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>I stället för:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="043.001">
+            <NO.PARAG><QUOT.START CODE="201D" ID="QS0081" REF.END="QE0081"/>1.</NO.PARAG>
+            <ALINEA>[…] Medlemsstat ska säkerställa att dessa certifieringsorgan är ackrediterade av en av eller båda följande:<QUOT.END CODE="201D" ID="QE0081" REF.START="QS0081"/></ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>ska det stå:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="043.001">
+            <NO.PARAG><QUOT.START CODE="201D" ID="QS0082" REF.END="QE0082"/>1.</NO.PARAG>
+            <ALINEA>[…] Medlemsstaterna ska säkerställa att dessa certifieringsorgan är ackrediterade av en av eller båda följande:<QUOT.END CODE="201D" ID="QE0082" REF.START="QS0082"/>.</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>42.</NO.P>
+          <TXT>Sidan 60, artikel 43.3, första meningen</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>I stället för:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="043.003">
+            <NO.PARAG><QUOT.START CODE="201D" ID="QS0083" REF.END="QE0083"/>3.</NO.PARAG>
+            <ALINEA>Ackrediteringen av certifieringsorgan som avses i punkterna 1 och 2 i denna artikel ska ske på grundval av kriterier som godkänts av den tillsynsmyndighet som är behörig enligt artikel 55 eller 56, eller av styrelsen enligt artikel 63.<QUOT.END CODE="201D" ID="QE0083" REF.START="QS0083"/></ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>ska det stå:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="043.003">
+            <NO.PARAG><QUOT.START CODE="201D" ID="QS0084" REF.END="QE0084"/>3.</NO.PARAG>
+            <ALINEA>Ackrediteringen av certifieringsorgan som avses i punkterna 1 och 2 i denna artikel ska ske på grundval av krav som godkänts av den tillsynsmyndighet som är behörig enligt artikel 55 eller 56, eller av styrelsen enligt artikel 63.<QUOT.END CODE="201D" ID="QE0084" REF.START="QS0084"/></ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>43.</NO.P>
+          <TXT>Sidan 60, artikel 43.6</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>I stället för:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="043.006">
+            <NO.PARAG><QUOT.START CODE="201D" ID="QS0085" REF.END="QE0085"/>6.</NO.PARAG>
+            <ALINEA>De krav som avses i punkt 3 i den här artikeln och de kriterier som avses i artikel 42.5 ska offentliggöras av tillsynsmyndigheten i ett lättillgängligt format. Tillsynsmyndigheterna ska också översända dessa krav och kriterier till styrelsen. Styrelsen ska samla alla certifieringsmekanismer och sigill för dataskydd i ett register och offentliggöra dem på lämpligt sätt.<QUOT.END CODE="201D" ID="QE0085" REF.START="QS0085"/></ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>ska det stå:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="043.006">
+            <NO.PARAG><QUOT.START CODE="201D" ID="QS0086" REF.END="QE0086"/>6.</NO.PARAG>
+            <ALINEA>De krav som avses i punkt 3 i den här artikeln och de kriterier som avses i artikel 42.5 ska offentliggöras av tillsynsmyndigheten i ett lättillgängligt format. Tillsynsmyndigheterna ska också översända dessa krav och kriterier till styrelsen.<QUOT.END CODE="201D" ID="QE0086" REF.START="QS0086"/></ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <?PAGE NO='11'?>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>44.</NO.P>
+          <TXT>Sidan 62, artikel 46.2, inledningen</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>I stället för:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="046.002">
+            <NO.PARAG><QUOT.START CODE="201D" ID="QS0087" REF.END="QE0087"/>2.</NO.PARAG>
+            <ALINEA>Lämpliga skyddsåtgärder enligt punkt 1 får, utan att det krävs särskilt tillstånd från en övervakningsmyndighet, ta formen av<QUOT.END CODE="201D" ID="QE0087" REF.START="QS0087"/></ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>ska det stå:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="046.002">
+            <NO.PARAG><QUOT.START CODE="201D" ID="QS0088" REF.END="QE0088"/>2.</NO.PARAG>
+            <ALINEA>Lämpliga skyddsåtgärder enligt punkt 1 får, utan att det krävs särskilt tillstånd från en tillsynsmyndighet, ta formen av<QUOT.END CODE="201D" ID="QE0088" REF.START="QS0088"/>.</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>45.</NO.P>
+          <TXT>Sidan 64, artikel 49.1 andra stycket första meningen</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>I stället för:</P>
+        <QUOT.S LEVEL="1">
+          <ALINEA><QUOT.START CODE="201D" ID="QS0089" REF.END="QE0089"/>[…] äga rum endast omöverföringen inte är repetitiv, […]<QUOT.END CODE="201D" ID="QE0089" REF.START="QS0089"/></ALINEA>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>ska det stå:</P>
+        <QUOT.S LEVEL="1">
+          <ALINEA><QUOT.START CODE="201D" ID="QS0090" REF.END="QE0090"/>[…] äga rum endast om överföringen inte är repetitiv, […]<QUOT.END CODE="201D" ID="QE0090" REF.START="QS0090"/>.</ALINEA>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>46.</NO.P>
+          <TXT>Sidan 65, artikel 49.3</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>I stället för:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="049.003">
+            <NO.PARAG><QUOT.START CODE="201D" ID="QS0091" REF.END="QE0091"/>3.</NO.PARAG>
+            <ALINEA>[…] som vidtas av offentliga myndigheter som ett led i myndighetsutövning.<QUOT.END CODE="201D" ID="QE0091" REF.START="QS0091"/></ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>ska det stå:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="049.003">
+            <NO.PARAG><QUOT.START CODE="201D" ID="QS0092" REF.END="QE0092"/>3.</NO.PARAG>
+            <ALINEA>[…] som vidtas av offentliga myndigheter som ett led i utövandet av deras offentliga befogenheter.<QUOT.END CODE="201D" ID="QE0092" REF.START="QS0092"/></ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>47.</NO.P>
+          <TXT>Sidan 67, artikel 54.2</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>I stället för:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="054.002">
+            <NO.PARAG><QUOT.START CODE="201D" ID="QS0093" REF.END="QE0093"/>2.</NO.PARAG>
+            <ALINEA>[…] som de fått kunskap om under utförandet av deras uppgifter eller utövandet av deras befogenheter. Under mandatperioden […]<QUOT.END CODE="201D" ID="QE0093" REF.START="QS0093"/></ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>ska det stå:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="054.002">
+            <NO.PARAG><QUOT.START CODE="201D" ID="QS0094" REF.END="QE0094"/>2.</NO.PARAG>
+            <ALINEA>[…] som de fått kunskap om under utförandet av sina uppgifter eller utövandet av sina befogenheter. Under mandatperioden […]<QUOT.END CODE="201D" ID="QE0094" REF.START="QS0094"/>.</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>48.</NO.P>
+          <TXT>Sidan 68, artikel 56.6</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>I stället för:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="056.006">
+            <NO.PARAG><QUOT.START CODE="201D" ID="QS0095" REF.END="QE0095"/>6.</NO.PARAG>
+            <ALINEA>[…] när det gäller den registreringsansvariges eller den personuppgiftsbiträdets gränsöverskridande behandling.<QUOT.END CODE="201D" ID="QE0095" REF.START="QS0095"/></ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>ska det stå:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="056.006">
+            <NO.PARAG><QUOT.START CODE="201D" ID="QS0096" REF.END="QE0096"/>6.</NO.PARAG>
+            <ALINEA>[…] när det gäller den personuppgiftsansvariges eller personuppgiftsbiträdets gränsöverskridande behandling.<QUOT.END CODE="201D" ID="QE0096" REF.START="QS0096"/></ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <?PAGE NO='12'?>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>49.</NO.P>
+          <TXT>Sidan 69, artikel 57.1, led p</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>I stället för:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201D" ID="QS0097" REF.END="QE0097"/>p)</NO.P>
+                <TXT>Utarbeta och offentliggöra kriterier för ackreditering av ett organ för övervakning av uppförandekoder enligt artikel 41 och ett certifieringsorgan enligt artikel 43.<QUOT.END CODE="201D" ID="QE0097" REF.START="QS0097"/></TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>ska det stå:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201D" ID="QS0098" REF.END="QE0098"/>p)</NO.P>
+                <TXT>Utarbeta och offentliggöra kraven för ackreditering av ett organ för övervakning av uppförandekoder enligt artikel 41 och av ett certifieringsorgan enligt artikel 43.<QUOT.END CODE="201D" ID="QE0098" REF.START="QS0098"/></TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>50.</NO.P>
+          <TXT>Sidan 70, artikel 58.2 led d</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>I stället för:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201D" ID="QS0099" REF.END="QE0099"/>d)</NO.P>
+                <TXT>Förelägga en personuppgiftsansvarig eller ett personuppgiftsbiträde att se till att behandlingen sker […],<QUOT.END CODE="201D" ID="QE0099" REF.START="QS0099"/></TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>ska det stå:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201D" ID="QS0100" REF.END="QE0100"/>d)</NO.P>
+                <TXT>Förelägga den personuppgiftsansvarige eller personuppgiftsbiträdet att se till att behandlingen sker […],<QUOT.END CODE="201D" ID="QE0100" REF.START="QS0100"/>.</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>51.</NO.P>
+          <TXT>Sidan 73, artikel 62.3</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>I stället för:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="062.003">
+            <NO.PARAG><QUOT.START CODE="201D" ID="QS0101" REF.END="QE0101"/>3.</NO.PARAG>
+            <ALINEA>En tillsynsmyndighet får, i enlighet med medlemsstatens nationella rätt och efter godkännande från ursprungslandets tillsynsmyndighet, tilldela befogenheter, inklusive utredningsbefogenheter, till ledamöter eller personal från ursprungslandets tillsynsmyndighet som deltar i gemensamma insatser eller, i den mån lagstiftningen i den medlemsstat som är värdland för tillsynsmyndigheten tillåter detta, medge att ursprungslandets tillsynsmyndighets ledamöter eller personal utövar utredningsbefogenheter enligt lagstiftningen i ursprungslandets tillsynsmyndighets medlemsstat. Sådana utredningsbefogenheter får endast utövas under vägledning och i närvaro av ledamöter eller personal från värdlandets tillsynsmyndighet. Ledamöter och personal från ursprungslandets tillsynsmyndighet ska omfattas av den medlemsstats nationella rätt som gäller för värdlandets tillsynsmyndighet.<QUOT.END CODE="201D" ID="QE0101" REF.START="QS0101"/></ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>ska det stå:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="062.003">
+            <NO.PARAG><QUOT.START CODE="201D" ID="QS0102" REF.END="QE0102"/>3.</NO.PARAG>
+            <ALINEA>En tillsynsmyndighet får, i enlighet med medlemsstatens nationella rätt och efter godkännande från den utsändande tillsynsmyndigheten, tilldela befogenheter, inklusive utredningsbefogenheter, till ledamöter eller personal från den utsändande tillsynsmyndigheten som deltar i gemensamma insatser eller, i den mån lagstiftningen i värdtillsynsmyndighetens medlemsstat tillåter detta, medge att den utsändande tillsynsmyndighetens ledamöter eller personal utövar utredningsbefogenheter enligt lagstiftningen i den utsändande tillsynsmyndighetens medlemsstat. Sådana utredningsbefogenheter får endast utövas under vägledning och i närvaro av ledamöter eller personal från värdtillsynsmyndigheten. Ledamöter och personal från den utsändande tillsynsmyndigheten ska omfattas av lagstiftningen i värdtillsynsmyndighetens medlemsstat.<QUOT.END CODE="201D" ID="QE0102" REF.START="QS0102"/></ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>52.</NO.P>
+          <TXT>Sidan 73, artikel 62.4</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>I stället för:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="062.004">
+            <NO.PARAG><QUOT.START CODE="201D" ID="QS0103" REF.END="QE0103"/>4.</NO.PARAG>
+            <ALINEA>Om personal från ursprungslandets tillsynsmyndighet verkar i en annan medlemsstat […]<QUOT.END CODE="201D" ID="QE0103" REF.START="QS0103"/></ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>ska det stå:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="062.004">
+            <NO.PARAG><QUOT.START CODE="201D" ID="QS0104" REF.END="QE0104"/>4.</NO.PARAG>
+            <ALINEA>Om personal från en utsändande tillsynsmyndighet verkar i en annan medlemsstat […]<QUOT.END CODE="201D" ID="QE0104" REF.START="QS0104"/>.</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <?PAGE NO='13'?>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>53.</NO.P>
+          <TXT>Sidan 74, artikel 64.1 c</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>I stället för:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201D" ID="QS0105" REF.END="QE0105"/>c)</NO.P>
+                <TXT>syftar till att godkänna kriterierna för ackreditering av ett organ enligt artikel 41.3 eller ett certifieringsorgan enligt artikel 43.3,<QUOT.END CODE="201D" ID="QE0105" REF.START="QS0105"/></TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>ska det stå:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201D" ID="QS0106" REF.END="QE0106"/>c)</NO.P>
+                <TXT>syftar till att godkänna kraven för ackreditering av ett organ enligt artikel 41.3 eller av ett certifieringsorgan enligt artikel 43.3 eller de kriterier för certifiering som avses i artikel 42.5,<QUOT.END CODE="201D" ID="QE0106" REF.START="QS0106"/>.</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>54.</NO.P>
+          <TXT>Sidan 74, artikel 64 punkterna 6, 7 och 8</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>I stället för:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="064.006">
+            <NO.PARAG><QUOT.START CODE="201D" ID="QS0107" REF.END="QE0107"/>6.</NO.PARAG>
+            <ALINEA>Den behöriga tillsynsmyndigheten får inte anta sitt utkast till beslut enligt punkt 1 inom den period som avses i punkt 3.</ALINEA>
+          </PARAG>
+          <PARAG IDENTIFIER="064.007">
+            <NO.PARAG>7.</NO.PARAG>
+            <ALINEA>Den tillsynsmyndighet som avses i punkt 1 ska ta största möjliga hänsyn till styrelsens yttrande och ska, inom två veckor efter att yttrandet inkommit, i ett standardiserat elektroniskt format meddela styrelsens ordförande om huruvida den kommer att hålla fast vid eller ändra sitt utkast till beslut, och i förekommande fall översända det ändrade utkastet till beslut.</ALINEA>
+          </PARAG>
+          <PARAG IDENTIFIER="064.008">
+            <NO.PARAG>8.</NO.PARAG>
+            <ALINEA>Om den berörda tillsynsmyndigheten underrättar styrelsens ordförande inom den period som avses i punkt 7 i den här artikeln om att den inte avser att följa styrelsens yttrande, helt eller delvis, och tillhandahåller en relevant motivering, ska artikel 65.1 tillämpas.<QUOT.END CODE="201D" ID="QE0107" REF.START="QS0107"/></ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>ska det stå:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="064.006">
+            <NO.PARAG><QUOT.START CODE="201D" ID="QS0108" REF.END="QE0108"/>6.</NO.PARAG>
+            <ALINEA>Den behöriga tillsynsmyndighet som avses i punkt 1 får inte anta sitt utkast till beslut enligt punkt 1 inom den period som avses i punkt 3.</ALINEA>
+          </PARAG>
+          <PARAG IDENTIFIER="064.007">
+            <NO.PARAG>7.</NO.PARAG>
+            <ALINEA>Den behöriga tillsynsmyndighet som avses i punkt 1 ska ta största möjliga hänsyn till styrelsens yttrande och ska, inom två veckor efter att yttrandet inkommit, i ett standardiserat elektroniskt format meddela styrelsens ordförande om huruvida den kommer att hålla fast vid eller ändra sitt utkast till beslut, och i förekommande fall översända det ändrade utkastet till beslut.</ALINEA>
+          </PARAG>
+          <PARAG IDENTIFIER="064.008">
+            <NO.PARAG>8.</NO.PARAG>
+            <ALINEA>Om den behöriga tillsynsmyndighet som avses i punkt 1 underrättar styrelsens ordförande inom den period som avses i punkt 7 i denna artikel om att den inte avser att följa styrelsens yttrande, helt eller delvis, och tillhandahåller en relevant motivering, ska artikel 65.1 tillämpas.<QUOT.END CODE="201D" ID="QE0108" REF.START="QS0108"/></ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>55.</NO.P>
+          <TXT>Sidan 74, artikel 65.1 a</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>I stället för:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201D" ID="QS0109" REF.END="QE0109"/>a)</NO.P>
+                <TXT>Om en berörd tillsynsmyndighet i ett fall som avses i artikel 60.4 har gjort en relevant och motiverad invändning mot ett utkast till beslut av den ansvariga myndigheten, eller om den ansvariga myndigheten har avslagit denna invändning med motiveringen att den inte var relevant eller motiverad. […]<QUOT.END CODE="201D" ID="QE0109" REF.START="QS0109"/></TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>ska det stå:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201D" ID="QS0110" REF.END="QE0110"/>a)</NO.P>
+                <TXT>Om en berörd tillsynsmyndighet i ett fall som avses i artikel 60.4 har gjort en relevant och motiverad invändning mot ett utkast till beslut av den ansvariga tillsynsmyndigheten och den ansvariga tillsynsmyndigheten inte har instämt i invändningen eller har avslagit denna invändning med motiveringen att den inte var relevant eller motiverad. […]<QUOT.END CODE="201D" ID="QE0110" REF.START="QS0110"/>.</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <?PAGE NO='14'?>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>56.</NO.P>
+          <TXT>Sidan 76, artikel 69.2</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>I stället för:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="069.002">
+            <NO.PARAG><QUOT.START CODE="201D" ID="QS0111" REF.END="QE0111"/>2.</NO.PARAG>
+            <ALINEA>Utan att detta påverkar kommissionens rätt att lämna en begäran enligt artikel 70.1 b och 70.2 ska styrelsen när den fullgör sina uppgifter eller utövar sina befogenheter varken begära eller ta emot instruktioner av någon.<QUOT.END CODE="201D" ID="QE0111" REF.START="QS0111"/></ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>ska det stå:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="069.002">
+            <NO.PARAG><QUOT.START CODE="201D" ID="QS0112" REF.END="QE0112"/>2.</NO.PARAG>
+            <ALINEA>Utan att detta påverkar kommissionens rätt att lämna en begäran enligt artikel 70.1 och 70.2 ska styrelsen när den fullgör sina uppgifter eller utövar sina befogenheter varken begära eller ta emot instruktioner av någon.<QUOT.END CODE="201D" ID="QE0112" REF.START="QS0112"/></ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>57.</NO.P>
+          <TXT>Sidan 77, artikel 70.1 led l</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>I stället för:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201D" ID="QS0113" REF.END="QE0113"/>l)</NO.P>
+                <TXT>se över den praktiska tillämpningen av de riktlinjer och rekommendationer samt den bästa praxis som avses i leden e och f,<QUOT.END CODE="201D" ID="QE0113" REF.START="QS0113"/></TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>ska det stå:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201D" ID="QS0114" REF.END="QE0114"/>l)</NO.P>
+                <TXT>se över den praktiska tillämpningen av riktlinjerna, rekommendationerna och bästa praxisen,<QUOT.END CODE="201D" ID="QE0114" REF.START="QS0114"/>.</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>58.</NO.P>
+          <TXT>Sidan 77, artikel 70.1 led o</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>I stället för:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201D" ID="QS0115" REF.END="QE0115"/>o)</NO.P>
+                <TXT>ackreditera certifieringsorgan och utföra sin periodiska översyn i enlighet med artikel 43 och föra ett offentligt register över ackrediterade organ i enlighet med artikel 43.6 och över de ackrediterade personuppgiftsansvariga eller personuppgiftsbiträdena som är etablerade i tredjeländer i enlighet med artikel 42.7,<QUOT.END CODE="201D" ID="QE0115" REF.START="QS0115"/></TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>ska det stå:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201D" ID="QS0116" REF.END="QE0116"/>o)</NO.P>
+                <TXT>godkänna kriterierna för certifiering i enlighet med artikel 42.5 och föra ett offentligt register över certifieringsmekanismer och sigill och märkningar för dataskydd i enlighet med artikel 42.8 och över de certifierade personuppgiftsansvariga eller personuppgiftsbiträden som är etablerade i tredjeländer i enlighet med artikel 42.7,<QUOT.END CODE="201D" ID="QE0116" REF.START="QS0116"/>.</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>59.</NO.P>
+          <TXT>Sidan 77, artikel 70.1 led p</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>I stället för:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201D" ID="QS0117" REF.END="QE0117"/>p)</NO.P>
+                <TXT>närmare ange de krav som avses i artikel 43.3 i syfte att ackreditera certifieringsorgan enligt artikel 42,<QUOT.END CODE="201D" ID="QE0117" REF.START="QS0117"/></TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>ska det stå:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201D" ID="QS0118" REF.END="QE0118"/>p)</NO.P>
+                <TXT>godkänna de krav som avses i artikel 43.3 i syfte att ackreditera certifieringsorgan som avses i artikel 43,<QUOT.END CODE="201D" ID="QE0118" REF.START="QS0118"/>.</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>60.</NO.P>
+          <TXT>Sidan 80, artikel 78.2</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>I stället för:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="078.002">
+            <NO.PARAG><QUOT.START CODE="201D" ID="QS0119" REF.END="QE0119"/>2.</NO.PARAG>
+            <ALINEA>[…] om hur det fortskrider med det klagomål som ingetts med stöd av artikel 77 eller vilket beslut som har fattats med anledning av det.<QUOT.END CODE="201D" ID="QE0119" REF.START="QS0119"/></ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>ska det stå:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="078.002">
+            <NO.PARAG><QUOT.START CODE="201D" ID="QS0120" REF.END="QE0120"/>2.</NO.PARAG>
+            <ALINEA>[…] om hur arbetet med det klagomål som ingetts med stöd av artikel 77 fortskrider eller om dess resultat.<QUOT.END CODE="201D" ID="QE0120" REF.START="QS0120"/></ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <?PAGE NO='15'?>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>61.</NO.P>
+          <TXT>Sidan 80, artikel 79.2</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>I stället för:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="079.002">
+            <NO.PARAG><QUOT.START CODE="201D" ID="QS0121" REF.END="QE0121"/>2.</NO.PARAG>
+            <ALINEA>[…] där den personuppgiftsansvarige eller personuppgiftsbiträdet är etablerad. Alternativt får sådan talan väckas […] som agerar inom ramen för sin myndighetsutövning.<QUOT.END CODE="201D" ID="QE0121" REF.START="QS0121"/></ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>ska det stå:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="079.002">
+            <NO.PARAG><QUOT.START CODE="201D" ID="QS0122" REF.END="QE0122"/>2.</NO.PARAG>
+            <ALINEA>[…] där den personuppgiftsansvarige eller personuppgiftsbiträdet har ett verksamhetsställe. Alternativt får sådan talan väckas […] som agerar inom ramen för sina offentliga befogenheter.<QUOT.END CODE="201D" ID="QE0122" REF.START="QS0122"/></ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>62.</NO.P>
+          <TXT>Sidan 81, artikel 81.2</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>I stället för:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="081.002">
+            <NO.PARAG><QUOT.START CODE="201D" ID="QS0123" REF.END="QE0123"/>2.</NO.PARAG>
+            <ALINEA>[…] än den där förfarandena först inleddes vilandeförklara förfarandena.<QUOT.END CODE="201D" ID="QE0123" REF.START="QS0123"/></ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>ska det stå:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="081.002">
+            <NO.PARAG><QUOT.START CODE="201D" ID="QS0124" REF.END="QE0124"/>2.</NO.PARAG>
+            <ALINEA>[…] än den där förfarandena först inleddes vilandeförklara sina förfaranden.<QUOT.END CODE="201D" ID="QE0124" REF.START="QS0124"/></ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+  </CONTENTS.CORR>
+</CORR>

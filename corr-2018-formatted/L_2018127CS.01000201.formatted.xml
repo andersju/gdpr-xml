@@ -1,0 +1,884 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CORR xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://formex.publications.europa.eu/schema/formex-05.56-20160701.xd">
+  <BIB.INSTANCE>
+    <DOCUMENT.REF FILE="L_2018127CS.01000201.doc.xml">
+      <COLL>L</COLL>
+      <NO.OJ>127</NO.OJ>
+      <YEAR>2018</YEAR>
+      <LG.OJ>CS</LG.OJ>
+      <PAGE.FIRST>2</PAGE.FIRST>
+      <PAGE.SEQ>1</PAGE.SEQ>
+      <VOLUME.REF>01</VOLUME.REF>
+    </DOCUMENT.REF>
+    <DATE ISO="20180523">20180523</DATE>
+    <LG.DOC>CS</LG.DOC>
+    <NO.SEQ>0002</NO.SEQ>
+    <PAGE.FIRST>2</PAGE.FIRST>
+    <PAGE.SEQ>1</PAGE.SEQ>
+    <PAGE.LAST>7</PAGE.LAST>
+    <PAGE.TOTAL>6</PAGE.TOTAL>
+  </BIB.INSTANCE>
+  <TITLE>
+    <TI>
+      <P>Oprava nařízení Evropského parlamentu a Rady (EU) 2016/679 ze dne <DATE ISO="20160427">27. dubna 2016</DATE> o ochraně fyzických osob v souvislosti se zpracováním osobních údajů a o volném pohybu těchto údajů a o zrušení směrnice 95/46/ES (obecné nařízení o ochraně osobních údajů)</P>
+      <P>(<REF.DOC.OJ COLL="L" DATE.PUB="20160504" NO.OJ="119">Úřední věstník Evropské unie L 119 ze dne 4. května 2016</REF.DOC.OJ>)</P>
+    </TI>
+  </TITLE>
+  <CONTENTS.CORR>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>1)</NO.P>
+          <TXT>Strana 14, 71. bod odůvodnění, pátá a šestá věta:</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>místo:</P>
+        <QUOT.S LEVEL="1">
+          <CONSID>
+            <NP>
+              <NO.P><QUOT.START CODE="201E" ID="QS0001" REF.END="QE0001"/>(71)</NO.P>
+              <TXT>… Toto opatření by se nemělo týkat dítěte.</TXT>
+              <P>V zájmu zajištění spravedlivého a transparentního zpracování ve vztahu k subjektu údajů a s přihlédnutím ke konkrétním okolnostem a souvislostem, za kterých se dané osobní údaje zpracovávají, by měl správce použít vhodné matematické nebo statistické postupy profilování, zavést technická a organizační opatření, která zejména zajistí opravu faktorů vedoucích k nepřesnosti osobních údajů a minimalizaci rizika chyb, a zabezpečit osobní údaje takovým způsobem, který zohledňuje potenciální rizika pro zájmy a práva subjektu údajů a který mimo jiné předchází diskriminačním účinkům vůči fyzickým osobám na základě rasy nebo etnického původu, politických názorů, náboženského vyznání nebo přesvědčení, členství v odborech, genetických údajů nebo zdravotního stavu či sexuální orientace nebo předchází přijímání opatření, jež mají takové účinky.<QUOT.END CODE="201C" ID="QE0001" REF.START="QS0001"/></P>
+            </NP>
+          </CONSID>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>má být:</P>
+        <QUOT.S LEVEL="1">
+          <CONSID>
+            <NP>
+              <NO.P><QUOT.START CODE="201E" ID="QS0002" REF.END="QE0002"/>(71)</NO.P>
+              <TXT>… Toto opatření by se nemělo týkat dítěte.</TXT>
+              <P>V zájmu zajištění spravedlivého a transparentního zpracování ve vztahu k subjektu údajů a s přihlédnutím ke konkrétním okolnostem a souvislostem, za kterých se dané osobní údaje zpracovávají, by měl správce použít vhodné matematické nebo statistické postupy profilování, zavést technická a organizační opatření, která zejména zajistí opravu faktorů vedoucích k nepřesnosti osobních údajů a minimalizaci rizika chyb, a zabezpečit osobní údaje takovým způsobem, který zohledňuje potenciální rizika pro zájmy a práva subjektu údajů, a mimo jiné předcházet diskriminačním účinkům vůči fyzickým osobám na základě rasy nebo etnického původu, politických názorů, náboženského vyznání nebo přesvědčení, členství v odborech, genetických údajů nebo zdravotního stavu či sexuální orientace nebo zamezit zpracování, které by vedlo k opatřením, jež mají takové účinky.<QUOT.END CODE="201C" ID="QE0002" REF.START="QS0002"/></P>
+            </NP>
+          </CONSID>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>2)</NO.P>
+          <TXT>Strana 22, 117. bod odůvodnění, první věta:</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>místo:</P>
+        <QUOT.S LEVEL="1">
+          <CONSID>
+            <NP>
+              <NO.P><QUOT.START CODE="201E" ID="QS0003" REF.END="QE0003"/>(117)</NO.P>
+              <TXT>je Zásadním prvkem ochrany fyzických osob v souvislosti se zpracováním jejich osobních údajů je zřízení dozorových úřadů, jež mohou v členských státech plnit své úkoly a vykonávat své pravomoci zcela nezávisle. Členské státy by měly mít možnost zřídit více než jeden dozorový úřad, aby zohlednily své ústavní, organizační a správní uspořádání.<QUOT.END CODE="201C" ID="QE0003" REF.START="QS0003"/></TXT>
+            </NP>
+          </CONSID>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>má být:</P>
+        <QUOT.S LEVEL="1">
+          <CONSID>
+            <NP>
+              <NO.P><QUOT.START CODE="201E" ID="QS0004" REF.END="QE0004"/>(117)</NO.P>
+              <TXT>Zásadním prvkem ochrany fyzických osob v souvislosti se zpracováním jejich osobních údajů je zřízení dozorových úřadů, jež mohou v členských státech plnit své úkoly a vykonávat své pravomoci zcela nezávisle. Členské státy by měly mít možnost zřídit více než jeden dozorový úřad, aby zohlednily své ústavní, organizační a správní uspořádání.<QUOT.END CODE="201C" ID="QE0004" REF.START="QS0004"/></TXT>
+            </NP>
+          </CONSID>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>3)</NO.P>
+          <TXT>Strana 33, čl. 4 bod 2:</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>místo:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="ARAB">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0005" REF.END="QE0005"/>2)</NO.P>
+                <TXT><QUOT.START CODE="201E" ID="QS0006" REF.END="QE0006"/>zpracováním<QUOT.END CODE="201C" ID="QE0006" REF.START="QS0006"/> jakákoliv operace nebo soubor operací s osobními údaji nebo soubory osobních údajů, který je prováděn pomocí či bez pomoci automatizovaných postupů, jako je shromáždění, zaznamenání, uspořádání, strukturování, uložení, přizpůsobení nebo pozměnění, vyhledání, nahlédnutí, použití, zpřístupnění přenosem, šíření nebo jakékoliv jiné zpřístupnění, seřazení či zkombinování, omezení, výmaz nebo zničení;<QUOT.END CODE="201C" ID="QE0005" REF.START="QS0005"/></TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>má být:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="ARAB">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0007" REF.END="QE0007"/>2)</NO.P>
+                <TXT><QUOT.START CODE="201E" ID="QS0008" REF.END="QE0008"/>zpracováním<QUOT.END CODE="201C" ID="QE0008" REF.START="QS0008"/> jakákoliv operace nebo soubor operací, které jsou prováděny s osobními údaji nebo soubory osobních údajů pomocí či bez pomoci automatizovaných postupů, jako je shromáždění, zaznamenání, uspořádání, strukturování, uložení, přizpůsobení nebo pozměnění, vyhledání, nahlédnutí, použití, zpřístupnění přenosem, šíření nebo jakékoliv jiné zpřístupnění, seřazení či zkombinování, omezení, výmaz nebo zničení;<QUOT.END CODE="201C" ID="QE0007" REF.START="QS0007"/>.</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <?PAGE NO='3'?>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>4)</NO.P>
+          <TXT>Strana 42, čl. 14 odst. 5 návětí:</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>místo:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="014.005">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0009" REF.END="QE0009"/>5.</NO.PARAG>
+            <ALINEA>Odstavce 1 a 4 se nepoužijí, pokud a do té míry, v níž:<QUOT.END CODE="201C" ID="QE0009" REF.START="QS0009"/></ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>má být:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="014.005">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0010" REF.END="QE0010"/>5.</NO.PARAG>
+            <ALINEA>Odstavce 1 až 4 se nepoužijí, pokud a do té míry, v níž:<QUOT.END CODE="201C" ID="QE0010" REF.START="QS0010"/>.</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>5)</NO.P>
+          <TXT>Strana 49, čl. 28 odst. 1:</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>místo:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="028.001">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0011" REF.END="QE0011"/>1.</NO.PARAG>
+            <ALINEA>Pokud má být zpracování provedeno pro správce, využije správce pouze ty zpracovatele, kteří poskytují dostatečné záruky zavedení vhodných technických a organizačních opatření tak, aby dané zpracování splňovalo požadavky tohoto nařízení a aby byla zajištěna ochrana práv subjektu údajů.<QUOT.END CODE="201C" ID="QE0011" REF.START="QS0011"/></ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>má být:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="028.001">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0012" REF.END="QE0012"/>1.</NO.PARAG>
+            <ALINEA>Pokud má být zpracování provedeno za správce, využije správce pouze ty zpracovatele, kteří poskytují dostatečné záruky zavedení vhodných technických a organizačních opatření tak, aby dané zpracování splňovalo požadavky tohoto nařízení a aby byla zajištěna ochrana práv subjektu údajů.<QUOT.END CODE="201C" ID="QE0012" REF.START="QS0012"/></ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>6)</NO.P>
+          <TXT>Strana 53, čl. 35 odst. 1:</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>místo:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="035.001">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0013" REF.END="QE0013"/>1.</NO.PARAG>
+            <ALINEA>Pokud je pravděpodobné, že určitý druh zpracování, zejména při využití nových technologií, bude s přihlédnutím k povaze, rozsahu, kontextu a účelům zpracování bude mít za následek vysoké riziko pro práva a svobody fyzických osob, provede správce před zpracováním posouzení vlivu zamýšlených operací zpracování na ochranu osobních údajů. Pro soubor podobných operací zpracování, které představují podobné riziko, může stačit jedno posouzení.<QUOT.END CODE="201C" ID="QE0013" REF.START="QS0013"/></ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>má být:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="035.001">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0014" REF.END="QE0014"/>1.</NO.PARAG>
+            <ALINEA>Pokud je pravděpodobné, že určitý druh zpracování, zejména při využití nových technologií, bude mít s přihlédnutím k povaze, rozsahu, kontextu a účelům zpracování za následek vysoké riziko pro práva a svobody fyzických osob, provede správce před zpracováním posouzení vlivu zamýšlených operací zpracování na ochranu osobních údajů. Pro soubor podobných operací zpracování, které představují podobné riziko, může stačit jedno posouzení.<QUOT.END CODE="201C" ID="QE0014" REF.START="QS0014"/></ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>7)</NO.P>
+          <TXT>Strana 53, čl. 35 odst. 4:</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>místo:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="035.004">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0015" REF.END="QE0015"/>4.</NO.PARAG>
+            <ALINEA>Dozorový úřad sestaví a zveřejní seznam druhů operací zpracování, které podléhají požadavku na posouzení vlivu na ochranu osobních údajů podle odstavce 1. Dozorový úřad uvedené seznamy předá sboru.<QUOT.END CODE="201C" ID="QE0015" REF.START="QS0015"/></ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>má být:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="035.004">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0016" REF.END="QE0016"/>4.</NO.PARAG>
+            <ALINEA>Dozorový úřad sestaví a zveřejní seznam druhů operací zpracování, které podléhají požadavku na posouzení vlivu na ochranu osobních údajů podle odstavce 1. Dozorový úřad uvedené seznamy předá sboru uvedenému v článku 68.<QUOT.END CODE="201C" ID="QE0016" REF.START="QS0016"/></ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>8)</NO.P>
+          <TXT>Strana 55, čl. 37 odst. 1 písm. c):</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>místo:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0017" REF.END="QE0017"/>c)</NO.P>
+                <TXT>hlavní činnosti správce nebo zpracovatele spočívají v rozsáhlém zpracování zvláštních kategorií údajů uvedených v článku 9 a osobních údajů týkajících se rozsudků v trestních věcech a trestných činů uvedených v článku 10.<QUOT.END CODE="201C" ID="QE0017" REF.START="QS0017"/></TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>má být:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0018" REF.END="QE0018"/>c)</NO.P>
+                <TXT>hlavní činnosti správce nebo zpracovatele spočívají v rozsáhlém zpracování zvláštních kategorií údajů uvedených v článku 9 nebo osobních údajů týkajících se rozsudků v trestních věcech a trestných činů uvedených v článku 10.<QUOT.END CODE="201C" ID="QE0018" REF.START="QS0018"/></TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>9)</NO.P>
+          <TXT>Strana 57, čl. 40 odst. 2 písm. e):</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>místo:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0019" REF.END="QE0019"/>e)</NO.P>
+                <TXT>informace poskytované veřejnosti a subjektů údajů;<QUOT.END CODE="201C" ID="QE0019" REF.START="QS0019"/></TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>má být:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0020" REF.END="QE0020"/>e)</NO.P>
+                <TXT>informace poskytované veřejnosti a subjektům údajů;<QUOT.END CODE="201C" ID="QE0020" REF.START="QS0020"/>.</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <?PAGE NO='4'?>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>10)</NO.P>
+          <TXT>Strana 58, čl. 41 odst. 3:</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>místo:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="041.003">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0021" REF.END="QE0021"/>3.</NO.PARAG>
+            <ALINEA>Příslušný dozorový úřad předloží návrh kritérií pro akreditaci subjektu uvedeného v odstavci 1 tohoto článku sboru podle mechanismu jednotnosti uvedeného v článku 63.<QUOT.END CODE="201C" ID="QE0021" REF.START="QS0021"/></ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>má být:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="041.003">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0022" REF.END="QE0022"/>3.</NO.PARAG>
+            <ALINEA>Příslušný dozorový úřad předloží návrh požadavků na akreditaci subjektu uvedeného v odstavci 1 tohoto článku sboru podle mechanismu jednotnosti uvedeného v článku 63.<QUOT.END CODE="201C" ID="QE0022" REF.START="QS0022"/></ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>11)</NO.P>
+          <TXT>Strana 58, čl. 41 odst. 5:</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>místo:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="041.005">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0023" REF.END="QE0023"/>5.</NO.PARAG>
+            <ALINEA>Příslušný dozorový úřad zruší akreditaci subjektu uvedeného v odstavci 1, jestliže nejsou nebo již přestaly být dodržovány podmínky akreditace nebo jestliže je činnosti tohoto subjektu v rozporu s tímto nařízením.<QUOT.END CODE="201C" ID="QE0023" REF.START="QS0023"/></ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>má být:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="041.005">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0024" REF.END="QE0024"/>5.</NO.PARAG>
+            <ALINEA>Příslušný dozorový úřad zruší akreditaci subjektu uvedeného v odstavci 1, jestliže nejsou nebo již přestaly být dodržovány podmínky akreditace nebo jestliže jsou činnosti tohoto subjektu v rozporu s tímto nařízením.<QUOT.END CODE="201C" ID="QE0024" REF.START="QS0024"/></ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>12)</NO.P>
+          <TXT>Strana 59, čl. 42 odst. 7:</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>místo:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="042.007">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0025" REF.END="QE0025"/>7.</NO.PARAG>
+            <ALINEA>Osvědčení se vydává správci nebo zpracovateli na dobu nejvýše tří let a lze je obnovit za stejných podmínek, pokud jsou i nadále plněny příslušné požadavky. Nejsou-li požadavky na osvědčení plněny, nebo pokud již přestaly být plněny, subjekty pro vydávání osvědčení podle článku 43 nebo příslušný dozorový úřad uvedené osvědčení odeberou.<QUOT.END CODE="201C" ID="QE0025" REF.START="QS0025"/></ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>má být:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="042.007">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0026" REF.END="QE0026"/>7.</NO.PARAG>
+            <ALINEA>Osvědčení se vydává správci nebo zpracovateli na dobu nejvýše tří let a lze je obnovit za stejných podmínek, pokud jsou i nadále plněna příslušná kritéria. Nejsou-li kritéria pro osvědčení plněna, nebo pokud již přestala být plněna, subjekty pro vydávání osvědčení podle článku 43 nebo příslušný dozorový úřad uvedené osvědčení odeberou.<QUOT.END CODE="201C" ID="QE0026" REF.START="QS0026"/></ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>13)</NO.P>
+          <TXT>Strana 60, čl. 43 odst. 3:</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>místo:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="043.003">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0027" REF.END="QE0027"/>3.</NO.PARAG>
+            <ALINEA>Akreditace subjektů pro vydávání osvědčení uvedených v odstavcích 1 a 2 tohoto článku probíhá na základě kritérií schválených dozorovým úřadem, který je příslušný podle článku 55 nebo 56, nebo sborem podle článku 63. V případě akreditace podle odst. 1 písm. c) tohoto článku tyto požadavky doplňují požadavky stanovené v nařízení (ES) č. 765/2008 a technická pravidla, která popisují metody a postupy subjektů pro vydávání osvědčení.<QUOT.END CODE="201C" ID="QE0027" REF.START="QS0027"/></ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>má být:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="043.003">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0028" REF.END="QE0028"/>3.</NO.PARAG>
+            <ALINEA>Akreditace subjektů pro vydávání osvědčení uvedených v odstavcích 1 a 2 tohoto článku probíhá na základě požadavků schválených dozorovým úřadem, který je příslušný podle článku 55 nebo 56, nebo sborem podle článku 63. V případě akreditace podle odst. 1 písm. b) tohoto článku tyto požadavky doplňují požadavky stanovené v nařízení (ES) č. 765/2008 a technická pravidla, která popisují metody a postupy subjektů pro vydávání osvědčení.<QUOT.END CODE="201C" ID="QE0028" REF.START="QS0028"/></ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>14)</NO.P>
+          <TXT>Strana 60, čl. 43 odst. 6:</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>místo:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="043.006">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0029" REF.END="QE0029"/>6.</NO.PARAG>
+            <ALINEA>Požadavky podle odstavce 3 tohoto článku a kritéria podle čl. 42 odst. 5 zveřejní dozorový úřad ve snadno přístupné formě. Dozorové úřady je předají také sboru. Sbor všechny mechanismy pro vydávání osvědčení a pečetě dokládající ochranu údajů shromáždí v registru a vhodným způsobem je zpřístupní veřejnosti.<QUOT.END CODE="201C" ID="QE0029" REF.START="QS0029"/></ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>má být:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="043.006">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0030" REF.END="QE0030"/>6.</NO.PARAG>
+            <ALINEA>Požadavky podle odstavce 3 tohoto článku a kritéria podle čl. 42 odst. 5 zveřejní dozorový úřad ve snadno přístupné formě. Dozorové úřady je předají také sboru.<QUOT.END CODE="201C" ID="QE0030" REF.START="QS0030"/></ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <?PAGE NO='5'?>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>15)</NO.P>
+          <TXT>Strana 61, čl. 45 odst. 2 písm. b):</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>místo:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0031" REF.END="QE0031"/>b)</NO.P>
+                <TXT>existenci a účinné fungování jednoho nebo více nezávislých dozorových úřadů, které působí v dané třetí zemi nebo kterým podléhá daná mezinárodní organizace, příslušných zajišťovat a vymáhat souladu s pravidly pro ochranu údajů, včetně přiměřených vymáhacích pravomocí, poskytovat pomoc a poradenství subjektům údajů při výkonu jejich práv a spolupracovat s dozorovými úřady členských států, a<QUOT.END CODE="201C" ID="QE0031" REF.START="QS0031"/></TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>má být:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0032" REF.END="QE0032"/>b)</NO.P>
+                <TXT>existenci a účinné fungování jednoho nebo více nezávislých dozorových úřadů, které působí v dané třetí zemi nebo kterým podléhá daná mezinárodní organizace, příslušných zajišťovat a vymáhat soulad s pravidly pro ochranu údajů, včetně přiměřených vymáhacích pravomocí, poskytovat pomoc a poradenství subjektům údajů při výkonu jejich práv a spolupracovat s dozorovými úřady členských států, a<QUOT.END CODE="201C" ID="QE0032" REF.START="QS0032"/>.</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>16)</NO.P>
+          <TXT>Strana 62, čl. 46 odst. 4:</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>místo:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="046.004">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0033" REF.END="QE0033"/>4.</NO.PARAG>
+            <ALINEA>Dozorový úřad použije mechanismus jednotnosti v případech uvedených v čl. 63 odst. 3 tohoto článku.<QUOT.END CODE="201C" ID="QE0033" REF.START="QS0033"/></ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>má být:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="046.004">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0034" REF.END="QE0034"/>4.</NO.PARAG>
+            <ALINEA>Dozorový úřad použije mechanismus jednotnosti uvedený v čl. 63 v případech uvedených v odstavci 3 tohoto článku.<QUOT.END CODE="201C" ID="QE0034" REF.START="QS0034"/></ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>17)</NO.P>
+          <TXT>Strana 63, čl. 47 odst. 2 písm. d):</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>místo:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0035" REF.END="QE0035"/>d)</NO.P>
+                <TXT>použití obecných zásad pro ochranu údajů, zejména účelové omezení, minimalizaci údajů, omezenou dobu uložení, kvalitu údajů, záměrná a standardní ochranu osobních údajů, právní základ pro zpracování, zpracování zvláštních kategorií osobních údajů; opatření k zajištění zabezpečení údajů a požadavky ohledně dalšího předávání subjektům, které podnikovými pravidly nejsou vázány;<QUOT.END CODE="201C" ID="QE0035" REF.START="QS0035"/></TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>má být:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0036" REF.END="QE0036"/>d)</NO.P>
+                <TXT>použití obecných zásad pro ochranu údajů, zejména účelové omezení, minimalizaci údajů, omezenou dobu uložení, kvalitu údajů, záměrnou a standardní ochranu osobních údajů, právní základ pro zpracování, zpracování zvláštních kategorií osobních údajů; opatření k zajištění zabezpečení údajů a požadavky ohledně dalšího předávání subjektům, které podnikovými pravidly nejsou vázány;<QUOT.END CODE="201C" ID="QE0036" REF.START="QS0036"/>.</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>18)</NO.P>
+          <TXT>Strana 66, čl. 53 odst. 4:</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>místo:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="053.004">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0037" REF.END="QE0037"/>4.</NO.PARAG>
+            <ALINEA>Člena může být odvolán pouze v případě závažného pochybení nebo pokud přestane splňovat podmínky pro plnění svých povinností.<QUOT.END CODE="201C" ID="QE0037" REF.START="QS0037"/></ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>má být:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="053.004">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0038" REF.END="QE0038"/>4.</NO.PARAG>
+            <ALINEA>Člen může být odvolán pouze v případě závažného pochybení nebo pokud přestane splňovat podmínky pro plnění svých povinností.<QUOT.END CODE="201C" ID="QE0038" REF.START="QS0038"/></ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>19)</NO.P>
+          <TXT>Strana 69, čl. 57 odst. 1 písm. p):</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>místo:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0039" REF.END="QE0039"/>p)</NO.P>
+                <TXT>navrhuje a zveřejňuje kritéria pro schvalování subjektu pro monitorování kodexů chování podle článku 41 a subjektu pro vydávání osvědčení podle článku 43;<QUOT.END CODE="201C" ID="QE0039" REF.START="QS0039"/></TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>má být:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0040" REF.END="QE0040"/>p)</NO.P>
+                <TXT>navrhuje a zveřejňuje požadavky na akreditaci subjektu pro monitorování kodexů chování podle článku 41 a subjektu pro vydávání osvědčení podle článku 43;<QUOT.END CODE="201C" ID="QE0040" REF.START="QS0040"/>.</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <?PAGE NO='6'?>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>20)</NO.P>
+          <TXT>Strana 71, čl. 60 odst. 10:</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>místo:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="060.010">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0041" REF.END="QE0041"/>10.</NO.PARAG>
+            <ALINEA>Poté, co mu bylo oznámeno rozhodnutí vedoucího dozorového úřadu podle odstavců 7 a 9, přijme správce nebo zpracovatel opatření nezbytná k zajištění souladu s daným rozhodnutím, pokud jde o činnosti zpracování prováděné v souvislosti se všemi jeho provozovnami v Unii. Správce nebo zpracovatel oznámí opatření přijatá k zajištění souladu s daným rozhodnutí vedoucímu dozorovému úřadu, který o tom informuje ostatní dotčené dozorové úřady.<QUOT.END CODE="201C" ID="QE0041" REF.START="QS0041"/></ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>má být:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="060.010">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0042" REF.END="QE0042"/>10.</NO.PARAG>
+            <ALINEA>Poté, co mu bylo oznámeno rozhodnutí vedoucího dozorového úřadu podle odstavců 7 a 9, přijme správce nebo zpracovatel opatření nezbytná k zajištění souladu s daným rozhodnutím, pokud jde o činnosti zpracování prováděné v souvislosti se všemi jeho provozovnami v Unii. Správce nebo zpracovatel oznámí opatření přijatá k zajištění souladu s daným rozhodnutím vedoucímu dozorovému úřadu, který o tom informuje ostatní dotčené dozorové úřady.<QUOT.END CODE="201C" ID="QE0042" REF.START="QS0042"/></ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>21)</NO.P>
+          <TXT>Strana 74, čl. 64 odst. 1 písm. c):</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>místo:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0043" REF.END="QE0043"/>c)</NO.P>
+                <TXT>má za cíl schválit kritéria pro akreditaci subjektu podle čl. 41 odst. 3 nebo subjektu pro vydávání osvědčení podle čl. 43 odst. 3;<QUOT.END CODE="201C" ID="QE0043" REF.START="QS0043"/></TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>má být:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0044" REF.END="QE0044"/>c)</NO.P>
+                <TXT>má za cíl schválit požadavky na akreditaci subjektu podle čl. 41 odst. 3 nebo subjektu pro vydávání osvědčení podle čl. 43 odst. 3 nebo kritéria pro vydávání osvědčení podle čl. 42 odst. 5;<QUOT.END CODE="201C" ID="QE0044" REF.START="QS0044"/>.</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>22)</NO.P>
+          <TXT>Strana 74, čl. 64 odst. 6, 7 a 8:</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>místo:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="064.006">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0045" REF.END="QE0045"/>6.</NO.PARAG>
+            <ALINEA>Během lhůty uvedené v odstavci 3 nepřijme příslušný dozorový úřad svůj návrh rozhodnutí podle odstavce 1.</ALINEA>
+          </PARAG>
+          <PARAG IDENTIFIER="064.007">
+            <NO.PARAG>7.</NO.PARAG>
+            <ALINEA>Dozorový úřad uvedený v odstavci 1 stanovisko sboru co nejvíce zohlední a do dvou týdnů po obdržení stanoviska v elektronické formě sdělí předsedovi sboru, zda svůj návrh rozhodnutí zachová nebo jej změní, a rozhodne-li se je změnit, zašle mu pozměněný návrh rozhodnutí za použití standardizovaného formátu.</ALINEA>
+          </PARAG>
+          <PARAG IDENTIFIER="064.008">
+            <NO.PARAG>8.</NO.PARAG>
+            <ALINEA>Pokud ve lhůtě uvedené v odstavci 7 tohoto článku informuje dotčený dozorový úřad předsedu sboru o tom, že nemá v úmyslu se stanoviskem sboru řídit, ať již zcela nebo částečně, a uvede relevantní důvody, použije se čl. 65 odst. 1.<QUOT.END CODE="201C" ID="QE0045" REF.START="QS0045"/></ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>má být:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="064.006">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0046" REF.END="QE0046"/>6.</NO.PARAG>
+            <ALINEA>Během lhůty uvedené v odstavci 3 nepřijme příslušný dozorový úřad uvedený v odstavci 1 svůj návrh rozhodnutí podle odstavce 1.</ALINEA>
+          </PARAG>
+          <PARAG IDENTIFIER="064.007">
+            <NO.PARAG>7.</NO.PARAG>
+            <ALINEA>Příslušný dozorový úřad uvedený v odstavci 1 stanovisko sboru co nejvíce zohlední a do dvou týdnů po obdržení stanoviska v elektronické formě sdělí předsedovi sboru, zda svůj návrh rozhodnutí zachová nebo jej změní, a rozhodne-li se je změnit, zašle mu pozměněný návrh rozhodnutí za použití standardizovaného formátu.</ALINEA>
+          </PARAG>
+          <PARAG IDENTIFIER="064.008">
+            <NO.PARAG>8.</NO.PARAG>
+            <ALINEA>Pokud ve lhůtě uvedené v odstavci 7 tohoto článku informuje příslušný dozorový úřad uvedený v odstavci 1 předsedu sboru o tom, že nemá v úmyslu se stanoviskem sboru řídit, ať již zcela nebo částečně, a uvede relevantní důvody, použije se čl. 65 odst. 1.<QUOT.END CODE="201C" ID="QE0046" REF.START="QS0046"/></ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>23)</NO.P>
+          <TXT>Strana 74, čl. 65 odst. 1 písm. a) první věta:</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>místo:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0047" REF.END="QE0047"/>a)</NO.P>
+                <TXT>pokud v případě uvedeném v čl. 60 odst. 4 vznesl dotčený dozorový úřad relevantní a odůvodněnou námitku vůči návrhu rozhodnutí vedoucího dozorového úřadu nebo pokud vedoucí dozorový úřad zamítl tuto námitku jako irelevantní či nedůvodnou. …<QUOT.END CODE="201C" ID="QE0047" REF.START="QS0047"/></TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>má být:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0048" REF.END="QE0048"/>a)</NO.P>
+                <TXT>pokud v případě uvedeném v čl. 60 odst. 4 vznesl dotčený dozorový úřad relevantní a odůvodněnou námitku vůči návrhu rozhodnutí vedoucího dozorového úřadu nebo pokud vedoucí dozorový úřad tuto námitku nezohlednil nebo ji zamítl jako irelevantní či nedůvodnou. …<QUOT.END CODE="201C" ID="QE0048" REF.START="QS0048"/>.</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <?PAGE NO='7'?>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>24)</NO.P>
+          <TXT>Strana 76, čl. 69 odst. 2:</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>místo:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="069.002">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0049" REF.END="QE0049"/>2.</NO.PARAG>
+            <ALINEA>Aniž jsou dotčeny žádosti Komise uvedené v čl. 70 odst. 1 písm. b) a odst. 2, sbor při plnění svých úkolů nebo výkonu svých pravomocí od nikoho nevyžaduje ani nepřijímá pokyny.<QUOT.END CODE="201C" ID="QE0049" REF.START="QS0049"/></ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>má být:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="069.002">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0050" REF.END="QE0050"/>2.</NO.PARAG>
+            <ALINEA>Aniž jsou dotčeny žádosti Komise uvedené v čl. 70 odst. 1 a 2, sbor při plnění svých úkolů nebo výkonu svých pravomocí od nikoho nevyžaduje ani nepřijímá pokyny.<QUOT.END CODE="201C" ID="QE0050" REF.START="QS0050"/></ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>25)</NO.P>
+          <TXT>Strana 77, čl. 70 odst. 1 písm. l):</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>místo:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0051" REF.END="QE0051"/>l)</NO.P>
+                <TXT>přezkoumává praktické uplatňování pokynů, doporučení a osvědčených postupů uvedených v písmenech e) a f);<QUOT.END CODE="201C" ID="QE0051" REF.START="QS0051"/></TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>má být:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0052" REF.END="QE0052"/>l)</NO.P>
+                <TXT>přezkoumává praktické uplatňování pokynů, doporučení a osvědčených postupů;<QUOT.END CODE="201C" ID="QE0052" REF.START="QS0052"/>.</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>26)</NO.P>
+          <TXT>Strana 77, čl. 70 odst. 1 písm. o):</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>místo:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0053" REF.END="QE0053"/>o)</NO.P>
+                <TXT>provádí akreditaci subjektů pro vydávání osvědčení a její pravidelný přezkum podle článku 43 a provozuje veřejný registr akreditovaných subjektů podle čl. 43 odst. 6 a akreditovaných správců či zpracovatelů usazených ve třetích zemích podle čl. 42 odst. 7;<QUOT.END CODE="201C" ID="QE0053" REF.START="QS0053"/></TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>má být:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0054" REF.END="QE0054"/>o)</NO.P>
+                <TXT>schvaluje kritéria pro vydávání osvědčení podle čl. 42 odst. 5 a provozuje veřejný registr mechanismů pro vydávání osvědčení o ochraně údajů a příslušných pečetí či známek podle čl. 42 odst. 8 a správců či zpracovatelů, kteří jsou držiteli osvědčení a jsou usazeni ve třetích zemích, podle čl. 42 odst. 7;<QUOT.END CODE="201C" ID="QE0054" REF.START="QS0054"/>.</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>27)</NO.P>
+          <TXT>Strana 77, čl. 70 odst. 1 písm. p):</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>místo:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0055" REF.END="QE0055"/>p)</NO.P>
+                <TXT>stanoví požadavky uvedené v čl. 43 odst. 3 pro účely akreditace subjektů pro vydávání osvědčení podle článku 42;<QUOT.END CODE="201C" ID="QE0055" REF.START="QS0055"/></TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>má být:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0056" REF.END="QE0056"/>p)</NO.P>
+                <TXT>schvaluje požadavky uvedené v čl. 43 odst. 3 pro účely akreditace subjektů pro vydávání osvědčení uvedených v článku 43;<QUOT.END CODE="201C" ID="QE0056" REF.START="QS0056"/>.</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>28)</NO.P>
+          <TXT>Strana 82, čl. 83 odst. 4 písm. c):</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>místo:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0057" REF.END="QE0057"/>c)</NO.P>
+                <TXT>povinnosti subjektu pro vydávání osvědčení podle čl. 41 odst. 4.<QUOT.END CODE="201C" ID="QE0057" REF.START="QS0057"/></TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>má být:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0058" REF.END="QE0058"/>c)</NO.P>
+                <TXT>povinnosti subjektu pro monitorování souladu s kodexem chování podle čl. 41 odst. 4.<QUOT.END CODE="201C" ID="QE0058" REF.START="QS0058"/></TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+  </CONTENTS.CORR>
+</CORR>

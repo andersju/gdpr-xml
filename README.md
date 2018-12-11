@@ -5,6 +5,10 @@ In `original/` you'll find the original, untouched files.
 
 In `formatted/` you'll find the same files after having run them through `xmllint --format` to reformat/reindent.
 
+In `corr-2018-original/` you'll find the [corrections](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2018.127.01.0002.01.ENG&toc=OJ:L:2018:127:FULL) (corrigendum) published in 2018.
+
+In `corr-2018-formatted/` you'll find formatted versions of the corrections.
+
 ## Why?
 I wanted to make nice HTML versions of the GDPR. [EUR-Lex](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32016R0679)
 has terrible HTML versions generated from XML, but doesn't provide the actual XML.

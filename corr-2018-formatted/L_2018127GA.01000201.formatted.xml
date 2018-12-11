@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CORR xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://formex.publications.europa.eu/schema/formex-05.56-20160701.xd">
+  <BIB.INSTANCE>
+    <DOCUMENT.REF FILE="L_2018127GA.01000301.doc.xml">
+      <COLL>L</COLL>
+      <NO.OJ>127</NO.OJ>
+      <YEAR>2018</YEAR>
+      <LG.OJ>GA</LG.OJ>
+      <PAGE.FIRST>3</PAGE.FIRST>
+      <PAGE.SEQ>1</PAGE.SEQ>
+      <VOLUME.REF>01</VOLUME.REF>
+    </DOCUMENT.REF>
+    <DATE ISO="20180523">20180523</DATE>
+    <LG.DOC>GA</LG.DOC>
+    <NO.SEQ>0003</NO.SEQ>
+    <PAGE.FIRST>3</PAGE.FIRST>
+    <PAGE.SEQ>1</PAGE.SEQ>
+    <PAGE.LAST>7</PAGE.LAST>
+    <PAGE.TOTAL>5</PAGE.TOTAL>
+  </BIB.INSTANCE>
+  <TITLE>
+    <TI>
+      <P>Ceartúchán ar Rialachán (AE) 2016/679 ó Pharlaimint na hEorpa agus ón gComhairle an <DATE ISO="20160427">27 Aibreán 2016</DATE> maidir le daoine nádúrtha a chosaint i ndáil le sonraí pearsanta a phróiseáil agus maidir le saorghluaiseacht sonraí den sórt sin, agus lena n-aisghairtear Treoir 95/46/CE (An Rialachán Ginearálta maidir le Cosaint Sonraí)</P>
+      <P>(<REF.DOC.OJ COLL="L" DATE.PUB="20160504" NO.OJ="119">Iris Oifigiúil an Aontais Eorpaigh L 119 Eagrán Speisialta Gaeilge an 4 Bealtaine 2016</REF.DOC.OJ>)</P>
+    </TI>
+  </TITLE>
+  <CONTENTS.CORR>
+    <CORRECTION>
+      <DESCRIPTION>Ar leathanach 14, in aithris 71, sa chúigiú agus sa séú habairt:</DESCRIPTION>
+      <OLD.CORR>
+        <P>in ionad:</P>
+        <QUOT.S LEVEL="1">
+          <CONSID>
+            <NP>
+              <NO.P><QUOT.START CODE="2018" ID="QS0001" REF.END="QE0001"/>(71)</NO.P>
+              <TXT>Níor cheart baint a bheith ag beart den sórt sin le leanbh.</TXT>
+              <P>Chun próiseáil chothrom thrédhearcach a áirithiú i ndáil leis an ábhar sonraí, agus na himthosca sonracha agus an comhthéacs sonrach a bhaineann le próiseáil na sonraí pearsanta á gcur san áireamh, ba cheart don rialaitheoir nósanna imeachta iomchuí matamaiticiúla nó staidrimh a úsáid don phróifíliú, bearta teicniúla agus eagraíochtúla a chur chun feidhme, arb iomchuí iad chun a áirithiú, go háirithe, go ndéantar tosca, a mbíonn míchruinnis sna sonraí pearsanta mar thoradh orthu, a cheartú, agus a áirithiú go ndéantar an riosca maidir le hearráidí a íoslaghdú, sonraí pearsanta a shlánú ar bhealach lena gcuirtear san áireamh na bagairtí a d’fhéadfadh a bheith i gceist maidir le leasanna agus cearta an ábhair sonraí agus lena gcuirtear cosc, inter alia, ar éifeachtaí idirdhealaithe atá ar dhaoine nádúrtha ar bhonn tionscnamh ciníoch nó eitneach, tuairimí polaitiúla, reiligiúin nó creidimh, duine a bheith mar chomhalta de cheardchumann, stádas géiniteach nó sláinte, gnéaschlaonta, nó a bhfuil bearta lena ngabhfadh éifeacht den sórt sin mar thoradh orthu.<QUOT.END CODE="2019" ID="QE0001" REF.START="QS0001"/>,</P>
+            </NP>
+          </CONSID>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR>
+        <P>léitear:</P>
+        <QUOT.S LEVEL="1">
+          <CONSID>
+            <NP>
+              <NO.P><QUOT.START CODE="2018" ID="QS0002" REF.END="QE0002"/>(71)</NO.P>
+              <TXT>Níor cheart baint a bheith ag beart den sórt sin le leanbh. Chun próiseáil chothrom thrédhearcach a áirithiú i ndáil leis an ábhar sonraí, agus na himthosca sonracha agus an comhthéacs sonrach a bhaineann le próiseáil na sonraí pearsanta á gcur san áireamh, ba cheart don rialaitheoir nósanna imeachta iomchuí matamaiticiúla nó staidrimh a úsáid don phróifíliú, bearta teicniúla agus eagraíochtúla a chur chun feidhme, arb iomchuí iad chun a áirithiú, go háirithe, go ndéantar tosca, a mbíonn míchruinnis sna sonraí pearsanta mar thoradh orthu, a cheartú, agus a áirithiú go ndéantar an riosca maidir le hearráidí a íoslaghdú, sonraí pearsanta a shlánú ar bhealach lena gcuirtear san áireamh na bagairtí a d’fhéadfadh a bheith i gceist maidir le leasanna agus cearta an ábhair sonraí, agus cosc a chur, inter alia, ar éifeachtaí idirdhealaithe atá ar dhaoine nádúrtha ar bhonn tionscnamh ciníoch nó eitneach, tuairimí polaitiúla, reiligiúin nó creidimh, duine a bheith mar chomhalta de cheardchumann, stádas géiniteach nó sláinte, gnéaschlaonta, nó próiseáil a bhfuil bearta lena ngabhfadh éifeacht den sórt sin mar thoradh uirthi.<QUOT.END CODE="2019" ID="QE0002" REF.START="QS0002"/>.</TXT>
+            </NP>
+          </CONSID>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>Ar leathanach 41, in Airteagal 13(1):</DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>in ionad:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="2018" ID="QS0003" REF.END="QE0003"/>(d)</NO.P>
+                <TXT>i gcás ina bhfuil an phróiseáil bunaithe ar phointe (f) d'Airteagal 6(1), na leasanna dlisteanacha atá á saothrú ag an rialaitheoir nó ag triú páirtí;</TXT>
+              </NP>
+            </ITEM>
+            <ITEM>
+              <NP>
+                <NO.P>(d)</NO.P>
+                <TXT>i gcás inarb infheidhme, faighteoirí na sonraí pearsanta nó catagóirí fhaighteoirí na sonraí pearsanta, más ann dóibh;</TXT>
+              </NP>
+            </ITEM>
+            <ITEM>
+              <NP>
+                <NO.P>(e)</NO.P>
+                <TXT>i gcás inarb infheidhme, go bhfuil sé beartaithe ag an rialaitheoir sonraí pearsanta a aistriú chuig tríú tír nó chuig eagraíocht idirnáisiúnta agus cibé arb ann nó nach ann do chinneadh leordhóthanachta ón gCoimisiún, nó i gcás na n-aistrithe dá dtagraítear in Airteagal 46 nó in Airteagal 47, nó sa dara fomhír d'Airteagal 49(1), tagairt do na coimircí iomchuí nó oiriúnacha agus na bealaí inar féidir chun cóip díobh a fháil nó an áit inar cuireadh iad ar fáil;<QUOT.END CODE="2019" ID="QE0003" REF.START="QS0003"/>,</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>léitear:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="2018" ID="QS0004" REF.END="QE0004"/>(d)</NO.P>
+                <TXT>i gcás ina bhfuil an phróiseáil bunaithe ar phointe (f) d'Airteagal 6(1), na leasanna dlisteanacha atá á saothrú ag an rialaitheoir nó ag triú páirtí;</TXT>
+              </NP>
+            </ITEM>
+            <ITEM>
+              <NP>
+                <NO.P>(e)</NO.P>
+                <TXT>i gcás inarb infheidhme, faighteoirí na sonraí pearsanta nó catagóirí fhaighteoirí na sonraí pearsanta, más ann dóibh;</TXT>
+              </NP>
+            </ITEM>
+            <ITEM>
+              <NP>
+                <NO.P>(f)</NO.P>
+                <TXT>i gcás inarb infheidhme, go bhfuil sé beartaithe ag an rialaitheoir sonraí pearsanta a aistriú chuig tríú tír nó chuig eagraíocht idirnáisiúnta agus cibé arb ann nó nach ann do chinneadh leordhóthanachta ón gCoimisiún, nó i gcás na n-aistrithe dá dtagraítear in Airteagal 46 nó in Airteagal 47, nó sa dara fomhír d'Airteagal 49(1), tagairt do na coimircí iomchuí nó oiriúnacha agus na bealaí inar féidir chun cóip díobh a fháil nó an áit inar cuireadh iad ar fáil;<QUOT.END CODE="2019" ID="QE0004" REF.START="QS0004"/>.</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <?PAGE NO='4'?>
+    <CORRECTION>
+      <DESCRIPTION>Ar leathanach 55, i bpointe (c) d'Airteagal 37(1):</DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>in ionad:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="2018" ID="QS0005" REF.END="QE0005"/>(c)</NO.P>
+                <TXT>is é atá i bpríomhghníomhaíochtaí an rialaitheora nó an phróiseálaí próiseáil mhórscála ar chatagóirí speisialta sonraí pearsanta de bhun Airteagal 9 agus ar shonraí a bhaineann le ciontuithe coiriúla agus cionta dá dtagraítear in Airteagal 10.<QUOT.END CODE="2019" ID="QE0005" REF.START="QS0005"/>,</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>léitear:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="2018" ID="QS0006" REF.END="QE0006"/>(c)</NO.P>
+                <TXT>is é atá i bpríomhghníomhaíochtaí an rialaitheora nó an phróiseálaí próiseáil mhórscála ar chatagóirí speisialta sonraí pearsanta de bhun Airteagal 9 nó ar shonraí pearsanta a bhaineann le ciontuithe coiriúla agus cionta dá dtagraítear in Airteagal 10.<QUOT.END CODE="2019" ID="QE0006" REF.START="QS0006"/>.</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>Ar leathanach 58, in Airteagal 41(3):</DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>in ionad:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="041.003">
+            <NO.PARAG><QUOT.START CODE="2018" ID="QS0007" REF.END="QE0007"/>3.</NO.PARAG>
+            <ALINEA>Cuirfidh an t-údarás inniúil maoirseachta na dréachtchritéir maidir le creidiúnú a thabhairt do chomhlacht amhail dá dtagraítear i mír 1 den Airteagal seo faoi bhráid an Bhoird de bhun an tsásra comhsheasmhachta dá dtagraítear in Airteagal 63.<QUOT.END CODE="2019" ID="QE0007" REF.START="QS0007"/>,</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>léitear:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="041.003">
+            <NO.PARAG><QUOT.START CODE="2018" ID="QS0008" REF.END="QE0008"/>3.</NO.PARAG>
+            <ALINEA>Cuirfidh an t-údarás inniúil maoirseachta na dréachtcheanglais maidir le creidiúnú a thabhairt do chomhlacht amhail dá dtagraítear i mír 1 den Airteagal seo faoi bhráid an Bhoird de bhun an tsásra comhsheasmhachta dá dtagraítear in Airteagal 63.<QUOT.END CODE="2019" ID="QE0008" REF.START="QS0008"/>.</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>Ar leathanach 58, in Airteagal 41(5):</DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>in ionad:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="041.005">
+            <NO.PARAG><QUOT.START CODE="2018" ID="QS0009" REF.END="QE0009"/>5.</NO.PARAG>
+            <ALINEA>Cúlghairfidh an t-údarás inniúil maoirseachta an creidiúnú a thabharfar do chomhlacht amhail dá dtagraítear i mír 1 mura gcomhlíontar coinníollacha an chreidiúnaithe nó mura mbíonn na coinníollacha sin á gcomhlíonadh a thuilleadh, nó más rud é go sáraíonn bearta a ghalcann an comhlacht an Rialachán seo.<QUOT.END CODE="2019" ID="QE0009" REF.START="QS0009"/>,</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>léitear:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="041.005">
+            <NO.PARAG><QUOT.START CODE="2018" ID="QS0010" REF.END="QE0010"/>5.</NO.PARAG>
+            <ALINEA>Cúlghairfidh an t-údarás inniúil maoirseachta an creidiúnú a thabharfar do chomhlacht amhail dá dtagraítear i mír 1 mura gcomhlíontar na ceanglais maidir le creidiúnú nó mura mbíonn na ceanglais sin á gcomhlíonadh a thuilleadh, nó más rud é go sáraíonn bearta a ghlacann an comhlacht an Rialachán seo.<QUOT.END CODE="2019" ID="QE0010" REF.START="QS0010"/>.</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>Ar leathanach 59, in Airteagal 42(7):</DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>in ionad:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="042.007">
+            <NO.PARAG><QUOT.START CODE="2018" ID="QS0011" REF.END="QE0011"/>7.</NO.PARAG>
+            <ALINEA>Eiseofar deimhniú don rialaitheoir nó do phróiseálaí ar feadh uastréimhse trí bliana agus féadfar é a athnuachan, faoi na coinníollacha céanna, fad a leanfar de na ceanglais ábhartha a chomhlíonadh. I gcás inarb infheidhme, tarraingeoidh na comhlachtaí deimhniúcháin dá dtagraítear in Airteagal 43 deimhniú siar, nó tarraingeoidh an t-údarás inniúil maoirseachta siar é i gcás nach bhfuil na ceanglais le haghaidh deimhniúcháin á gcomhlíonadh nó nach bhfuil siad á gcomhlíonadh a thuilleadh.<QUOT.END CODE="2019" ID="QE0011" REF.START="QS0011"/>,</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>léitear:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="042.007">
+            <NO.PARAG><QUOT.START CODE="2018" ID="QS0012" REF.END="QE0012"/>7.</NO.PARAG>
+            <ALINEA>Eiseofar deimhniú don rialaitheoir nó do phróiseálaí ar feadh uastréimhse trí bliana agus féadfar é a athnuachan, faoi na coinníollacha céanna, fad a leanfar de na critéir ábhartha a chomhlíonadh. I gcás inarb infheidhme, tarraingeoidh na comhlachtaí deimhniúcháin dá dtagraítear in Airteagal 43 deimhniú siar, nó tarraingeoidh an t-údarás inniúil maoirseachta siar é i gcás nach bhfuil na critéir le haghaidh deimhniúcháin á gcomhlíonadh nó nach bhfuil siad á gcomhlíonadh a thuilleadh.<QUOT.END CODE="2019" ID="QE0012" REF.START="QS0012"/>.</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>Ar leathanach 60, in Airteagal 43(3), sa chéad abairt:</DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>in ionad:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="043.003">
+            <NO.PARAG><QUOT.START CODE="2018" ID="QS0013" REF.END="QE0013"/>3.</NO.PARAG>
+            <ALINEA>Déanfar creidiúnú na gcomhlachtaí deimhniúcháin amhail dá dtagraítear i mír 1 agus i mír 2 den Airteagal seo ar bhonn na gcritéar a d'fhormheas an t-údarás maoirseachta atá inniúil de réir Airteagal 55 nó Airteagal 56 nó a d'fhormheas an Bord de bhun Airteagal 63.<QUOT.END CODE="2019" ID="QE0013" REF.START="QS0013"/>,</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>léitear:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="043.003">
+            <NO.PARAG><QUOT.START CODE="2018" ID="QS0014" REF.END="QE0014"/>3.</NO.PARAG>
+            <ALINEA>Déanfar creidiúnú na gcomhlachtaí deimhniúcháin amhail dá dtagraítear i mír 1 agus i mír 2 den Airteagal seo ar bhonn na gceanglais a d'fhormheas an t-údarás maoirseachta atá inniúil de bhun Airteagal 55 nó Airteagal 56 nó a d'fhormheas an Bord de bhun Airteagal 63.<QUOT.END CODE="2019" ID="QE0014" REF.START="QS0014"/>.</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <?PAGE NO='5'?>
+    <CORRECTION>
+      <DESCRIPTION>Ar leathanach 60, in Airteagal 43(6):</DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>in ionad:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="043.006">
+            <NO.PARAG><QUOT.START CODE="2018" ID="QS0015" REF.END="QE0015"/>6.</NO.PARAG>
+            <ALINEA>Poibleoidh an t-údarás maoirseachta na ceanglais dá dtagraítear i mír 3 den Airteagal seo agus na critéir dá dtagraítear in Airteagal 42(5), i bhfoirm a bhfuil sé easca rochtain a fháil uirthi. Cuirfidh na húdaráis mhaoirseachta na ceanglais agus na critéir sin chuig an mBord. Déanfaidh an Bord na sásraí deimhniúcháin ar fad agus na séalaí cosanta sonraí a thiomsú i gclár agus cuirfidh sé ar fáil don phobal iad trí aon bhealach iomchuí.<QUOT.END CODE="2019" ID="QE0015" REF.START="QS0015"/>,</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>léitear:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="043.006">
+            <NO.PARAG><QUOT.START CODE="2018" ID="QS0016" REF.END="QE0016"/>6.</NO.PARAG>
+            <ALINEA>Poibleoidh an t-údarás maoirseachta na ceanglais dá dtagraítear i mír 3 den Airteagal seo agus na critéir dá dtagraítear in Airteagal 42(5), i bhfoirm a bhfuil sé easca rochtain a fháil uirthi. Cuirfidh na húdaráis mhaoirseachta na ceanglais agus na critéir sin chuig an mBord.<QUOT.END CODE="2019" ID="QE0016" REF.START="QS0016"/>.</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>Ar leathanach 69, i bpointe (p) d'Airteagal 57(1):</DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>in ionad:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="2018" ID="QS0017" REF.END="QE0017"/>(p)</NO.P>
+                <TXT>dréachtóidh agus foilseoidh sé na critéir i ndáil le comhlacht a chreidiúnú chun faireachán a dhéanamh ar chóid iompair de bhun Airteagal 41 agus i ndáil le comhlacht deimhniúcháin de bhun Airteagal 43;<QUOT.END CODE="2019" ID="QE0017" REF.START="QS0017"/>,</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>léitear:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="2018" ID="QS0018" REF.END="QE0018"/>(p)</NO.P>
+                <TXT>dréachtóidh agus foilseoidh sé na ceanglais i ndáil le comhlacht a chreidiúnú chun faireachán a dhéanamh ar chóid iompair de bhun Airteagal 41 agus i ndáil le comhlacht deimhniúcháin a chreidiúnú de bhun Airteagal 43;<QUOT.END CODE="2019" ID="QE0018" REF.START="QS0018"/>.</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>Ar leathanach 74, i bpointe (c) d'Airteagal 64(1):</DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>in ionad:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="2018" ID="QS0019" REF.END="QE0019"/>(c)</NO.P>
+                <TXT>dírítear ann ar chritéir maidir le creidiúnú comhlachta a fhormheas de bhun Airteagal 41(3) nó maidir le comhlacht deimhniúcháin de Airteagal 43(3);<QUOT.END CODE="2019" ID="QE0019" REF.START="QS0019"/>,</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>léitear:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="2018" ID="QS0020" REF.END="QE0020"/>(c)</NO.P>
+                <TXT>dírítear ann ar cheanglais maidir le creidiúnú comhlachta de bhun Airteagal 41(3), comhlachta deimhniúcháin de bhun Airteagal 43(3) nó ar na critéir maidir le deimhniú dá dtagraítear in Airteagal 42(5) a fhormheas;<QUOT.END CODE="2019" ID="QE0020" REF.START="QS0020"/>.</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>Ar leathanach 74, in Airteagal 64(6), (7) agus (8):</DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>in ionad:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="064.006">
+            <NO.PARAG><QUOT.START CODE="2018" ID="QS0021" REF.END="QE0021"/>6.</NO.PARAG>
+            <ALINEA>Ní dhéanfaidh an t-údarás inniúil maoirseachta a dhréachtchinneadh dá dtagraítear i mír 1 a ghlacadh laistigh den tréimhse dá dtagraítear i mír 3.</ALINEA>
+          </PARAG>
+          <PARAG IDENTIFIER="064.007">
+            <NO.PARAG>7.</NO.PARAG>
+            <ALINEA>Cuirfidh an t-údarás maoirseachta dá dtagraítear i mír 1 an tuairim ón mBord san áireamh ina hiomláine agus cuirfidh sé in iúl trí mheán leictreonach do Chathaoirleach an Bhoird laistigh de choicís tar éis dó an tuairim a fháil cibé acu an seasfaidh sé leis an dréachtchinneadh nó an leasóidh sé é agus, i gcás inarb ann do leasuithe, cuirfidh an t-údarás maoirseachta an dréachtchinneadh leasaithe ar aghaidh freisin agus úsáid á baint as formáid chaighdeánaithe.</ALINEA>
+          </PARAG>
+          <PARAG IDENTIFIER="064.008">
+            <NO.PARAG>8.</NO.PARAG>
+            <ALINEA>I gcás ina gcuireann an t-údarás maoirseachta lena mbaineann in iúl do Chathaoirleach an Bhoird, laistigh den tréimhse dá dtagraítear i mír 7 den Airteagal seo, nach bhfuil sé ar intinn aige tuairim an Bhoird a leanúint, ina hiomláine nó go páirteach, agus na forais ábhartha á soláthar aige, beidh feidhm ag Airteagal 65(1).<QUOT.END CODE="2019" ID="QE0021" REF.START="QS0021"/>,</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>léitear:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="064.006">
+            <NO.PARAG><QUOT.START CODE="2018" ID="QS0022" REF.END="QE0022"/>6.</NO.PARAG>
+            <ALINEA>Ní dhéanfaidh an t-údarás inniúil maoirseachta dá dtagraítear i mír 1 a dhréachtchinneadh dá dtagraítear i mír 1 a ghlacadh laistigh den tréimhse dá dtagraítear i mír 3.</ALINEA>
+          </PARAG>
+          <PARAG IDENTIFIER="064.007">
+            <NO.PARAG>7.</NO.PARAG>
+            <ALINEA>Cuirfidh an t-údarás inniúil maoirseachta dá dtagraítear i mír 1 an tuairim ón mBord san áireamh ina hiomláine agus cuirfidh sé in iúl trí mheán leictreonach do Chathaoirleach an Bhoird laistigh de choicís tar éis dó an tuairim a fháil cibé acu an seasfaidh sé leis an dréachtchinneadh nó an leasóidh sé é agus, i gcás inarb ann do leasuithe, cuirfidh an t-údarás maoirseachta an dréachtchinneadh leasaithe ar aghaidh freisin agus úsáid á baint as formáid chaighdeánaithe.</ALINEA>
+          </PARAG>
+          <PARAG IDENTIFIER="064.008">
+            <NO.PARAG>8.</NO.PARAG>
+            <ALINEA>I gcás ina gcuireann an t-údarás inniúil maoirseachta dá dtagraítear i mír 1 in iúl do Chathaoirleach an Bhoird, laistigh den tréimhse dá dtagraítear i mír 7 den Airteagal seo, nach bhfuil sé ar intinn aige tuairim an Bhoird a leanúint, ina hiomláine nó go páirteach, agus na forais ábhartha á soláthar aige, beidh feidhm ag Airteagal 65(1).<QUOT.END CODE="2019" ID="QE0022" REF.START="QS0022"/>.</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <?PAGE NO='6'?>
+    <CORRECTION>
+      <DESCRIPTION>Ar leathanach 74, i bpointe (a) d'Airteagal 65(1):</DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>in ionad:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="2018" ID="QS0023" REF.END="QE0023"/>(a)</NO.P>
+                <TXT>más amhlaidh, i gcás dá dtagraítear in Airteagal 60(4), gur ardaigh údarás maoirseachta lena mbaineann agóid ábhartha agus réasúnaithe i gcoinne dréachtchinneadh ón bpríomhúdarás nó i gcás inar dhiúltaigh an príomhúdarás d'agóid den sórt sin ar an mbunús nach bhfuil sí ábhartha nó réasúnaithe. …;<QUOT.END CODE="2019" ID="QE0023" REF.START="QS0023"/>,</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>léitear:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="2018" ID="QS0024" REF.END="QE0024"/>(a)</NO.P>
+                <TXT>más amhlaidh, i gcás dá dtagraítear in Airteagal 60(4), gur ardaigh údarás maoirseachta lena mbaineann agóid ábhartha agus réasúnaithe i gcoinne dréachtchinneadh ón bpríomhúdarás maoirseachta agus i gcás nár lean an príomhúdarás maoirseachta an agóid nó i gcás inar dhiúltaigh an príomhúdarás d'agóid den sórt sin ar an mbunús nach bhfuil sí ábhartha nó réasúnaithe. …;<QUOT.END CODE="2019" ID="QE0024" REF.START="QS0024"/>.</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>Ar leathanach 76, i dteideal Chuid 3:</DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>in ionad:</P>
+        <QUOT.S LEVEL="1">
+          <P><QUOT.START CODE="2018" ID="QS0025" REF.END="QE0025"/>An bord eorpach um chosaint sonraí<QUOT.END CODE="2019" ID="QE0025" REF.START="QS0025"/>,</P>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>léitear:</P>
+        <QUOT.S LEVEL="1">
+          <P><QUOT.START CODE="2018" ID="QS0026" REF.END="QE0026"/>An bord Eorpach um chosaint sonraí<QUOT.END CODE="2019" ID="QE0026" REF.START="QS0026"/>.</P>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>Ar leathanach 76, in Airteagal 69(2):</DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>in ionad:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="069.002">
+            <NO.PARAG><QUOT.START CODE="2018" ID="QS0027" REF.END="QE0027"/>2.</NO.PARAG>
+            <ALINEA>Gan dochar d'iarrataí ón gCoimisiún dá dtagraítear i bpointe (b) d'Airteagal 70(1) agus Airteagal 70(2), ní dhéanfaidh an Bord Eorpach, i bhfeidhmiú a chúraimí nó a chumhachtaí, treoracha a iarraidh ná a fháil ó aon duine.<QUOT.END CODE="2019" ID="QE0027" REF.START="QS0027"/>,</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>léitear:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="069.002">
+            <NO.PARAG><QUOT.START CODE="2018" ID="QS0028" REF.END="QE0028"/>2.</NO.PARAG>
+            <ALINEA>Gan dochar d'iarrataí ón gCoimisiún dá dtagraítear in Airteagal 70(1) agus (2), ní dhéanfaidh an Bord, i bhfeidhmiú a chúraimí nó a chumhachtaí, treoracha a iarraidh ná a fháil ó aon duine.<QUOT.END CODE="2019" ID="QE0028" REF.START="QS0028"/>.</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>Ar leathanach 77, i bpointe (e) d'Airteagal 70(1):</DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>in ionad:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="070.001">
+            <NO.PARAG><QUOT.START CODE="2018" ID="QS0029" REF.END="QE0029"/>(e)</NO.PARAG>
+            <ALINEA>scrúdóidh sé, ar a thionscnamh féin, arna iarraidh sin do chomhalta dá chuid nó don Choimisiún, ceist ar bith lena gcumhdaítear cur i bhfeidhm an Rialacháin seo agus déanfaidh an Bord Eorpach um Chosaint Sonraí treoirlínte, moltaí agus na cleachtais is fearr a eisiúint do na húdaráis mhaoirseachta d'fhonn cur i bhfeidhm comhsheasmhach an Rialacháin seo a spreagadh;<QUOT.END CODE="2019" ID="QE0029" REF.START="QS0029"/>,</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>léitear:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="070.001">
+            <NO.PARAG><QUOT.START CODE="2018" ID="QS0030" REF.END="QE0030"/>(e)</NO.PARAG>
+            <ALINEA>scrúdóidh sé, ar a thionscnamh féin, arna iarraidh sin do chomhalta dá chuid nó don Choimisiún, ceist ar bith lena gcumhdaítear cur i bhfeidhm an Rialacháin seo agus déanfaidh sé treoirlínte, moltaí agus na cleachtais is fearr a eisiúint do na húdaráis mhaoirseachta d'fhonn cur i bhfeidhm comhsheasmhach an Rialacháin seo a spreagadh;<QUOT.END CODE="2019" ID="QE0030" REF.START="QS0030"/>.</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>Ar leathanach 77, i bpointe (l) d'Airteagal 70(1):</DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>in ionad:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="2018" ID="QS0031" REF.END="QE0031"/>(l)</NO.P>
+                <TXT>athbhreithneoidh sé cur i bhfeidhm praiticiúil na dtreoirlínte, na moltaí agus na ndea chleachtas dá dtagraítear i bpointe (e) agus i bpointe (f);<QUOT.END CODE="2019" ID="QE0031" REF.START="QS0031"/>,</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>léitear:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="2018" ID="QS0032" REF.END="QE0032"/>(l)</NO.P>
+                <TXT>athbhreithneoidh sé cur i bhfeidhm praiticiúil na dtreoirlínte, na moltaí agus na ndea-chleachtas;<QUOT.END CODE="2019" ID="QE0032" REF.START="QS0032"/>.</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>Ar leathanach 77, i bpointe (o) d'Airteagal 70(1):</DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>in ionad:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="2018" ID="QS0033" REF.END="QE0033"/>(o)</NO.P>
+                <TXT>déanfaidh sé creidiúnú ar na comhlachtaí deimhniúcháin agus déanfaidh sé athbhreithniú tréimhsiúil air de bhun Airteagal 43a agus coinneoidh sé clár poiblí de na comhlachtaí creidiúnaithe de bhun Airteagal 43(6), agus déanfaidh sé amhlaidh i leith na rialaitheoirí creidiúnaithe nó na bpróiseálaithe creidiúnaithe atá bunaithe i dtríú tíortha de bhun Airteagal 42(7);<QUOT.END CODE="2019" ID="QE0033" REF.START="QS0033"/>,</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>léitear:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="2018" ID="QS0034" REF.END="QE0034"/>(o)</NO.P>
+                <TXT>'formheasfaidh sé na critéir deimhniúcháin de bhun Airteagal 42(5) agus coinneoidh sé clár poiblí de na sásraí deimhniúcháin agus séalaí agus marcanna cosanta sonraí de bhun Airteagal 42(8), agus déanfaidh sé amhlaidh i leith na rialaitheoirí deimhnithe nó na bpróiseálaithe deimhnithe atá bunaithe i dtríú tíortha de bhun Airteagal 42(7);<QUOT.END CODE="2019" ID="QE0034" REF.START="QS0034"/>.</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <?PAGE NO='7'?>
+    <CORRECTION>
+      <DESCRIPTION>Ar leathanach 77, i bpointe (p) d'Airteagal 70(1)</DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>in ionad:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="2018" ID="QS0035" REF.END="QE0035"/>(p)</NO.P>
+                <TXT>sonróidh sé na ceanglais dá dtagraítear in Airteagal 43(3) i dtaca leis na comhlachtaí deimhniúcháin a chreidiúnú faoi Airteagal 42;<QUOT.END CODE="2019" ID="QE0035" REF.START="QS0035"/>,</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>léitear:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="2018" ID="QS0036" REF.END="QE0036"/>(p)</NO.P>
+                <TXT>formheasfaidh sé na ceanglais dá dtagraítear in Airteagal 43(3) d'fhonn na comhlachtaí deimhniúcháin a chreidiúnú dá dtagraítear in Airteagal 43;<QUOT.END CODE="2019" ID="QE0036" REF.START="QS0036"/>.</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+  </CONTENTS.CORR>
+</CORR>

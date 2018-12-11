@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DOC xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://formex.publications.europa.eu/schema/formex-05.56-20160701.xd">
+  <BIB.DOC>
+    <PROD.ID>20180504050</PROD.ID>
+    <FIN.ID>185056</FIN.ID>
+    <DURAB TYPE="DUR"/>
+    <AUTHOR>CS</AUTHOR>
+    <AUTHOR>PE</AUTHOR>
+    <DOC.CORR>
+      <COLL>L</COLL>
+      <NO.OJ>119</NO.OJ>
+      <DATE ISO="20160504">20160504</DATE>
+      <NO.DOC FORMAT="YN" TYPE="OJ">
+        <NO.CURRENT>679</NO.CURRENT>
+        <YEAR>2016</YEAR>
+        <COM>EU</COM>
+      </NO.DOC>
+      <PAGE.FIRST>1</PAGE.FIRST>
+      <PAGE.SEQ>1</PAGE.SEQ>
+    </DOC.CORR>
+  </BIB.DOC>
+  <PUBLICATION.REF FILE="L_2018127PT.toc.xml">
+    <COLL>L</COLL>
+    <NO.OJ>127</NO.OJ>
+    <DATE ISO="20180523">20180523</DATE>
+    <LG.OJ>PT</LG.OJ>
+    <VOLUME.REF>01</VOLUME.REF>
+  </PUBLICATION.REF>
+  <FMX>
+    <DOC.MAIN.PUB NO.SEQ="0002" SYNOPTISM="D0003">
+      <LG.DOC>PT</LG.DOC>
+      <LEGAL.VALUE>CORRIGENDUM</LEGAL.VALUE>
+      <DATE ISO="20180523">20180523</DATE>
+      <PAGE.FIRST>2</PAGE.FIRST>
+      <PAGE.LAST>5</PAGE.LAST>
+      <PAGE.TOTAL>4</PAGE.TOTAL>
+      <PAGE.SEQ>1</PAGE.SEQ>
+      <REF.PHYS FILE="L_2018127PT.01000201.xml" TYPE="DOC.XML"/>
+    </DOC.MAIN.PUB>
+  </FMX>
+  <PAPER>
+    <VOLUME.PAPER>
+      <ITEM.VOLUME REF.NO.SEQ="0002">
+        <TITLE ID.TITLE="T0001">
+          <TI>
+            <P>Retificação do Regulamento (UE) 2016/679 do Parlamento Europeu e do Conselho, de <DATE ISO="20160427">27 de abril de 2016</DATE>, relativo à proteção das pessoas singulares no que diz respeito ao tratamento de dados pessoais e à livre circulação desses dados e que revoga a Diretiva 95/46/CE (Regulamento Geral sobre a Proteção de Dados) <HT TYPE="NORMAL">(<REF.DOC.OJ COLL="L" DATE.PUB="20160504" NO.OJ="119">JO L 119 de 4.5.2016</REF.DOC.OJ>)</HT></P>
+          </TI>
+        </TITLE>
+        <ITEM.REF>2</ITEM.REF>
+      </ITEM.VOLUME>
+    </VOLUME.PAPER>
+  </PAPER>
+  <PDF>
+    <ITEM.VOLUME REF.NO.SEQ="0002">
+      <TITLE REF.TITLE="T0001"/>
+      <ITEM.REF REF.PDF="l_12720180523pt00020005.pdf">2</ITEM.REF>
+    </ITEM.VOLUME>
+  </PDF>
+</DOC>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DOC xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://formex.publications.europa.eu/schema/formex-05.56-20160701.xd">
+  <BIB.DOC>
+    <PROD.ID>20180504050</PROD.ID>
+    <FIN.ID>185056</FIN.ID>
+    <DURAB TYPE="DUR"/>
+    <AUTHOR>CS</AUTHOR>
+    <AUTHOR>PE</AUTHOR>
+    <DOC.CORR>
+      <COLL>L</COLL>
+      <NO.OJ>119</NO.OJ>
+      <DATE ISO="20160504">20160504</DATE>
+      <NO.DOC FORMAT="YN" TYPE="OJ">
+        <NO.CURRENT>679</NO.CURRENT>
+        <YEAR>2016</YEAR>
+        <COM>EU</COM>
+      </NO.DOC>
+      <PAGE.FIRST>1</PAGE.FIRST>
+      <PAGE.SEQ>1</PAGE.SEQ>
+    </DOC.CORR>
+  </BIB.DOC>
+  <PUBLICATION.REF FILE="L_2018127GA.toc.xml">
+    <COLL>L</COLL>
+    <SPECIAL>Eagrán Speisialta<NOTE NOTE.ID="E0001" NUMBERING="STAR"><P>Faoin tagairt L 127 a foilsíodh ábhar an eagráin seo i dteangacha oifigiúla eile an Aontais Eorpaigh.</P></NOTE></SPECIAL>
+    <DATE ISO="20180523">20180523</DATE>
+    <LG.OJ>GA</LG.OJ>
+    <VOLUME.REF>01</VOLUME.REF>
+  </PUBLICATION.REF>
+  <FMX>
+    <DOC.MAIN.PUB NO.SEQ="0003" SYNOPTISM="D0003">
+      <LG.DOC>GA</LG.DOC>
+      <LEGAL.VALUE>CORRIGENDUM</LEGAL.VALUE>
+      <DATE ISO="20180523">20180523</DATE>
+      <PAGE.FIRST>3</PAGE.FIRST>
+      <PAGE.LAST>7</PAGE.LAST>
+      <PAGE.TOTAL>5</PAGE.TOTAL>
+      <PAGE.SEQ>1</PAGE.SEQ>
+      <REF.PHYS FILE="L_2018127GA.01000301.xml" TYPE="DOC.XML"/>
+    </DOC.MAIN.PUB>
+  </FMX>
+  <PAPER>
+    <VOLUME.PAPER>
+      <ITEM.VOLUME REF.NO.SEQ="0003">
+        <TITLE ID.TITLE="T0001">
+          <TI>
+            <P>Ceartúchán ar Rialachán (AE) 2016/679 ó Pharlaimint na hEorpa agus ón gComhairle an <DATE ISO="20160427">27 Aibreán 2016</DATE> maidir le daoine nádúrtha a chosaint i ndáil le sonraí pearsanta a phróiseáil agus maidir le saorghluaiseacht sonraí den sórt sin, agus lena n-aisghairtear Treoir 95/46/CE (An Rialachán Ginearálta maidir le Cosaint Sonraí) <HT TYPE="NORMAL">(<REF.DOC.OJ COLL="L" DATE.PUB="20160504" NO.OJ="119">IO L 119, 4.5.2016</REF.DOC.OJ>)</HT></P>
+          </TI>
+        </TITLE>
+        <ITEM.REF>3</ITEM.REF>
+      </ITEM.VOLUME>
+    </VOLUME.PAPER>
+  </PAPER>
+  <PDF>
+    <ITEM.VOLUME REF.NO.SEQ="0003">
+      <TITLE REF.TITLE="T0001"/>
+      <ITEM.REF REF.PDF="l_12720180523ga00030007.pdf">3</ITEM.REF>
+    </ITEM.VOLUME>
+  </PDF>
+</DOC>

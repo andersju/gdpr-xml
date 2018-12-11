@@ -1,0 +1,967 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CORR xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://formex.publications.europa.eu/schema/formex-05.56-20160701.xd">
+  <BIB.INSTANCE>
+    <DOCUMENT.REF FILE="L_2018127PL.01000201.doc.xml">
+      <COLL>L</COLL>
+      <NO.OJ>127</NO.OJ>
+      <YEAR>2018</YEAR>
+      <LG.OJ>PL</LG.OJ>
+      <PAGE.FIRST>2</PAGE.FIRST>
+      <PAGE.SEQ>1</PAGE.SEQ>
+      <VOLUME.REF>01</VOLUME.REF>
+    </DOCUMENT.REF>
+    <DATE ISO="20180523">20180523</DATE>
+    <LG.DOC>PL</LG.DOC>
+    <NO.SEQ>0002</NO.SEQ>
+    <PAGE.FIRST>2</PAGE.FIRST>
+    <PAGE.SEQ>1</PAGE.SEQ>
+    <PAGE.LAST>9</PAGE.LAST>
+    <PAGE.TOTAL>8</PAGE.TOTAL>
+  </BIB.INSTANCE>
+  <TITLE>
+    <TI>
+      <P>Sprostowanie do rozporządzenia Parlamentu Europejskiego i Rady (UE) 2016/679 z dnia <DATE ISO="20160427">27 kwietnia 2016 r.</DATE> w sprawie ochrony osób fizycznych w związku z przetwarzaniem danych osobowych i w sprawie swobodnego przepływu takich danych oraz uchylenia dyrektywy 95/46/WE (ogólne rozporządzenie o ochronie danych)</P>
+      <P>(<REF.DOC.OJ COLL="L" DATE.PUB="20160504" NO.OJ="119">Dziennik Urzędowy Unii Europejskiej L 119 z dnia 4 maja 2016 r.</REF.DOC.OJ>)</P>
+    </TI>
+  </TITLE>
+  <CONTENTS.CORR>
+    <CORRECTION>
+      <DESCRIPTION>Strona 14, motyw 71, zdania piąte i szóste:</DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>zamiast:</P>
+        <QUOT.S LEVEL="1">
+          <CONSID>
+            <NP>
+              <NO.P><QUOT.START CODE="201E" ID="QS0001" REF.END="QE0001"/>(71)</NO.P>
+              <TXT>[…] Takie przetwarzanie nie powinno dotyczyć dzieci.</TXT>
+              <P>Aby zapewnić rzetelność i przejrzystość przetwarzania wobec osoby, której dane dotyczą, mając na uwadze konkretne okoliczności i kontekst przetwarzania danych osobowych, administrator powinien stosować odpowiednie matematyczne lub statystyczne procedury profilowania, wdrożyć środki techniczne i organizacyjne zapewniające w szczególności korektę powodujcych nieprawidłowości w danych osobowych i maksymalne zmniejszenie ryzyka błędów, zabezpieczyć dane osobowe w sposób uwzględniający potencjalne ryzyko dla interesów i praw osoby, której dane dotyczą, oraz zapobiegający m.in. skutkom w postaci dyskryminacji osób fizycznych z uwagi na pochodzenie rasowe lub etniczne, poglądy polityczne, wyznanie lub przekonania, przynależność do związków zawodowych, stan genetyczny lub zdrowotny, orientację seksualną lub skutkujący środkami mającymi taki efekt.<QUOT.END CODE="201D" ID="QE0001" REF.START="QS0001"/>,</P>
+            </NP>
+          </CONSID>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>powinno być:</P>
+        <QUOT.S LEVEL="1">
+          <CONSID>
+            <NP>
+              <NO.P><QUOT.START CODE="201E" ID="QS0002" REF.END="QE0002"/>(71)</NO.P>
+              <TXT>[…] Takie przetwarzanie nie powinno dotyczyć dzieci.</TXT>
+              <P>Aby zapewnić rzetelność i przejrzystość przetwarzania wobec osoby, której dane dotyczą, mając na uwadze konkretne okoliczności i kontekst przetwarzania danych osobowych, administrator powinien stosować odpowiednie matematyczne lub statystyczne procedury profilowania, wdrożyć środki techniczne i organizacyjne zapewniające w szczególności korektę czynników powodujących nieprawidłowości w danych osobowych i maksymalne zmniejszenie ryzyka błędów, zabezpieczyć dane osobowe w sposób uwzględniający potencjalne ryzyko dla interesów i praw osoby, której dane dotyczą, oraz zapobiec m.in. skutkom w postaci dyskryminacji osób fizycznych z uwagi na pochodzenie rasowe lub etniczne, poglądy polityczne, wyznanie lub przekonania, przynależność do związków zawodowych, stan genetyczny lub zdrowotny lub orientację seksualną, lub przetwarzaniu skutkującemu środkami mającymi taki efekt.<QUOT.END CODE="201D" ID="QE0002" REF.START="QS0002"/>.</P>
+            </NP>
+          </CONSID>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>Strona 15, motyw 75:</DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>zamiast:</P>
+        <QUOT.S LEVEL="1">
+          <CONSID>
+            <NP>
+              <NO.P><QUOT.START CODE="201E" ID="QS0003" REF.END="QE0003"/>(75)</NO.P>
+              <TXT>Ryzyko naruszenia praw lub wolności osób, o różnym prawdopodobieństwie i wadze zagrożeń, może wynikać z przetwarzania danych osobowych […] jeżeli osoby, których dane dotyczą, mogą zostać pozbawione przysługujących im praw i wolności lub możliwości sprawowania kontroli nad swoimi danymi osobowymi; jeżeli przetwarzane są dane osobowe ujawniające pochodzenie rasowe lub etniczne, poglądy polityczne, wyznanie lub przekonania światopoglądowe, lub przynależność do związków zawodowych oraz jeżeli przetwarzane są dane genetyczne, dane dotyczące zdrowia lub dane dotyczące seksualności lub wyroków skazujących i naruszeń prawa lub związanych z tym środków bezpieczeństwa; […]<QUOT.END CODE="201D" ID="QE0003" REF.START="QS0003"/>,</TXT>
+            </NP>
+          </CONSID>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>powinno być:</P>
+        <QUOT.S LEVEL="1">
+          <CONSID>
+            <NP>
+              <NO.P><QUOT.START CODE="201E" ID="QS0004" REF.END="QE0004"/>(75)</NO.P>
+              <TXT>Ryzyko naruszenia praw lub wolności osób, o różnym prawdopodobieństwie i wadze, może wynikać z przetwarzania danych osobowych […] jeżeli osoby, których dane dotyczą, mogą zostać pozbawione przysługujących im praw i wolności lub możliwości sprawowania kontroli nad swoimi danymi osobowymi; jeżeli przetwarzane są dane osobowe ujawniające pochodzenie rasowe lub etniczne, poglądy polityczne, wyznanie lub przekonania światopoglądowe, lub przynależność do związków zawodowych oraz jeżeli przetwarzane są dane genetyczne, dane dotyczące zdrowia lub dane dotyczące seksualności lub wyroków skazujących i czynów zabronionych lub związanych z tym środków bezpieczeństwa; […]<QUOT.END CODE="201D" ID="QE0004" REF.START="QS0004"/>.</TXT>
+            </NP>
+          </CONSID>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <?PAGE NO='3'?>
+    <CORRECTION>
+      <DESCRIPTION>Strona 15, motyw 77:</DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>zamiast:</P>
+        <QUOT.S LEVEL="1">
+          <CONSID>
+            <NP>
+              <NO.P><QUOT.START CODE="201E" ID="QS0005" REF.END="QE0005"/>(77)</NO.P>
+              <TXT>Wskazówki co do tego, jak wdrożyć odpowiednie środki oraz wykazać przestrzeganie prawa przez administratora lub podmiot przetwarzający dane – w szczególności jeżeli chodzi o identyfikowanie ryzyka związanego z przetwarzaniem, o jego ocenę pod kątem źródła, charakteru, prawdopodobieństwa i wagi zagrożenia oraz o najlepsze praktyki pozwalające zminimalizować to ryzyko […]<QUOT.END CODE="201D" ID="QE0005" REF.START="QS0005"/>,</TXT>
+            </NP>
+          </CONSID>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>powinno być:</P>
+        <QUOT.S LEVEL="1">
+          <CONSID>
+            <NP>
+              <NO.P><QUOT.START CODE="201E" ID="QS0006" REF.END="QE0006"/>(77)</NO.P>
+              <TXT>Wskazówki co do tego, jak wdrożyć odpowiednie środki oraz wykazać przestrzeganie prawa przez administratora lub podmiot przetwarzający dane – w szczególności jeżeli chodzi o identyfikowanie ryzyka związanego z przetwarzaniem, o jego ocenę pod kątem źródła, charakteru, prawdopodobieństwa i wagi oraz o najlepsze praktyki pozwalające zminimalizować to ryzyko […]<QUOT.END CODE="201D" ID="QE0006" REF.START="QS0006"/>.</TXT>
+            </NP>
+          </CONSID>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>Strona 15, motyw 80:</DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>zamiast:</P>
+        <QUOT.S LEVEL="1">
+          <CONSID>
+            <NP>
+              <NO.P><QUOT.START CODE="201E" ID="QS0007" REF.END="QE0007"/>(80)</NO.P>
+              <TXT>Gdy administrator lub podmiot przetwarzający niemający jednostki organizacyjnej w Unii przetwarza dane osobowe osób, których dane dotyczą, znajdujących się w Unii, a jego czynności przetwarzania wiążą się z oferowaniem towarów lub usług tym osobom w Unii (niezależnie od tego, czy wymaga od tych osób płatności) lub z monitorowaniem ich zachowania (o ile ma ono miejsce w Unii), to taki administrator lub podmiot przetwarzający powinien wyznaczyć przedstawiciela, chyba że przetwarzanie ma charakter sporadyczny, nie obejmuje – na dużą skalę – przetwarzania szczególnych kategorii danych osobowych, ani przetwarzania danych osobowych dotyczących wyroków skazujących i naruszeń prawa, i jest mało prawdopodobne […]<QUOT.END CODE="201D" ID="QE0007" REF.START="QS0007"/>,</TXT>
+            </NP>
+          </CONSID>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>powinno być:</P>
+        <QUOT.S LEVEL="1">
+          <CONSID>
+            <NP>
+              <NO.P><QUOT.START CODE="201E" ID="QS0008" REF.END="QE0008"/>(80)</NO.P>
+              <TXT>Gdy administrator lub podmiot przetwarzający niemający jednostki organizacyjnej w Unii przetwarza dane osobowe osób, których dane dotyczą, znajdujących się w Unii, a jego czynności przetwarzania wiążą się z oferowaniem towarów lub usług tym osobom w Unii (niezależnie od tego, czy wymaga od tych osób płatności) lub z monitorowaniem ich zachowania (o ile ma ono miejsce w Unii), to taki administrator lub podmiot przetwarzający powinien wyznaczyć przedstawiciela, chyba że przetwarzanie ma charakter sporadyczny, nie obejmuje – na dużą skalę – przetwarzania szczególnych kategorii danych osobowych, ani przetwarzania danych osobowych dotyczących wyroków skazujących i czynów zabronionych, i jest mało prawdopodobne […]<QUOT.END CODE="201D" ID="QE0008" REF.START="QS0008"/>.</TXT>
+            </NP>
+          </CONSID>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>Strona 17, motyw 91, zdanie drugie:</DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>zamiast:</P>
+        <QUOT.S LEVEL="1">
+          <P><QUOT.START CODE="201E" ID="QS0009" REF.END="QE0009"/>Oceny skutków dla ochrony danych należy także dokonywać w przypadkach, w których dane osobowe przetwarza się w celu podjęcia decyzji wobec konkretnej osoby fizycznej po dokonaniu systematycznej, kompleksowej oceny czynników osobowych osób fizycznych na podstawie profilowania tych danych lub po przetworzeniu szczególnych kategorii danych osobowych, danych biometrycznych lub danych osobowych dotyczących wyroków skazujących, naruszeń prawa lub odnośnych środków bezpieczeństwa.<QUOT.END CODE="201D" ID="QE0009" REF.START="QS0009"/>,</P>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>powinno być:</P>
+        <QUOT.S LEVEL="1">
+          <P><QUOT.START CODE="201E" ID="QS0010" REF.END="QE0010"/>Oceny skutków dla ochrony danych należy także dokonywać w przypadkach, w których dane osobowe przetwarza się w celu podjęcia decyzji wobec konkretnej osoby fizycznej po dokonaniu systematycznej, kompleksowej oceny czynników osobowych osób fizycznych na podstawie profilowania tych danych lub po przetworzeniu szczególnych kategorii danych osobowych, danych biometrycznych lub danych osobowych dotyczących wyroków skazujących, czynów zabronionych lub odnośnych środków bezpieczeństwa.<QUOT.END CODE="201D" ID="QE0010" REF.START="QS0010"/>.</P>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>Strona 18, motyw 97:</DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>zamiast:</P>
+        <QUOT.S LEVEL="1">
+          <CONSID>
+            <NP>
+              <NO.P><QUOT.START CODE="201E" ID="QS0011" REF.END="QE0011"/>(97)</NO.P>
+              <TXT>Jeżeli przetwarzania dokonuje organ publiczny z wyjątkiem sądów lub niezależnych organów wymiaru sprawiedliwości w ramach sprawowania wymiaru sprawiedliwości lub jeżeli w sektorze prywatnym przetwarzania dokonuje administrator, którego główna działalność polega na operacjach przetwarzania wymagających regularnego i systematycznego monitorowania osób, których dane dotyczą, na dużą skalę lub jeżeli główna działalność administratora lub podmiotu przetwarzającego polega na przetwarzaniu na dużą skalę szczególnych kategorii danych osobowych oraz danych osobowych dotyczących wyroków skazujących i naruszeń prawa, to w monitorowaniu wewnętrznego przestrzegania […]<QUOT.END CODE="201D" ID="QE0011" REF.START="QS0011"/>,</TXT>
+            </NP>
+          </CONSID>
+        </QUOT.S>
+      </OLD.CORR>
+      <?PAGE NO='4'?>
+      <NEW.CORR FOR.READ="YES">
+        <P>powinno być:</P>
+        <QUOT.S LEVEL="1">
+          <CONSID>
+            <NP>
+              <NO.P><QUOT.START CODE="201E" ID="QS0012" REF.END="QE0012"/>(97)</NO.P>
+              <TXT>Jeżeli przetwarzania dokonuje organ publiczny z wyjątkiem sądów lub niezależnych organów wymiaru sprawiedliwości w ramach sprawowania wymiaru sprawiedliwości lub jeżeli w sektorze prywatnym przetwarzania dokonuje administrator, którego główna działalność polega na operacjach przetwarzania wymagających regularnego i systematycznego monitorowania osób, których dane dotyczą, na dużą skalę lub jeżeli główna działalność administratora lub podmiotu przetwarzającego polega na przetwarzaniu na dużą skalę szczególnych kategorii danych osobowych oraz danych osobowych dotyczących wyroków skazujących i czynów zabronionych, to w monitorowaniu wewnętrznego przestrzegania […]<QUOT.END CODE="201D" ID="QE0012" REF.START="QS0012"/>.</TXT>
+            </NP>
+          </CONSID>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>Strona 33, art. 4 ust. 1:</DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>zamiast:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="ARAB">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0013" REF.END="QE0013"/>1)</NO.P>
+                <TXT><QUOT.START CODE="201E" ID="QS0014" REF.END="QE0014"/>dane osobowe<QUOT.END CODE="201D" ID="QE0014" REF.START="QS0014"/> oznaczają informacje o zidentyfikowanej lub możliwej do zidentyfikowania osobie fizycznej (<QUOT.START CODE="201E" ID="QS0015" REF.END="QE0015"/>osobie, której dane dotyczą<QUOT.END CODE="201D" ID="QE0015" REF.START="QS0015"/>); […]<QUOT.END CODE="201D" ID="QE0013" REF.START="QS0013"/>,</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>powinno być:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="ARAB">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0016" REF.END="QE0016"/>1)</NO.P>
+                <TXT><QUOT.START CODE="201E" ID="QS0017" REF.END="QE0017"/>dane osobowe<QUOT.END CODE="201D" ID="QE0017" REF.START="QS0017"/> oznaczają wszelkie informacje o zidentyfikowanej lub możliwej do zidentyfikowania osobie fizycznej (<QUOT.START CODE="201E" ID="QS0018" REF.END="QE0018"/>osobie, której dane dotyczą<QUOT.END CODE="201D" ID="QE0018" REF.START="QS0018"/>); […]<QUOT.END CODE="201D" ID="QE0016" REF.START="QS0016"/>.</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>Strona 37, art. 6 ust. 4 lit. c):</DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>zamiast:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0019" REF.END="QE0019"/>c)</NO.P>
+                <TXT>charakter danych osobowych, w szczególności czy przetwarzane są szczególne kategorie danych osobowych zgodnie z art. 9 lub dane osobowe dotyczące wyroków skazujących i naruszeń prawa zgodnie z art. 10;<QUOT.END CODE="201D" ID="QE0019" REF.START="QS0019"/>,</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>powinno być:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0020" REF.END="QE0020"/>c)</NO.P>
+                <TXT>charakter danych osobowych, w szczególności czy przetwarzane są szczególne kategorie danych osobowych zgodnie z art. 9 lub dane osobowe dotyczące wyroków skazujących i czynów zabronionych zgodnie z art. 10;<QUOT.END CODE="201D" ID="QE0020" REF.START="QS0020"/>.</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>Strona 39, art. 10:</DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>zamiast:</P>
+        <QUOT.S LEVEL="1">
+          <ARTICLE IDENTIFIER="010">
+            <TI.ART><QUOT.START CODE="201E" ID="QS0021" REF.END="QE0021"/>Artykuł 10</TI.ART>
+            <STI.ART>Przetwarzanie danych osobowych dotyczących wyroków skazujących i naruszeń prawa</STI.ART>
+            <ALINEA>Przetwarzania danych osobowych dotyczących wyroków skazujących oraz naruszeń prawa lub powiązanych środków bezpieczeństwa na podstawie art. 6 ust. 1 […]<QUOT.END CODE="201D" ID="QE0021" REF.START="QS0021"/>,</ALINEA>
+          </ARTICLE>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>powinno być:</P>
+        <QUOT.S LEVEL="1">
+          <ARTICLE IDENTIFIER="010">
+            <TI.ART><QUOT.START CODE="201E" ID="QS0022" REF.END="QE0022"/>Artykuł 10</TI.ART>
+            <STI.ART>Przetwarzanie danych osobowych dotyczących wyroków skazujących i czynów zabronionych</STI.ART>
+            <ALINEA>Przetwarzania danych osobowych dotyczących wyroków skazujących oraz czynów zabronionych lub powiązanych środków bezpieczeństwa na podstawie art. 6 ust. 1 […]<QUOT.END CODE="201D" ID="QE0022" REF.START="QS0022"/>.</ALINEA>
+          </ARTICLE>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>Strona 41, art. 13 ust. 1 lit. f):</DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>zamiast:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0023" REF.END="QE0023"/>f)</NO.P>
+                <TXT>[…] wzmiankę o odpowiednich lub właściwych zabezpieczeniach oraz o możliwościach uzyskania kopii danych lub o miejscu udostępnienia danych.<QUOT.END CODE="201D" ID="QE0023" REF.START="QS0023"/>,</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>powinno być:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0024" REF.END="QE0024"/>f)</NO.P>
+                <TXT>[…] wzmiankę o odpowiednich lub właściwych zabezpieczeniach oraz informację o sposobach uzyskania kopii tych zabezpieczeń lub o miejscu ich udostępnienia.<QUOT.END CODE="201D" ID="QE0024" REF.START="QS0024"/>.</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>Strona 42, art. 14 ust. 1 lit. f):</DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>zamiast:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0025" REF.END="QE0025"/>f)</NO.P>
+                <TXT>[…] wzmiankę o odpowiednich lub właściwych zabezpieczeniach oraz o możliwościach uzyskania kopii danych lub o miejscu udostępnienia danych.<QUOT.END CODE="201D" ID="QE0025" REF.START="QS0025"/>,</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>powinno być:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0026" REF.END="QE0026"/>f)</NO.P>
+                <TXT>[…] wzmiankę o odpowiednich lub właściwych zabezpieczeniach oraz informację o sposobach uzyskania kopii tych zabezpieczeń lub o miejscu ich udostępnienia.<QUOT.END CODE="201D" ID="QE0026" REF.START="QS0026"/>.</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <?PAGE NO='5'?>
+    <CORRECTION>
+      <DESCRIPTION>Strona 43, art. 15 ust. 3:</DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>zamiast:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="015.003">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0027" REF.END="QE0027"/>3.</NO.PARAG>
+            <ALINEA>[…] Jeżeli osoba, której dane dotyczą, zwraca się o kopię drogą elektroniczną i jeżeli nie zaznaczy inaczej, informacji udziela się powszechnie stosowaną drogą elektroniczną.<QUOT.END CODE="201D" ID="QE0027" REF.START="QS0027"/>,</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>powinno być:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="015.003">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0028" REF.END="QE0028"/>3.</NO.PARAG>
+            <ALINEA>[…] Jeżeli osoba, której dane dotyczą, zwraca się o kopię drogą elektroniczną i jeżeli nie zaznaczy inaczej, informacji udziela się w powszechnie stosowanej formie elektronicznej.<QUOT.END CODE="201D" ID="QE0028" REF.START="QS0028"/>.</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>Strona 47, art. 23 ust. 2 lit. g):</DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>zamiast:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0029" REF.END="QE0029"/>g)</NO.P>
+                <TXT>ryzyka naruszenia praw lub wolności osoby, której dane dotyczą; oraz<QUOT.END CODE="201D" ID="QE0029" REF.START="QS0029"/>,</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>powinno być:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0030" REF.END="QE0030"/>g)</NO.P>
+                <TXT>ryzykach naruszenia praw lub wolności osoby, której dane dotyczą; oraz<QUOT.END CODE="201D" ID="QE0030" REF.START="QS0030"/>.</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>Strona 47, art. 23 ust. 2 lit. h):</DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>zamiast:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0031" REF.END="QE0031"/>h)</NO.P>
+                <TXT>prawie osób, której dane dotyczą, do uzyskania informacji o ograniczeniach, o ile nie narusza to celu ograniczenia.<QUOT.END CODE="201D" ID="QE0031" REF.START="QS0031"/>,</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>powinno być:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0032" REF.END="QE0032"/>h)</NO.P>
+                <TXT>prawie osób, których dane dotyczą, do uzyskania informacji o ograniczeniach, o ile nie narusza to celu ograniczenia.<QUOT.END CODE="201D" ID="QE0032" REF.START="QS0032"/>.</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>Strona 47, art. 24 ust. 1:</DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>zamiast:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="024.001">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0033" REF.END="QE0033"/>1.</NO.PARAG>
+            <ALINEA>Uwzględniając charakter, zakres, kontekst i cele przetwarzania oraz ryzyko naruszenia praw lub wolności osób fizycznych o różnym prawdopodobieństwie i wadze zagrożenia, administrator wdraża odpowiednie środki techniczne i organizacyjne, […]<QUOT.END CODE="201D" ID="QE0033" REF.START="QS0033"/>,</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>powinno być:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="024.001">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0034" REF.END="QE0034"/>1.</NO.PARAG>
+            <ALINEA>Uwzględniając charakter, zakres, kontekst i cele przetwarzania oraz ryzyko naruszenia praw lub wolności osób fizycznych o różnym prawdopodobieństwie i wadze, administrator wdraża odpowiednie środki techniczne i organizacyjne, […]<QUOT.END CODE="201D" ID="QE0034" REF.START="QS0034"/>.</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>Strona 48, art. 25 ust. 1:</DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>zamiast:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="025.001">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0035" REF.END="QE0035"/>1.</NO.PARAG>
+            <ALINEA>Uwzględniając stan wiedzy technicznej, koszt wdrażania oraz charakter, zakres, kontekst i cele przetwarzania oraz ryzyko naruszenia praw lub wolności osób fizycznych o różnym prawdopodobieństwie wystąpienia i wadze zagrożenia wynikające z przetwarzania, […]<QUOT.END CODE="201D" ID="QE0035" REF.START="QS0035"/>,</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>powinno być:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="025.001">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0036" REF.END="QE0036"/>1.</NO.PARAG>
+            <ALINEA>Uwzględniając stan wiedzy technicznej, koszt wdrażania oraz charakter, zakres, kontekst i cele przetwarzania oraz ryzyko naruszenia praw lub wolności osób fizycznych o różnym prawdopodobieństwie wystąpienia i wadze wynikające z przetwarzania, […]<QUOT.END CODE="201D" ID="QE0036" REF.START="QS0036"/>.</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>Strona 48, art. 27 ust. 2 lit. a):</DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>zamiast:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0037" REF.END="QE0037"/>a)</NO.P>
+                <TXT>przetwarzania, które ma charakter sporadyczny, nie obejmuje – na dużą skalę – przetwarzania szczególnych kategorii danych osobowych, o których mowa w art. 9 ust. 1, ani przetwarzania danych osobowych dotyczących wyroków skazujących i naruszeń prawa, o czym mowa w art. 10, […]<QUOT.END CODE="201D" ID="QE0037" REF.START="QS0037"/>,</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>powinno być:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0038" REF.END="QE0038"/>a)</NO.P>
+                <TXT>przetwarzania, które ma charakter sporadyczny, nie obejmuje – na dużą skalę – przetwarzania szczególnych kategorii danych osobowych, o których mowa w art. 9 ust. 1, ani przetwarzania danych osobowych dotyczących wyroków skazujących i czynów zabronionych, o czym mowa w art. 10, […]<QUOT.END CODE="201D" ID="QE0038" REF.START="QS0038"/>.</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <?PAGE NO='6'?>
+    <CORRECTION>
+      <DESCRIPTION>Strona 50, art. 28 ust. 9:</DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>zamiast:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="028.009">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0039" REF.END="QE0039"/>9.</NO.PARAG>
+            <ALINEA>Umowa lub inny akt prawny, o których mowa w art. 3 i 4, mają formę pisemną, w tym formę elektroniczną.<QUOT.END CODE="201D" ID="QE0039" REF.START="QS0039"/>,</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>powinno być:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="028.009">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0040" REF.END="QE0040"/>9.</NO.PARAG>
+            <ALINEA>Umowa lub inny akt prawny, o których mowa w ust. 3 i 4, mają formę pisemną, w tym formę elektroniczną.<QUOT.END CODE="201D" ID="QE0040" REF.START="QS0040"/>.</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>Strona 51, art. 30 ust. 5:</DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>zamiast:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="030.005">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0041" REF.END="QE0041"/>5.</NO.PARAG>
+            <ALINEA>Obowiązki, o których mowa w ust. 1 i 2, nie mają zastosowania do przedsiębiorcy lub podmiotu zatrudniającego mniej niż 250 osób, chyba że przetwarzanie, którego dokonują, może powodować ryzyko naruszenia praw lub wolności osób, których dane dotyczą, nie ma charakteru sporadycznego lub obejmuje szczególne kategorie danych osobowych, o których mowa w art. 9 ust. 1, lub dane osobowe dotyczące wyroków skazujących i naruszeń prawa, o czym mowa w art. 10.<QUOT.END CODE="201D" ID="QE0041" REF.START="QS0041"/>,</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>powinno być:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="030.005">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0042" REF.END="QE0042"/>5.</NO.PARAG>
+            <ALINEA>Obowiązki, o których mowa w ust. 1 i 2, nie mają zastosowania do przedsiębiorcy lub podmiotu zatrudniającego mniej niż 250 osób, chyba że przetwarzanie, którego dokonują, może powodować ryzyko naruszenia praw lub wolności osób, których dane dotyczą, nie ma charakteru sporadycznego lub obejmuje szczególne kategorie danych osobowych, o których mowa w art. 9 ust. 1, lub dane osobowe dotyczące wyroków skazujących i czynów zabronionych, o czym mowa w art. 10.<QUOT.END CODE="201D" ID="QE0042" REF.START="QS0042"/>.</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>Strona 51, art. 32 ust. 1:</DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>zamiast:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="032.001">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0043" REF.END="QE0043"/>1.</NO.PARAG>
+            <ALINEA>Uwzględniając stan wiedzy technicznej, koszt wdrażania oraz charakter, zakres, kontekst i cele przetwarzania oraz ryzyko naruszenia praw lub wolności osób fizycznych o różnym prawdopodobieństwie wystąpienia i wadze zagrożenia, administrator i podmiot przetwarzający […]<QUOT.END CODE="201D" ID="QE0043" REF.START="QS0043"/>,</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>powinno być:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="032.001">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0044" REF.END="QE0044"/>1.</NO.PARAG>
+            <ALINEA>Uwzględniając stan wiedzy technicznej, koszt wdrażania oraz charakter, zakres, kontekst i cele przetwarzania oraz ryzyko naruszenia praw lub wolności osób fizycznych o różnym prawdopodobieństwie wystąpienia i wadze, administrator i podmiot przetwarzający […]<QUOT.END CODE="201D" ID="QE0044" REF.START="QS0044"/>.</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>Strona 53, art. 35 ust. 3 lit. b):</DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>zamiast:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0045" REF.END="QE0045"/>b)</NO.P>
+                <TXT>przetwarzania na dużą skalę szczególnych kategorii danych osobowych, o których mowa w art. 9 ust. 1, lub danych osobowych dotyczących wyroków skazujących i naruszeń prawa, o czym mowa w art. 10; lub<QUOT.END CODE="201D" ID="QE0045" REF.START="QS0045"/>,</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>powinno być:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0046" REF.END="QE0046"/>b)</NO.P>
+                <TXT>przetwarzania na dużą skalę szczególnych kategorii danych osobowych, o których mowa w art. 9 ust. 1, lub danych osobowych dotyczących wyroków skazujących i czynów zabronionych, o czym mowa w art. 10; lub<QUOT.END CODE="201D" ID="QE0046" REF.START="QS0046"/>.</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>Strona 55, art. 37 ust. 1 lit. c):</DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>zamiast:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0047" REF.END="QE0047"/>c)</NO.P>
+                <TXT>główna działalność administratora lub podmiotu przetwarzającego polega na przetwarzaniu na dużą skalę szczególnych kategorii danych osobowych, o których mowa w art. 9 ust. 1, oraz danych osobowych dotyczących wyroków skazujących i naruszeń prawa, o czym mowa w art. 10.<QUOT.END CODE="201D" ID="QE0047" REF.START="QS0047"/>,</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>powinno być:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0048" REF.END="QE0048"/>c)</NO.P>
+                <TXT>główna działalność administratora lub podmiotu przetwarzającego polega na przetwarzaniu na dużą skalę szczególnych kategorii danych osobowych, o których mowa w art. 9, lub danych osobowych dotyczących wyroków skazujących i czynów zabronionych, o czym mowa w art. 10.<QUOT.END CODE="201D" ID="QE0048" REF.START="QS0048"/>.</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>Strona 58, art. 41 ust. 3:</DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>zamiast:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="041.003">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0049" REF.END="QE0049"/>3.</NO.PARAG>
+            <ALINEA>Właściwy organ nadzorczy przedkłada proponowane kryteria akredytacji podmiotu, o którym mowa w ust. 1 niniejszego artykułu, Europejskiej Radzie Ochrony Danych zgodnie z mechanizmem spójności, o którym mowa w art. 63.<QUOT.END CODE="201D" ID="QE0049" REF.START="QS0049"/>,</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>powinno być:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="041.003">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0050" REF.END="QE0050"/>3.</NO.PARAG>
+            <ALINEA>Właściwy organ nadzorczy przedkłada proponowane wymogi akredytacji podmiotu, o którym mowa w ust. 1 niniejszego artykułu, Europejskiej Radzie Ochrony Danych zgodnie z mechanizmem spójności, o którym mowa w art. 63.<QUOT.END CODE="201D" ID="QE0050" REF.START="QS0050"/>.</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <?PAGE NO='7'?>
+    <CORRECTION>
+      <DESCRIPTION>Strona 58, art. 41 ust. 5:</DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>zamiast:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="041.005">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0051" REF.END="QE0051"/>5.</NO.PARAG>
+            <ALINEA>Właściwy organ nadzorczy cofa akredytację podmiotu, o którym mowa w ust. 1, jeżeli podmiot ten nie spełnia lub przestał spełniać warunki akredytacji lub jeżeli działania przez niego podejmowane nie są zgodne z niniejszym rozporządzeniem.<QUOT.END CODE="201D" ID="QE0051" REF.START="QS0051"/>,</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>powinno być:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="041.005">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0052" REF.END="QE0052"/>5.</NO.PARAG>
+            <ALINEA>Właściwy organ nadzorczy cofa akredytację podmiotu, o którym mowa w ust. 1, jeżeli podmiot ten nie spełnia lub przestał spełniać wymogi akredytacji lub jeżeli działania przez niego podejmowane nie są zgodne z niniejszym rozporządzeniem.<QUOT.END CODE="201D" ID="QE0052" REF.START="QS0052"/>.</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>Strona 59, art. 42 ust. 7:</DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>zamiast:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="042.007">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0053" REF.END="QE0053"/>7.</NO.PARAG>
+            <ALINEA>Certyfikacji administratora lub podmiotu przetwarzającego udziela się na maksymalny okres 3 lat; certyfikację można przedłużyć na tych samych warunkach, o ile nadal spełnione są stosowne wymogi. W stosownym przypadku organy certyfikujące, o których mowa w art. 43, lub właściwy organ nadzorczy cofają certyfikację, jeżeli jej wymogi nie są spełnione lub przestały być spełniane.<QUOT.END CODE="201D" ID="QE0053" REF.START="QS0053"/>,</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>powinno być:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="042.007">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0054" REF.END="QE0054"/>7.</NO.PARAG>
+            <ALINEA>Certyfikacji administratora lub podmiotu przetwarzającego udziela się na maksymalny okres 3 lat; certyfikację można przedłużyć na tych samych warunkach, o ile nadal spełnione są stosowne kryteria. W stosownym przypadku organy certyfikujące, o których mowa w art. 43, lub właściwy organ nadzorczy cofają certyfikację, jeżeli jej kryteria nie są spełnione lub przestały być spełniane.<QUOT.END CODE="201D" ID="QE0054" REF.START="QS0054"/>.</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>Strona 60, art. 43 ust. 3:</DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>zamiast:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="043.003">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0055" REF.END="QE0055"/>3.</NO.PARAG>
+            <ALINEA>Akredytacja podmiotów certyfikujących, o których mowa w ust. 1 i 2 niniejszego artykułu, jest dokonywana na podstawie kryteriów zatwierdzonych przez organ nadzorczy właściwy zgodnie z art. 55 lub 56 lub przez Europejską Radę Ochrony Danych zgodnie z art. 63. W przypadku akredytacji na mocy ust. 1 lit. c) niniejszego artykułu wymogi te są uzupełnieniem wymogów przewidzianych w rozporządzeniu (WE) nr 765/2008 oraz przepisów technicznych określających metody i procedury podmiotów certyfikujących.<QUOT.END CODE="201D" ID="QE0055" REF.START="QS0055"/>,</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>powinno być:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="043.003">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0056" REF.END="QE0056"/>3.</NO.PARAG>
+            <ALINEA>Akredytacja podmiotów certyfikujących, o których mowa w ust. 1 i 2 niniejszego artykułu, jest dokonywana na podstawie wymogów zatwierdzonych przez organ nadzorczy właściwy zgodnie z art. 55 lub 56 lub przez Europejską Radę Ochrony Danych zgodnie z art. 63. W przypadku akredytacji na mocy ust. 1 lit. b) niniejszego artykułu wymogi te są uzupełnieniem wymogów przewidzianych w rozporządzeniu (WE) nr 765/2008 oraz przepisów technicznych określających metody i procedury podmiotów certyfikujących.<QUOT.END CODE="201D" ID="QE0056" REF.START="QS0056"/>.</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>Strona 60, art. 43 ust. 6:</DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>zamiast:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="043.006">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0057" REF.END="QE0057"/>6.</NO.PARAG>
+            <ALINEA>Organ nadzorczy w łatwo dostępny sposób podaje do wiadomości publicznej wymogi, o których mowa w ust. 3 niniejszego artykułu, oraz kryteria, o których mowa w art. 42 ust. 5. Organy nadzorcze przekazują te wymogi i kryteria także Europejskiej Radzie Ochrony Danych. Gromadzi ona w rejestrze wszystkie mechanizmy certyfikacji oraz znaki jakości w dziedzinie ochrony danych i udostępnia je opinii publicznej za pomocą odpowiednich środków.<QUOT.END CODE="201D" ID="QE0057" REF.START="QS0057"/>,</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>powinno być:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="043.006">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0058" REF.END="QE0058"/>6.</NO.PARAG>
+            <ALINEA>Organ nadzorczy w łatwo dostępny sposób podaje do wiadomości publicznej wymogi, o których mowa w ust. 3 niniejszego artykułu, oraz kryteria, o których mowa w art. 42 ust. 5. Organy nadzorcze przekazują te wymogi i kryteria także Europejskiej Radzie Ochrony Danych.<QUOT.END CODE="201D" ID="QE0058" REF.START="QS0058"/>.</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>Strona 62, art. 46 ust. 3:</DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>zamiast:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="046.003">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0059" REF.END="QE0059"/>3.</NO.PARAG>
+            <ALINEA>Z zastrzeżeniem zezwolenia właściwego organu nadzorczego […]<QUOT.END CODE="201D" ID="QE0059" REF.START="QS0059"/>,</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>powinno być:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="046.003">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0060" REF.END="QE0060"/>3.</NO.PARAG>
+            <ALINEA>Pod warunkiem uzyskania zezwolenia właściwego organu nadzorczego […]<QUOT.END CODE="201D" ID="QE0060" REF.START="QS0060"/>.</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <?PAGE NO='8'?>
+    <CORRECTION>
+      <DESCRIPTION>Strona 62, art. 47, tytuł:</DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>zamiast:</P>
+        <QUOT.S LEVEL="1">
+          <ARTICLE IDENTIFIER="047">
+            <TI.ART><QUOT.START CODE="201E" ID="QS0061" REF.END="QE0061"/>Artykuł 47</TI.ART>
+            <STI.ART>wiążące reguły korporacyjnych<QUOT.END CODE="201D" ID="QE0061" REF.START="QS0061"/>,</STI.ART>
+          </ARTICLE>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>powinno być:</P>
+        <QUOT.S LEVEL="1">
+          <ARTICLE IDENTIFIER="047">
+            <TI.ART><QUOT.START CODE="201E" ID="QS0062" REF.END="QE0062"/>Artykuł 47</TI.ART>
+            <STI.ART>Wiążące reguły korporacyjne<QUOT.END CODE="201D" ID="QE0062" REF.START="QS0062"/>.</STI.ART>
+          </ARTICLE>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>Strona 69, art. 57 ust. 1 lit. p):</DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>zamiast:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0063" REF.END="QE0063"/>p)</NO.P>
+                <TXT>opracowuje i publikuje kryteria akredytacji podmiotu monitorującego kodeksy postępowania na mocy art. 41 oraz podmiotu certyfikującego na mocy art. 43;<QUOT.END CODE="201D" ID="QE0063" REF.START="QS0063"/>,</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>powinno być:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0064" REF.END="QE0064"/>p)</NO.P>
+                <TXT>opracowuje i publikuje wymogi akredytacji podmiotu monitorującego kodeksy postępowania na mocy art. 41 oraz podmiotu certyfikującego na mocy art. 43;<QUOT.END CODE="201D" ID="QE0064" REF.START="QS0064"/>.</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>Strona 74, art. 64 ust. 1 lit. c):</DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>zamiast:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0065" REF.END="QE0065"/>c)</NO.P>
+                <TXT>zatwierdzenia kryteriów akredytacji podmiotu na mocy art. 41 ust. 3 lub podmiotu certyfikującego na mocy art. 43 ust. 3;<QUOT.END CODE="201D" ID="QE0065" REF.START="QS0065"/>;</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>powinno być:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0066" REF.END="QE0066"/>c)</NO.P>
+                <TXT>zatwierdzenia wymogów akredytacji podmiotu na mocy art. 41 ust. 3, podmiotu certyfikującego na mocy art. 43 ust. 3 lub kryteriów certyfikacji, o których mowa w art. 42 ust. 5;<QUOT.END CODE="201D" ID="QE0066" REF.START="QS0066"/>.</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>Strona 74, art. 64 ust. 6, 7 i 8:</DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>zamiast:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="064.006">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0067" REF.END="QE0067"/>6.</NO.PARAG>
+            <ALINEA>Właściwy organ nadzorczy nie przyjmuje projektu decyzji, o którym mowa w art. ust. 1 przed upływem terminu, o którym mowa w ust. 3.</ALINEA>
+          </PARAG>
+          <PARAG IDENTIFIER="064.007">
+            <NO.PARAG>7.</NO.PARAG>
+            <ALINEA>Organ nadzorczy, o którym mowa w ust. 1, w jak największym stopniu uwzględnia opinię Europejskiej Rady Ochrony Danych i w terminie dwóch tygodni po otrzymaniu tej opinii informuje drogą elektroniczną przewodniczącego Europejskiej Rady Ochrony Danych, czy podtrzymuje projekt decyzji, czy też go zmieni, a w stosownym przypadku przekazuje mu w standardowym formacie zmieniony projekt decyzji.</ALINEA>
+          </PARAG>
+          <PARAG IDENTIFIER="064.008">
+            <NO.PARAG>8.</NO.PARAG>
+            <ALINEA>Jeżeli w terminie, o którym mowa w ust. 7 niniejszego artykułu, organ nadzorczy, którego sprawa dotyczy, poinformuje przewodniczącego Europejskiej Rady Ochrony Danych, że nie zamierza się zastosować do całości lub części jej opinii podając odpowiednie uzasadnienie, zastosowanie ma art. 65 ust. 1.<QUOT.END CODE="201D" ID="QE0067" REF.START="QS0067"/>,</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>powinno być:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="064.006">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0068" REF.END="QE0068"/>6.</NO.PARAG>
+            <ALINEA>Właściwy organ nadzorczy, o którym mowa w ust. 1, nie przyjmuje projektu decyzji przed upływem terminu, o którym mowa w ust. 3.</ALINEA>
+          </PARAG>
+          <PARAG IDENTIFIER="064.007">
+            <NO.PARAG>7.</NO.PARAG>
+            <ALINEA>Właściwy organ nadzorczy, o którym mowa w ust. 1, w jak największym stopniu uwzględnia opinię Europejskiej Rady Ochrony Danych i w terminie dwóch tygodni po otrzymaniu tej opinii informuje drogą elektroniczną przewodniczącego Europejskiej Rady Ochrony Danych, czy podtrzymuje projekt decyzji, czy też go zmieni, a w stosownym przypadku przekazuje mu w standardowym formacie zmieniony projekt decyzji.</ALINEA>
+          </PARAG>
+          <PARAG IDENTIFIER="064.008">
+            <NO.PARAG>8.</NO.PARAG>
+            <ALINEA>Jeżeli w terminie, o którym mowa w ust. 7 niniejszego artykułu, właściwy organ nadzorczy, o którym mowa w ust. 1, poinformuje przewodniczącego Europejskiej Rady Ochrony Danych, że nie zamierza się zastosować do całości lub części jej opinii podając odpowiednie uzasadnienie, zastosowanie ma art. 65 ust. 1.<QUOT.END CODE="201D" ID="QE0068" REF.START="QS0068"/>.</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <?PAGE NO='9'?>
+    <CORRECTION>
+      <DESCRIPTION>Strona 74, art. 65 ust. 1 lit. a):</DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>zamiast:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0069" REF.END="QE0069"/>a)</NO.P>
+                <TXT>jeżeli w przypadku, o którym mowa w art. 60 ust. 4, organ nadzorczy, którego sprawa dotyczy, zgłosił mający znaczenie dla sprawy i uzasadniony sprzeciw wobec projektu decyzji wiodącego organu nadzorczego, a wiodący organ nadzorczy odrzucił taki sprzeciw jako niemający znaczenia dla sprawy lub nieuzasadniony. […]<QUOT.END CODE="201D" ID="QE0069" REF.START="QS0069"/>,</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>powinno być:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0070" REF.END="QE0070"/>a)</NO.P>
+                <TXT>jeżeli w przypadku, o którym mowa w art. 60 ust. 4, organ nadzorczy, którego sprawa dotyczy, zgłosił mający znaczenie dla sprawy i uzasadniony sprzeciw wobec projektu decyzji wiodącego organu nadzorczego, a wiodący organ nadzorczy nie przychylił się do tego sprzeciwu lub odrzucił taki sprzeciw jako niemający znaczenia dla sprawy lub nieuzasadniony. […]<QUOT.END CODE="201D" ID="QE0070" REF.START="QS0070"/>.</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>Strona 76, art. 69 ust. 2:</DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>zamiast:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="069.002">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0071" REF.END="QE0071"/>2.</NO.PARAG>
+            <ALINEA>Bez uszczerbku dla wniosków Komisji, o których mowa w art. 70 ust. 1 lit. b) i art. 70 ust. 2, Europejska Rada Ochrony Danych podczas wypełniania swoich zadań lub wykonywania swoich uprawnień nie zwraca się do nikogo o instrukcje ani ich od nikogo nie przyjmuje.<QUOT.END CODE="201D" ID="QE0071" REF.START="QS0071"/>,</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>powinno być:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="069.002">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0072" REF.END="QE0072"/>2.</NO.PARAG>
+            <ALINEA>Bez uszczerbku dla wniosków Komisji, o których mowa w art. 70 ust. 1 i 2, Europejska Rada Ochrony Danych podczas wypełniania swoich zadań lub wykonywania swoich uprawnień nie zwraca się do nikogo o instrukcje ani ich od nikogo nie przyjmuje.<QUOT.END CODE="201D" ID="QE0072" REF.START="QS0072"/>.</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>Strona 77, art. 70 ust. 1 lit. l):</DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>zamiast:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0073" REF.END="QE0073"/>l)</NO.P>
+                <TXT>dokonuje przeglądu praktycznego stosowania wytycznych, zaleceń i najlepszych praktyk, o których mowa w lit. e) i f);<QUOT.END CODE="201D" ID="QE0073" REF.START="QS0073"/>,</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>powinno być:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0074" REF.END="QE0074"/>l)</NO.P>
+                <TXT>dokonuje przeglądu praktycznego stosowania wytycznych, zaleceń i najlepszych praktyk;<QUOT.END CODE="201D" ID="QE0074" REF.START="QS0074"/>.</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>Strona 77, art. 70 ust. 1 lit. o):</DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>zamiast:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0075" REF.END="QE0075"/>o)</NO.P>
+                <TXT>akredytuje podmioty certyfikujące i dokonuje okresowego przeglądu certyfikacji zgodnie z art. 43 oraz prowadzi publiczny rejestr podmiotów akredytowanych zgodnie z art. 43 ust. 6 i administratorów i podmiotów przetwarzających akredytowanych zgodnie z art. 42 ust. 7, mających siedzibę w państwach trzecich;<QUOT.END CODE="201D" ID="QE0075" REF.START="QS0075"/>,</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>powinno być:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0076" REF.END="QE0076"/>o)</NO.P>
+                <TXT>zatwierdza kryteria certyfikacji zgodnie z art. 42 ust. 5 oraz prowadzi publiczny rejestr mechanizmów certyfikacji oraz znaków jakości i oznaczeń w dziedzinie ochrony danych zgodnie z art. 42 ust. 8, a także administratorów lub podmiotów przetwarzających certyfikowanych zgodnie z art. 42 ust. 7, mających siedzibę w państwach trzecich;<QUOT.END CODE="201D" ID="QE0076" REF.START="QS0076"/>.</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>Strona 77, art. 70 ust. 1 lit. p):</DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>zamiast:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0077" REF.END="QE0077"/>p)</NO.P>
+                <TXT>precyzuje wymogi, o których mowa w art. 43 ust. 3, z myślą o akredytacji podmiotów certyfikujących zgodnie z art. 42;<QUOT.END CODE="201D" ID="QE0077" REF.START="QS0077"/>,</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>powinno być:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0078" REF.END="QE0078"/>p)</NO.P>
+                <TXT>zatwierdza wymogi, o których mowa w art. 43 ust. 3, z myślą o akredytacji podmiotów certyfikujących, o których mowa w art. 43;<QUOT.END CODE="201D" ID="QE0078" REF.START="QS0078"/>.</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+  </CONTENTS.CORR>
+</CORR>

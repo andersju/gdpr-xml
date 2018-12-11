@@ -1,0 +1,478 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CORR xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://formex.publications.europa.eu/schema/formex-05.56-20160701.xd">
+  <BIB.INSTANCE>
+    <DOCUMENT.REF FILE="L_2018127FI.01000201.doc.xml">
+      <COLL>L</COLL>
+      <NO.OJ>127</NO.OJ>
+      <YEAR>2018</YEAR>
+      <LG.OJ>FI</LG.OJ>
+      <PAGE.FIRST>2</PAGE.FIRST>
+      <PAGE.SEQ>1</PAGE.SEQ>
+      <VOLUME.REF>01</VOLUME.REF>
+    </DOCUMENT.REF>
+    <DATE ISO="20180523">20180523</DATE>
+    <LG.DOC>FI</LG.DOC>
+    <NO.SEQ>0002</NO.SEQ>
+    <PAGE.FIRST>2</PAGE.FIRST>
+    <PAGE.SEQ>1</PAGE.SEQ>
+    <PAGE.LAST>5</PAGE.LAST>
+    <PAGE.TOTAL>4</PAGE.TOTAL>
+  </BIB.INSTANCE>
+  <TITLE>
+    <TI>
+      <P>Oikaisu Euroopan parlamentin ja neuvoston asetukseen (EU) 2016/679, annettu <DATE ISO="20160427">27 päivänä huhtikuuta 2016</DATE>, luonnollisten henkilöiden suojelusta henkilötietojen käsittelyssä sekä näiden tietojen vapaasta liikkuvuudesta ja direktiivin 95/46/EY kumoamisesta (yleinen tietosuoja-asetus)</P>
+      <P>(<REF.DOC.OJ COLL="L" DATE.PUB="20160504" NO.OJ="119">Euroopan unionin virallinen lehti L 119, 4. toukokuuta 2016</REF.DOC.OJ>)</P>
+    </TI>
+  </TITLE>
+  <CONTENTS.CORR>
+    <CORRECTION>
+      <DESCRIPTION>Sivulla 14, johdanto-osan 71 kappaleen viidennessä ja kuudennessa virkkeessä:</DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>on:</P>
+        <QUOT.S LEVEL="1">
+          <CONSID>
+            <NP>
+              <NO.P><QUOT.START CODE="201D" ID="QS0001" REF.END="QE0001"/>(71)</NO.P>
+              <TXT>… Tällaista toimenpidettä ei saisi kohdistaa lapseen.</TXT>
+              <P>Rekisteröityä koskevan asianmukaisen ja läpinäkyvän käsittelyn varmistamiseksi, ottaen huomioon henkilötietojen käsittelyn erityiset olosuhteet ja asiayhteys, rekisterinpitäjän olisi käytettävä profiloinnissa asianmukaisia matemaattisia tai tilastollisia menetelmiä, toteutettava teknisiä ja organisatorisia toimenpiteitä, jotka soveltuvat erityisesti sen varmistamiseen, että henkilötietojen virheellisyyteen johtavat tekijät korjataan ja virheriski minimoidaan, sekä turvattava henkilötiedot siten, että rekisteröidyn etuihin ja oikeuksiin kohdistuvat mahdolliset riskit otetaan huomioon ja estetään muun muassa luonnollisten henkilöiden syrjintä rodun tai etnisen alkuperän, poliittisten mielipiteiden, uskonnon tai vakaumuksen, ammattiliittoon kuulumisen, geneettisen tilan, terveydentilan tai seksuaalisen suuntautumisen perusteella taikka vaikutukset, joiden johdosta toteutetaan toimenpiteitä, joilla on tällaisia seurauksia.<QUOT.END CODE="201D" ID="QE0001" REF.START="QS0001"/>,</P>
+            </NP>
+          </CONSID>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>pitää olla:</P>
+        <QUOT.S LEVEL="1">
+          <CONSID>
+            <NP>
+              <NO.P><QUOT.START CODE="201D" ID="QS0002" REF.END="QE0002"/>(71)</NO.P>
+              <TXT>… Tällaista toimenpidettä ei saisi kohdistaa lapseen.</TXT>
+              <P>Rekisteröityä koskevan asianmukaisen ja läpinäkyvän käsittelyn varmistamiseksi, ottaen huomioon henkilötietojen käsittelyn erityiset olosuhteet ja asiayhteys, rekisterinpitäjän olisi käytettävä profiloinnissa asianmukaisia matemaattisia tai tilastollisia menetelmiä, toteutettava teknisiä ja organisatorisia toimenpiteitä, jotka soveltuvat erityisesti sen varmistamiseen, että henkilötietojen virheellisyyteen johtavat tekijät korjataan ja virheriski minimoidaan, sekä turvattava henkilötiedot siten, että rekisteröidyn etuihin ja oikeuksiin kohdistuvat mahdolliset riskit otetaan huomioon ja estetään muun muassa luonnollisten henkilöiden syrjintä rodun tai etnisen alkuperän, poliittisten mielipiteiden, uskonnon tai vakaumuksen, ammattiliittoon kuulumisen, geneettisen tilan, terveydentilan tai seksuaalisen suuntautumisen perusteella taikka käsittely, jonka johdosta toteutetaan toimenpiteitä, joilla on tällaisia seurauksia.<QUOT.END CODE="201D" ID="QE0002" REF.START="QS0002"/>.</P>
+            </NP>
+          </CONSID>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>Sivulla 41, 13 artiklan 1 kohdassa:</DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>on:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="OTHER">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201D" ID="QS0003" REF.END="QE0003"/>d)</NO.P>
+                <TXT>rekisterinpitäjän tai kolmannen osapuolen oikeutetut edut, jos käsittely perustuu 6 artiklan 1 kohdan f alakohtaan;</TXT>
+              </NP>
+            </ITEM>
+            <ITEM>
+              <NP>
+                <NO.P>d)</NO.P>
+                <TXT>henkilötietojen vastaanottajat tai vastaanottajaryhmät;</TXT>
+              </NP>
+            </ITEM>
+            <ITEM>
+              <NP>
+                <NO.P>e)</NO.P>
+                <TXT>tapauksen mukaan tieto siitä, että rekisterinpitäjä aikoo siirtää …<QUOT.END CODE="201D" ID="QE0003" REF.START="QS0003"/>,</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>pitää olla:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201D" ID="QS0004" REF.END="QE0004"/>d)</NO.P>
+                <TXT>rekisterinpitäjän tai kolmannen osapuolen oikeutetut edut, jos käsittely perustuu 6 artiklan 1 kohdan f alakohtaan;</TXT>
+              </NP>
+            </ITEM>
+            <ITEM>
+              <NP>
+                <NO.P>e)</NO.P>
+                <TXT>henkilötietojen vastaanottajat tai vastaanottajaryhmät;</TXT>
+              </NP>
+            </ITEM>
+            <ITEM>
+              <NP>
+                <NO.P>f)</NO.P>
+                <TXT>tapauksen mukaan tieto siitä, että rekisterinpitäjä aikoo siirtää …<QUOT.END CODE="201D" ID="QE0004" REF.START="QS0004"/>.</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>Sivulla 55, 37 artiklan 1 kohdan c alakohdassa:</DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>on:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201D" ID="QS0005" REF.END="QE0005"/>c)</NO.P>
+                <TXT>rekisterinpitäjän tai henkilötietojen käsittelijän ydintehtävät muodostuvat laajamittaisesta käsittelystä, joka kohdistuu 9 artiklan mukaisiin erityisiin henkilötietoryhmiin ja 10 artiklassa tarkoitettuihin rikostuomioita tai rikkomuksia koskeviin tietoihin.<QUOT.END CODE="201D" ID="QE0005" REF.START="QS0005"/>,</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>pitää olla:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201D" ID="QS0006" REF.END="QE0006"/>c)</NO.P>
+                <TXT>rekisterinpitäjän tai henkilötietojen käsittelijän ydintehtävät muodostuvat laajamittaisesta käsittelystä, joka kohdistuu 9 artiklan mukaisiin erityisiin henkilötietoryhmiin tai 10 artiklassa tarkoitettuihin rikostuomioihin tai rikkomuksiin liittyviin henkilötietoihin.<QUOT.END CODE="201D" ID="QE0006" REF.START="QS0006"/>.</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <?PAGE NO='3'?>
+    <CORRECTION>
+      <DESCRIPTION>Sivulla 58, 41 artiklan 3 kohdassa:</DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>on:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="041.003">
+            <NO.PARAG><QUOT.START CODE="201D" ID="QS0007" REF.END="QE0007"/>3.</NO.PARAG>
+            <ALINEA>Toimivaltainen valvontaviranomainen toimittaa tämän artiklan 1 kohdassa tarkoitetun elimen akkreditoimista koskevat kriteeriehdotukset tietosuojaneuvostolle 63 artiklassa tarkoitetun yhdenmukaisuusmekanismin mukaisesti.<QUOT.END CODE="201D" ID="QE0007" REF.START="QS0007"/>,</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>pitää olla:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="041.003">
+            <NO.PARAG><QUOT.START CODE="201D" ID="QS0008" REF.END="QE0008"/>3.</NO.PARAG>
+            <ALINEA>Toimivaltainen valvontaviranomainen toimittaa tämän artiklan 1 kohdassa tarkoitetun elimen akkreditoimista koskevat vaatimusehdotukset tietosuojaneuvostolle 63 artiklassa tarkoitetun yhdenmukaisuusmekanismin mukaisesti.<QUOT.END CODE="201D" ID="QE0008" REF.START="QS0008"/>.</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>Sivulla 58, 41 artiklan 5 kohdassa:</DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>on:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="041.005">
+            <NO.PARAG><QUOT.START CODE="201D" ID="QS0009" REF.END="QE0009"/>5.</NO.PARAG>
+            <ALINEA>Toimivaltainen valvontaviranomainen peruuttaa 1 kohdassa tarkoitetun elimen akkreditoinnin, jos akkreditoinnin edellytykset eivät täyty tai eivät enää täyty tai jos elimen toteuttamat toimet rikkovat tätä asetusta.<QUOT.END CODE="201D" ID="QE0009" REF.START="QS0009"/>,</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>pitää olla:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="041.005">
+            <NO.PARAG><QUOT.START CODE="201D" ID="QS0010" REF.END="QE0010"/>5.</NO.PARAG>
+            <ALINEA>Toimivaltainen valvontaviranomainen peruuttaa 1 kohdassa tarkoitetun elimen akkreditoinnin, jos akkreditointia koskevat vaatimukset eivät täyty tai eivät enää täyty tai jos elimen toteuttamat toimet rikkovat tätä asetusta.<QUOT.END CODE="201D" ID="QE0010" REF.START="QS0010"/>.</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>Sivulla 59, 42 artiklan 7 kohdassa:</DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>on:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="042.007">
+            <NO.PARAG><QUOT.START CODE="201D" ID="QS0011" REF.END="QE0011"/>7.</NO.PARAG>
+            <ALINEA>Sertifiointi myönnetään rekisterinpitäjälle tai henkilötietojen käsittelijälle enintään kolmeksi vuodeksi, ja se voidaan uusia samoin edellytyksin, jos sitä koskevat vaatimukset edelleen täyttyvät. Jäljempänä 43 artiklassa tarkoitetut sertifiointielimet tai toimivaltainen valvontaviranomainen peruuttavat sen tarvittaessa, jos sertifiointia koskevat vaatimukset eivät täyty tai eivät enää täyty.<QUOT.END CODE="201D" ID="QE0011" REF.START="QS0011"/>,</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>pitää olla:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="042.007">
+            <NO.PARAG><QUOT.START CODE="201D" ID="QS0012" REF.END="QE0012"/>7.</NO.PARAG>
+            <ALINEA>Sertifiointi myönnetään rekisterinpitäjälle tai henkilötietojen käsittelijälle enintään kolmeksi vuodeksi, ja se voidaan uusia samoin edellytyksin, jos sitä koskevat kriteerit edelleen täyttyvät. Jäljempänä 43 artiklassa tarkoitetut sertifiointielimet tai toimivaltainen valvontaviranomainen peruuttavat sen tarvittaessa, jos sertifiointia koskevat kriteerit eivät täyty tai eivät enää täyty.<QUOT.END CODE="201D" ID="QE0012" REF.START="QS0012"/>.</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>Sivulla 60, 43 artiklan 3 kohdan ensimmäisessä virkkeessä:</DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>on:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="043.003">
+            <NO.PARAG><QUOT.START CODE="201D" ID="QS0013" REF.END="QE0013"/>3.</NO.PARAG>
+            <ALINEA>Tämän artiklan 1 ja 2 kohdassa tarkoitetut sertifiointielimet akkreditoidaan 55 tai 56 artiklan nojalla toimivaltaisen valvontaviranomaisen tai 63 artiklan nojalla tietosuojaneuvoston hyväksymien kriteerien perusteella.<QUOT.END CODE="201D" ID="QE0013" REF.START="QS0013"/>,</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>pitää olla:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="043.003">
+            <NO.PARAG><QUOT.START CODE="201D" ID="QS0014" REF.END="QE0014"/>3.</NO.PARAG>
+            <ALINEA>Tämän artiklan 1 ja 2 kohdassa tarkoitetut sertifiointielimet akkreditoidaan 55 tai 56 artiklan nojalla toimivaltaisen valvontaviranomaisen tai 63 artiklan nojalla tietosuojaneuvoston hyväksymien vaatimusten perusteella.<QUOT.END CODE="201D" ID="QE0014" REF.START="QS0014"/>.</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>Sivulla 60, 43 artiklan 6 kohdassa:</DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>on:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="043.006">
+            <NO.PARAG><QUOT.START CODE="201D" ID="QS0015" REF.END="QE0015"/>6.</NO.PARAG>
+            <ALINEA>Valvontaviranomainen julkistaa tämän artiklan 3 kohdassa tarkoitetut vaatimukset ja 42 artiklan 5 kohdassa tarkoitetut kriteerit helposti saatavilla olevassa muodossa. Valvontaviranomaiset toimittavat nämä vaatimukset ja kriteerit myös tietosuojaneuvostolle. Tietosuojaneuvosto kokoaa kaikki sertifiointimekanismit ja tietosuojasinetit rekisteriin ja asettaa ne julkisesti saataville asianmukaisilla tavoilla.<QUOT.END CODE="201D" ID="QE0015" REF.START="QS0015"/>,</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>pitää olla:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="043.006">
+            <NO.PARAG><QUOT.START CODE="201D" ID="QS0016" REF.END="QE0016"/>6.</NO.PARAG>
+            <ALINEA>Valvontaviranomainen julkistaa tämän artiklan 3 kohdassa tarkoitetut vaatimukset ja 42 artiklan 5 kohdassa tarkoitetut kriteerit helposti saatavilla olevassa muodossa. Valvontaviranomaiset toimittavat nämä vaatimukset ja kriteerit myös tietosuojaneuvostolle.<QUOT.END CODE="201D" ID="QE0016" REF.START="QS0016"/>.</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <?PAGE NO='4'?>
+    <CORRECTION>
+      <DESCRIPTION>Sivulla 69, 57 artiklan 1 kohdan p alakohdassa:</DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>on:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201D" ID="QS0017" REF.END="QE0017"/>p)</NO.P>
+                <TXT>laadittava ja julkaistava kriteerit 41 artiklan mukaisen elimen akkreditoimiseksi käytännesääntöjen seurantaa varten ja sertifiointielimen akkreditoimiseksi 43 artiklan mukaisesti;<QUOT.END CODE="201D" ID="QE0017" REF.START="QS0017"/>,</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>pitää olla:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201D" ID="QS0018" REF.END="QE0018"/>p)</NO.P>
+                <TXT>laadittava ja julkaistava vaatimukset 41 artiklan mukaisen elimen akkreditoimiseksi käytännesääntöjen seurantaa varten ja sertifiointielimen akkreditoimiseksi 43 artiklan mukaisesti;<QUOT.END CODE="201D" ID="QE0018" REF.START="QS0018"/>.</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>Sivulla 74, 64 artiklan 1 kohdan c alakohdassa:</DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>on:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201D" ID="QS0019" REF.END="QE0019"/>c)</NO.P>
+                <TXT>jonka tarkoituksena on hyväksyä kriteerit 41 artiklan 3 kohdan mukaisen elimen tai 43 artiklan 3 kohdan mukaisen sertifiointielimen akkreditoimiseksi;<QUOT.END CODE="201D" ID="QE0019" REF.START="QS0019"/>,</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>pitää olla:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201D" ID="QS0020" REF.END="QE0020"/>c)</NO.P>
+                <TXT>jonka tarkoituksena on hyväksyä vaatimukset 41 artiklan 3 kohdan mukaisen elimen, 43 artiklan 3 kohdan mukaisen sertifiointielimen akkreditoimiseksi tai hyväksyä 42 artiklan 5 kohdassa tarkoitetut sertifiointikriteerit;<QUOT.END CODE="201D" ID="QE0020" REF.START="QS0020"/>.</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>Sivulla 74, 64 artiklan 6, 7 ja 8 kohdassa:</DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>on:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="064.006">
+            <NO.PARAG><QUOT.START CODE="201D" ID="QS0021" REF.END="QE0021"/>6.</NO.PARAG>
+            <ALINEA>Toimivaltainen valvontaviranomainen ei saa hyväksyä 1 kohdassa tarkoitettua päätösehdotusta 3 kohdassa tarkoitetun määräajan kuluessa.</ALINEA>
+          </PARAG>
+          <PARAG IDENTIFIER="064.007">
+            <NO.PARAG>7.</NO.PARAG>
+            <ALINEA>Edellä 1 kohdassa tarkoitettu valvontaviranomainen ottaa tietosuojaneuvoston lausunnon huomioon mahdollisimman kattavasti ja ilmoittaa tietosuojaneuvoston puheenjohtajalle sähköisesti kahden viikon kuluessa lausunnon saamisesta, pitäytyykö se päätösehdotuksessaan vai muuttaako se sitä, ja toimittaa puheenjohtajalle mahdollisesti muutetun päätösehdotuksen vakiolomaketta käyttäen.</ALINEA>
+          </PARAG>
+          <PARAG IDENTIFIER="064.008">
+            <NO.PARAG>8.</NO.PARAG>
+            <ALINEA>Jos osallistuva valvontaviranomainen ilmoittaa tietosuojaneuvoston puheenjohtajalle tämän artiklan 8 kohdassa tarkoitetun määräajan kuluessa, ettei se aio noudattaa neuvoston lausuntoa kokonaisuudessaan tai osittain ja esittää asianmukaiset perusteet, sovelletaan 65 artiklan 1 kohtaa.<QUOT.END CODE="201D" ID="QE0021" REF.START="QS0021"/>,</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>pitää olla:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="064.006">
+            <NO.PARAG><QUOT.START CODE="201D" ID="QS0022" REF.END="QE0022"/>6.</NO.PARAG>
+            <ALINEA>Edellä 1 kohdassa tarkoitettu toimivaltainen valvontaviranomainen ei saa hyväksyä 1 kohdassa tarkoitettua päätösehdotusta 3 kohdassa tarkoitetun määräajan kuluessa.</ALINEA>
+          </PARAG>
+          <PARAG IDENTIFIER="064.007">
+            <NO.PARAG>7.</NO.PARAG>
+            <ALINEA>Edellä 1 kohdassa tarkoitettu toimivaltainen valvontaviranomainen ottaa tietosuojaneuvoston lausunnon huomioon mahdollisimman kattavasti ja ilmoittaa tietosuojaneuvoston puheenjohtajalle sähköisesti kahden viikon kuluessa lausunnon saamisesta, pitäytyykö se päätösehdotuksessaan vai muuttaako se sitä, ja toimittaa puheenjohtajalle mahdollisesti muutetun päätösehdotuksen vakiolomaketta käyttäen.</ALINEA>
+          </PARAG>
+          <PARAG IDENTIFIER="064.008">
+            <NO.PARAG>8.</NO.PARAG>
+            <ALINEA>Jos 1 kohdassa tarkoitettu toimivaltainen valvontaviranomainen ilmoittaa tietosuojaneuvoston puheenjohtajalle tämän artiklan 7 kohdassa tarkoitetun määräajan kuluessa, ettei se aio noudattaa neuvoston lausuntoa kokonaisuudessaan tai osittain ja esittää asianmukaiset perusteet, sovelletaan 65 artiklan 1 kohtaa.<QUOT.END CODE="201D" ID="QE0022" REF.START="QS0022"/>.</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>Sivulla 74, 65 artiklan 1 kohdan a alakohdassa:</DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>on:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201D" ID="QS0023" REF.END="QE0023"/>a)</NO.P>
+                <TXT>jos 60 artiklan 4 kohdassa tarkoitetussa tapauksessa asianomainen valvontaviranomainen on esittänyt johtavan viranomaisen päätösehdotukseen merkityksellisen ja perustellun vastalauseen tai jos johtava viranomainen on hylännyt tällaisen vastalauseen, koska se ei ollut merkityksellinen ja/tai perusteltu. …;<QUOT.END CODE="201D" ID="QE0023" REF.START="QS0023"/>,</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>pitää olla:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201D" ID="QS0024" REF.END="QE0024"/>a)</NO.P>
+                <TXT>jos 60 artiklan 4 kohdassa tarkoitetussa tapauksessa asianomainen valvontaviranomainen on esittänyt johtavan viranomaisen päätösehdotukseen merkityksellisen ja perustellun vastalauseen ja jos johtava valvontaviranomainen ei ole noudattanut tällaista vastalausetta tai on hylännyt tällaisen vastalauseen, koska se ei ollut merkityksellinen ja/tai perusteltu. …;<QUOT.END CODE="201D" ID="QE0024" REF.START="QS0024"/>.</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <?PAGE NO='5'?>
+    <CORRECTION>
+      <DESCRIPTION>Sivulla 76, 69 artiklan 2 kohdassa:</DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>on:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="069.002">
+            <NO.PARAG><QUOT.START CODE="201D" ID="QS0025" REF.END="QE0025"/>2.</NO.PARAG>
+            <ALINEA>Tietosuojaneuvosto ei tehtäviään hoitaessaan tai toimivaltaansa käyttäessään pyydä eikä ota ohjeita miltään taholta, sanotun rajoittamatta 70 artiklan 1 kohdan b alakohdassa ja 2 kohdassa tarkoitettuja komission pyyntöjä.<QUOT.END CODE="201D" ID="QE0025" REF.START="QS0025"/>,</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>pitää olla:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="069.002">
+            <NO.PARAG><QUOT.START CODE="201D" ID="QS0026" REF.END="QE0026"/>2.</NO.PARAG>
+            <ALINEA>Tietosuojaneuvosto ei tehtäviään hoitaessaan tai toimivaltaansa käyttäessään pyydä eikä ota ohjeita miltään taholta, sanotun rajoittamatta 70 artiklan 1 ja 2 kohdassa tarkoitettuja komission pyyntöjä.<QUOT.END CODE="201D" ID="QE0026" REF.START="QS0026"/>.</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>Sivulla 77, 70 artiklan 1 kohdan l alakohdassa:</DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>on:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201D" ID="QS0027" REF.END="QE0027"/>l)</NO.P>
+                <TXT>tarkastelee e ja f alakohdassa tarkoitettujen suuntaviivojen, suositusten ja parhaiden käytänteiden soveltamista käytäntöön;<QUOT.END CODE="201D" ID="QE0027" REF.START="QS0027"/>,</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>pitää olla:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201D" ID="QS0028" REF.END="QE0028"/>l)</NO.P>
+                <TXT>tarkastelee suuntaviivojen, suositusten ja parhaiden käytänteiden soveltamista käytäntöön;<QUOT.END CODE="201D" ID="QE0028" REF.START="QS0028"/>.</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>Sivulla 77, 70 artiklan 1 kohdan o alakohdassa:</DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>on:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201D" ID="QS0029" REF.END="QE0029"/>o)</NO.P>
+                <TXT>toteuttaa sertifiointielinten akkreditointia ja 43 artiklan mukaista määräaikaistarkastelua sekä pitää yllä 43 artiklan 6 kohdan mukaista akkreditoitujen elinten julkista rekisteriä ja 42 artiklan 7 kohdan mukaista kolmansiin maihin sijoittautuneiden akkreditoitujen rekisterinpitäjien tai henkilötietojen käsittelijöiden julkista rekisteriä;<QUOT.END CODE="201D" ID="QE0029" REF.START="QS0029"/>,</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>pitää olla:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201D" ID="QS0030" REF.END="QE0030"/>o)</NO.P>
+                <TXT>hyväksyy 42 artiklan 5 kohdan mukaiset sertifiointikriteerit ja pitää yllä julkista rekisteriä 42 artiklan 8 kohdan mukaisista sertifiointimekanismeista ja tietosuojasineteistä ja -merkeistä sekä 42 artiklan 7 kohdan mukaisista kolmansiin maihin sijoittautuneista sertifioiduista rekisterinpitäjistä tai henkilötietojen käsittelijöistä;<QUOT.END CODE="201D" ID="QE0030" REF.START="QS0030"/>.</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>Sivulla 77, 70 artiklan 1 kohdan p alakohdassa:</DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>on:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201D" ID="QS0031" REF.END="QE0031"/>p)</NO.P>
+                <TXT>määrittelee 43 artiklan 3 kohdassa tarkoitetut vaatimukset sertifiointielinten akkreditoimiseksi 42 artiklan nojalla;<QUOT.END CODE="201D" ID="QE0031" REF.START="QS0031"/>,</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>pitää olla:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201D" ID="QS0032" REF.END="QE0032"/>p)</NO.P>
+                <TXT>hyväksyy 43 artiklan 3 kohdassa tarkoitetut vaatimukset sertifiointielinten akkreditoimiseksi 43 artiklan nojalla;<QUOT.END CODE="201D" ID="QE0032" REF.START="QS0032"/>.</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+  </CONTENTS.CORR>
+</CORR>

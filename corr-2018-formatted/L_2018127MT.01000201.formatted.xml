@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CORR xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://formex.publications.europa.eu/schema/formex-05.56-20160701.xd">
+  <BIB.INSTANCE>
+    <DOCUMENT.REF FILE="L_2018127MT.01000201.doc.xml">
+      <COLL>L</COLL>
+      <NO.OJ>127</NO.OJ>
+      <YEAR>2018</YEAR>
+      <LG.OJ>MT</LG.OJ>
+      <PAGE.FIRST>2</PAGE.FIRST>
+      <PAGE.SEQ>1</PAGE.SEQ>
+      <VOLUME.REF>01</VOLUME.REF>
+    </DOCUMENT.REF>
+    <DATE ISO="20180523">20180523</DATE>
+    <LG.DOC>MT</LG.DOC>
+    <NO.SEQ>0002</NO.SEQ>
+    <PAGE.FIRST>2</PAGE.FIRST>
+    <PAGE.SEQ>1</PAGE.SEQ>
+    <PAGE.LAST>5</PAGE.LAST>
+    <PAGE.TOTAL>4</PAGE.TOTAL>
+  </BIB.INSTANCE>
+  <TITLE>
+    <TI>
+      <P>Rettifika tar-Regolament (UE) 2016/679 tal-Parlament Ewropew u tal-Kunsill tas-<DATE ISO="20160427">27 ta’ April 2016</DATE> dwar il-protezzjoni tal-persuni fiżiċi fir-rigward tal-ipproċessar ta’ <HT TYPE="ITALIC">data</HT> personali u dwar il- moviment liberu ta’ tali <HT TYPE="ITALIC">data</HT>, u li jħassar id-Direttiva 95/46/KE (Regolament Ġenerali dwar il-Protezzjoni tad-<HT TYPE="ITALIC">Data</HT>)</P>
+      <P>(<REF.DOC.OJ COLL="L" DATE.PUB="20160504" NO.OJ="119">Il-Ġurnal Uffiċjali tal-Unjoni Ewropea L 119 tal-4 ta’ Mejju 2016</REF.DOC.OJ>)</P>
+    </TI>
+  </TITLE>
+  <CONTENTS.CORR>
+    <CORRECTION>
+      <DESCRIPTION>Fil-paġna 14, il-premessa (71), il-ħames u s-sitt sentenzi:</DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>minflok:</P>
+        <QUOT.S LEVEL="1">
+          <CONSID>
+            <NP>
+              <NO.P><QUOT.START CODE="201C" ID="QS0001" REF.END="QE0001"/>(71)</NO.P>
+              <TXT>… Tali miżura m’għandhiex tikkonċerna tfal.</TXT>
+              <P>Sabiex jiġi żgurat ipproċessar ġust u trasparenti fir-rigward tas-suġġett tad-data, b’kont meħud taċ-ċirkostanzi speċifiċi u l-kuntest li fih tiġi pproċessata d-data personali, il-kontrollur għandu juża proċeduri matematiċi jew statistiċi adegwati għat-teħid ta’ profili, jimplimenta miżuri tekniċi u organizzattivi adatti biex jiġi żgurat, b’mod partikolari, li fatturi li jirriżultaw f’ineżattezzi fid-data personali jiġu kkoreġuti u jitnaqqas ir-riskju ta’ żbalji, jiżgura d-data personali f’mod li jieħu kont tar-riskji potenzjali involuti għall-interessi u d-drittijiet tas-suġġett tad- data u li jipprevjeni, fost oħrajn, effetti diskriminatorji fuq persuni fiżiċi abbażi tar-razza jew oriġini etnika, opinjoni politika, reliġjon jew twemmin, sħubija fi trade union, stat ġenetiku jew tas-saħħa jew orjentazzjoni sesswali, jew li jirriżulta f’miżuri li jkollhom dan l-effett.<QUOT.END CODE="201D" ID="QE0001" REF.START="QS0001"/>,</P>
+            </NP>
+          </CONSID>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>aqra:</P>
+        <QUOT.S LEVEL="1">
+          <CONSID>
+            <NP>
+              <NO.P><QUOT.START CODE="201C" ID="QS0002" REF.END="QE0002"/>(71)</NO.P>
+              <TXT>… Tali miżura m’għandhiex tikkonċerna tfal.</TXT>
+              <P>Sabiex jiġi żgurat ipproċessar ġust u trasparenti fir-rigward tas-suġġett tad-<HT TYPE="ITALIC">data</HT>, b’kont meħud taċ-ċirkostanzi speċifiċi u l-kuntest li fih tiġi pproċessata d-<HT TYPE="ITALIC">data</HT> personali, il-kontrollur għandu juża proċeduri matematiċi jew statistiċi adegwati għat-teħid ta’ profili, jimplimenta miżuri tekniċi u organizzattivi adatti biex jiġi żgurat, b’mod partikolari, li fatturi li jirriżultaw f’ineżattezzi fid-<HT TYPE="ITALIC">data</HT> personali jiġu kkoreġuti u jitnaqqas ir-riskju ta’ żbalji, jiżgura d-<HT TYPE="ITALIC">data</HT> personali f’mod li jieħu kont tar-riskji potenzjali involuti għall-interessi u d-drittijiet tas-suġġett tad-<HT TYPE="ITALIC">data</HT> u jipprevjeni, fost oħrajn, effetti diskriminatorji fuq persuni fiżiċi abbażi tar-razza jew oriġini etnika, opinjoni politika, reliġjon jew twemmin, sħubija fi trade union, stat ġenetiku jew tas-saħħa jew orjentazzjoni sesswali, jew ipproċessar li jirriżulta f’miżuri li jkollhom dan l-effett.<QUOT.END CODE="201D" ID="QE0002" REF.START="QS0002"/>.</P>
+            </NP>
+          </CONSID>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>Fil-paġna 55, il-punt (c) tal-Artikolu 37(1):</DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>minflok:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201C" ID="QS0003" REF.END="QE0003"/>(c)</NO.P>
+                <TXT>l-attivitajiet ewlenin tal-kontrollur jew tal-proċessur jikkonsistu f’ipproċessar fuq skala kbira ta’ kategoriji speċjali ta’ data skont l-Artikolu 9 u ta’ data personali relatata ma’ kundanni kriminali u reati msemmija fl-Artikolu 10.<QUOT.END CODE="201D" ID="QE0003" REF.START="QS0003"/>,</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>aqra:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201C" ID="QS0004" REF.END="QE0004"/>(c)</NO.P>
+                <TXT>l-attivitajiet ewlenin tal-kontrollur jew tal-proċessur jikkonsistu f’ipproċessar fuq skala kbira ta’ kategoriji speċjali ta’ <HT TYPE="ITALIC">data</HT> skont l-Artikolu 9 jew ta’ <HT TYPE="ITALIC">data</HT> personali relatata ma’ kundanni kriminali u reati msemmija fl-Artikolu 10.<QUOT.END CODE="201D" ID="QE0004" REF.START="QS0004"/>.</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>Fil-paġna 58, l-Artikolu 41(3):</DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>minflok:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="041.003">
+            <NO.PARAG><QUOT.START CODE="201C" ID="QS0005" REF.END="QE0005"/>3.</NO.PARAG>
+            <ALINEA>L-awtorità superviżorja kompetenti għandha tippreżenta l-abbozz ta’ kriterji għall-akkreditazzjoni ta’ korp kif imsemmi fil-paragrafu 1 ta’ dan l-Artikolu għall-Bord skont il-mekkaniżmu ta’ konsistenza msemmi fl-Artikolu 63.<QUOT.END CODE="201D" ID="QE0005" REF.START="QS0005"/>,</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>aqra:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="041.003">
+            <NO.PARAG><QUOT.START CODE="201C" ID="QS0006" REF.END="QE0006"/>3.</NO.PARAG>
+            <ALINEA>L-awtorità superviżorja kompetenti għandha tippreżenta l-abbozz ta’ rekwiżiti għall-akkreditazzjoni ta’ korp kif imsemmi fil-paragrafu 1 ta’ dan l-Artikolu għall-Bord skont il-mekkaniżmu ta’ konsistenza msemmi fl-Artikolu 63.<QUOT.END CODE="201D" ID="QE0006" REF.START="QS0006"/>.</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>Fil-paġna 58, l-Artikolu 41(5):</DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>minflok:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="041.005">
+            <NO.PARAG><QUOT.START CODE="201C" ID="QS0007" REF.END="QE0007"/>5.</NO.PARAG>
+            <ALINEA>L-awtorità superviżorja kompetenti għandha tirrevoka l-akkreditazzjoni ta’ korp kif imsemmi fil-paragrafu 1 jekk il-kondizzjonijiet għall-akkreditazzjoni ma jkunux milħuqa jew m’għadhomx jintlaħqu jew fejn azzjonijiet meħuda mill-korp jiksru dan ir-Regolament.<QUOT.END CODE="201D" ID="QE0007" REF.START="QS0007"/>,</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>aqra:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="041.005">
+            <NO.PARAG><QUOT.START CODE="201C" ID="QS0008" REF.END="QE0008"/>5.</NO.PARAG>
+            <ALINEA>L-awtorità superviżorja kompetenti għandha tirrevoka l-akkreditazzjoni ta’ korp kif imsemmi fil-paragrafu 1 jekk ir-rekwiżiti għall-akkreditazzjoni ma jkunux milħuqa jew m’għadhomx jintlaħqu jew fejn azzjonijiet meħuda mill-korp jiksru dan ir-Regolament.<QUOT.END CODE="201D" ID="QE0008" REF.START="QS0008"/>.</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <?PAGE NO='3'?>
+    <CORRECTION>
+      <DESCRIPTION>Fil-paġna 59, l-Artikolu 42(7):</DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>minflok:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="042.007">
+            <NO.PARAG><QUOT.START CODE="201C" ID="QS0009" REF.END="QE0009"/>7.</NO.PARAG>
+            <ALINEA>Iċ-ċertifikazzjoni għandha tinħareġ lil kontrollur jew proċessur għal perijodu massimu ta’ tliet snin u tista’ tiġġedded, skont l-istess kondizzjonijiet, sakemm jibqgħu jiġu sodisfatti r-rekwiżiti rilevanti. Iċ-ċertifikazzjoni għandha tiġi rtirata, fejn applikabbli, mill-korpi ta’ ċertifikazzjoni msemmija fl-Artikolu 43, jew mill-awtorità superviżorja kompetenti fejn ma jiġux sodisfatti jew ma jibqgħux jiġu sodisfatti r-rekwiżiti għaċ-ċertifikazzjoni.<QUOT.END CODE="201D" ID="QE0009" REF.START="QS0009"/>,</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>aqra:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="042.007">
+            <NO.PARAG><QUOT.START CODE="201C" ID="QS0010" REF.END="QE0010"/>7.</NO.PARAG>
+            <ALINEA>Iċ-ċertifikazzjoni għandha tinħareġ lil kontrollur jew proċessur għal perijodu massimu ta’ tliet snin u tista’ tiġġedded, skont l-istess kondizzjonijiet, sakemm jibqgħu jiġu sodisfatti <HT TYPE="UNDERLINE">l-kriterji</HT> rilevanti. Iċ-ċertifikazzjoni għandha tiġi rtirata, fejn applikabbli, mill-korpi ta’ ċertifikazzjoni msemmija fl-Artikolu 43, jew mill-awtorità superviżorja kompetenti fejn ma jiġux sodisfatti jew ma jibqgħux jiġu sodisfatti l-kriterji għaċ-ċertifikazzjoni.<QUOT.END CODE="201D" ID="QE0010" REF.START="QS0010"/>,</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>Fil-paġna 60, l-Artikolu 43(3), l-ewwel sentenza:</DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>minflok:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="043.003">
+            <NO.PARAG><QUOT.START CODE="201C" ID="QS0011" REF.END="QE0011"/>3.</NO.PARAG>
+            <ALINEA>L-akkreditazzjoni tal-korpi ta’ ċertifikazzjoni kif imsemmija fil-paragrafi 1 u 2 ta’ dan l-Artikolu għandhom jitwettqu abbażi ta’ kriterji approvati mill-awtorità superviżorja li hija kompetenti skont l-Artikolu 55 jew 56 jew, mill- Bord, skont l-Artikolu 63.<QUOT.END CODE="201D" ID="QE0011" REF.START="QS0011"/>,</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>aqra:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="043.003">
+            <NO.PARAG><QUOT.START CODE="201C" ID="QS0012" REF.END="QE0012"/>3.</NO.PARAG>
+            <ALINEA>L-akkreditazzjoni tal-korpi ta’ ċertifikazzjoni kif imsemmija fil-paragrafi 1 u 2 ta’ dan l-Artikolu għandha ssir abbażi ta’ rekwiżiti approvati mill-awtorità superviżorja li hija kompetenti skont l-Artikolu 55 jew 56 jew mill-Bord skont l-Artikolu 63.<QUOT.END CODE="201D" ID="QE0012" REF.START="QS0012"/>.</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>Fil-paġna 60, l-Artikolu 43(6):</DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>minflok:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="043.006">
+            <NO.PARAG><QUOT.START CODE="201C" ID="QS0013" REF.END="QE0013"/>6.</NO.PARAG>
+            <ALINEA>Ir-rekwiżiti msemmija fil-paragrafu 3 ta’ dan l-Artikolu u l-kriterji msemmija fl-Artikolu 42(5) għandhom jiġu ppubblikati mill-awtorità superviżorja f’forma faċilment aċċessibbli. L-awtoritajiet superviżorji għandhom ukoll jittrażmettu dawk ir-rekwiżiti u kriterji lill-Bord. Il-Bord għandu jiġbor il-mekkaniżmi ta’ ċertifikazzjoni kollha u s-siġilli tal-protezzjoni tad-<HT TYPE="ITALIC">data</HT> kollha f’reġistru u għandu jagħmilhom disponibbli għall-pubbliku bi kwalunkwe mezz xieraq.<QUOT.END CODE="201D" ID="QE0013" REF.START="QS0013"/>,</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>aqra:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="043.006">
+            <NO.PARAG><QUOT.START CODE="201C" ID="QS0014" REF.END="QE0014"/>6.</NO.PARAG>
+            <ALINEA>Ir-rekwiżiti msemmija fil-paragrafu 3 ta’ dan l-Artikolu u l-kriterji msemmija fl-Artikolu 42(5) għandhom jiġu ppubblikati mill-awtorità superviżorja f’forma faċilment aċċessibbli. L-awtoritajiet superviżorji għandhom ukoll jittrażmettu dawk ir-rekwiżiti u kriterji lill-Bord.<QUOT.END CODE="201D" ID="QE0014" REF.START="QS0014"/>.</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>Fil-paġna 69, il-punt (p) tal-Artikolu 57(1):</DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>minflok:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201C" ID="QS0015" REF.END="QE0015"/>(p)</NO.P>
+                <TXT>tabbozza u tippubblika l-kriterji għall-akkreditazzjoni ta’ korp għall-monitoraġġ tal-kodiċijiet ta’ kondotta skont l- Artikolu 41 u ta’ korp ta’ ċertifikazzjoni skont l-Artikolu 43;<QUOT.END CODE="201D" ID="QE0015" REF.START="QS0015"/>,</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>aqra:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201C" ID="QS0016" REF.END="QE0016"/>(p)</NO.P>
+                <TXT>tabbozza u tippubblika r-rekwiżiti għall-akkreditazzjoni ta’ korp għall-monitoraġġ tal-kodiċijiet ta’ kondotta skont l- Artikolu 41 u ta’ korp ta’ ċertifikazzjoni skont l-Artikolu 43;<QUOT.END CODE="201D" ID="QE0016" REF.START="QS0016"/>.</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>Fil-paġna 74, il-punt (c) tal-Artikolu 64(1):</DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>minflok:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201C" ID="QS0017" REF.END="QE0017"/>(c)</NO.P>
+                <TXT>ikollha l-għan li tapprova l-kriterji għall-akkreditazzjoni ta’ korp skont l-Artikolu 41(3) jew korp ta’ ċertifikazzjoni skont l-Artikolu 43(3);<QUOT.END CODE="201D" ID="QE0017" REF.START="QS0017"/>,</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>aqra:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201C" ID="QS0018" REF.END="QE0018"/>(c)</NO.P>
+                <TXT>ikollha l-għan li tapprova r-rekwiżiti għall-akkreditazzjoni ta’ korp skont l-Artikolu 41(3), ta’ korp ta’ ċertifikazzjoni skont l-Artikolu 43(3) jew il-kriterji għal ċertifikazzjoni msemmijin fl-Artikolu 42(5);<QUOT.END CODE="201D" ID="QE0018" REF.START="QS0018"/>.</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <?PAGE NO='4'?>
+    <CORRECTION>
+      <DESCRIPTION>Fil-paġna 74, l-Artikolu 64(6), (7) u (8):</DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>minflok:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="064.006">
+            <NO.PARAG><QUOT.START CODE="201C" ID="QS0019" REF.END="QE0019"/>6.</NO.PARAG>
+            <ALINEA>L-awtorità superviżorja kompetenti ma għandhiex tadotta l-abbozz ta’ deċiżjoni tagħha msemmi fil-paragrafu 1 fil-perijodu msemmi fil-paragrafu 3.</ALINEA>
+          </PARAG>
+          <PARAG IDENTIFIER="064.007">
+            <NO.PARAG>7.</NO.PARAG>
+            <ALINEA>L-awtorità superviżorja msemmija fil-paragrafu 1 għandha tieħu kont bl-akbar reqqa tal-opinjoni tal-Bord u fi żmien ġimagħtejn wara li tirċievi l-opinjoni, għandha tikkomunika lill-President tal-Bord b’mod elettroniku jekk ser iżżomm jew temenda l-abbozz ta’ deċiżjoni tagħha u, jekk ikun hemm, l-abbozz emendat ta’ deċiżjoni, bl-użu ta’ format standardizzat.</ALINEA>
+          </PARAG>
+          <PARAG IDENTIFIER="064.008">
+            <NO.PARAG>8.</NO.PARAG>
+            <ALINEA>Fejn l-awtorità superviżorja kkonċernata tinforma lill-President tal-Bord fil-perijodu msemmi fil-paragrafu 7 ta’ dan l-Artikolu li hija ma tkunx biħsiebha ssegwi, b’mod sħiħ jew parzjali, l-opinjoni tal-Bord, filwaqt li tagħti r-raġunijiet rilevanti, għandu japplika l-Artikolu 65(1).<QUOT.END CODE="201D" ID="QE0019" REF.START="QS0019"/>,</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>aqra:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="064.006">
+            <NO.PARAG><QUOT.START CODE="201C" ID="QS0020" REF.END="QE0020"/>6.</NO.PARAG>
+            <ALINEA>L-awtorità superviżorja kompetenti msemmija fil-paragrafu 1 ma għandhiex tadotta l-abbozz ta’ deċiżjoni tagħha msemmi fil-paragrafu 1 fil-perijodu msemmi fil-paragrafu 3.</ALINEA>
+          </PARAG>
+          <PARAG IDENTIFIER="064.007">
+            <NO.PARAG>7.</NO.PARAG>
+            <ALINEA>L-awtorità superviżorja kompetenti msemmija fil-paragrafu 1 għandha tieħu kont bl-akbar reqqa tal-opinjoni tal-Bord u fi żmien ġimagħtejn wara li tirċievi l-opinjoni, għandha tikkomunika lill-President tal-Bord b’mod elettroniku jekk ser iżżomm jew temenda l-abbozz ta’ deċiżjoni tagħha u, jekk ikun hemm, l-abbozz emendat ta’ deċiżjoni, bl-użu ta’ format standardizzat.</ALINEA>
+          </PARAG>
+          <PARAG IDENTIFIER="064.008">
+            <NO.PARAG>8.</NO.PARAG>
+            <ALINEA>Fejn l-awtorità superviżorja kompetenti msemmija fil-paragrafu 1 tinforma lill-President tal-Bord fil-perijodu msemmi fil-paragrafu 7 ta’ dan l-Artikolu li hija ma tkunx biħsiebha ssegwi, b’mod sħiħ jew parzjali, l-opinjoni tal-Bord, filwaqt li tagħti r-raġunijiet rilevanti, għandu japplika l-Artikolu 65(1).<QUOT.END CODE="201D" ID="QE0020" REF.START="QS0020"/>.</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>Fil-paġna 74, il-punt (a) tal-Artikolu 65(1):</DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>minflok:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201C" ID="QS0021" REF.END="QE0021"/>(a)</NO.P>
+                <TXT>fejn, f’każ imsemmi fl-Artikolu 60(4), awtorità superviżorja kkonċernata tkun qajmet oġġezzjoni rilevanti u motivata għal abbozz ta’ deċiżjoni tal-awtorità ewlenija jew l-awtorità ewlenija tkun ċaħdet tali oġġezzjoni għar-raġuni li ma tkunx rilevanti jew motivata. …<QUOT.END CODE="201D" ID="QE0021" REF.START="QS0021"/>,</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>aqra:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201C" ID="QS0022" REF.END="QE0022"/>(a)</NO.P>
+                <TXT>fejn, f’każ imsemmi fl-Artikolu 60(4), awtorità superviżorja kkonċernata tkun qajmet oġġezzjoni rilevanti u motivata għal abbozz ta’ deċiżjoni tal-awtorità superviżorja ewlenija u l-awtorità superviżorja ewlenija ma segwitx l-oġġezzjoni jew tkun ċaħdet tali oġġezzjoni għar-raġuni li ma tkunx rilevanti jew motivata. …<QUOT.END CODE="201D" ID="QE0022" REF.START="QS0022"/>.</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>Fil-paġna 76, l-Artikolu 69(2):</DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>minflok:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="069.002">
+            <NO.PARAG><QUOT.START CODE="201C" ID="QS0023" REF.END="QE0023"/>2.</NO.PARAG>
+            <ALINEA>Mingħajr preġudizzju għat-talbiet mill-Kummissjoni msemmija fil-punt (b) tal-Artikolu 70(1) fl-Artikolu 70(2), il- Bord, fit-twettiq tal-kompiti tiegħu jew fl-eżerċizzju tas-setgħat tiegħu, la għandu jfittex u lanqas jieħu istruzzjonijiet mingħand ħadd.<QUOT.END CODE="201D" ID="QE0023" REF.START="QS0023"/>,</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>aqra:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="069.002">
+            <NO.PARAG><QUOT.START CODE="201C" ID="QS0024" REF.END="QE0024"/>2.</NO.PARAG>
+            <ALINEA>Mingħajr preġudizzju għat-talbiet mill-Kummissjoni msemmija fl-Artikolu 70(1) u (2), il- Bord, fit-twettiq tal-kompiti tiegħu jew fl-eżerċizzju tas-setgħat tiegħu, la għandu jfittex u lanqas jieħu istruzzjonijiet mingħand ħadd.<QUOT.END CODE="201D" ID="QE0024" REF.START="QS0024"/>.</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>Fil-paġna 77, il-punt (l) tal-Artikolu 70(1):</DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>minflok:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201C" ID="QS0025" REF.END="QE0025"/>(l)</NO.P>
+                <TXT>jirrieżamina l-applikazzjoni prattika tal-linji gwida, ir-rakkomandazzjonijiet u l-aħjar prattiki msemmija fil-punti (e) u (f);<QUOT.END CODE="201D" ID="QE0025" REF.START="QS0025"/>,</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>aqra:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201C" ID="QS0026" REF.END="QE0026"/>(l)</NO.P>
+                <TXT>jirrieżamina l-applikazzjoni prattika tal-linji gwida, ir-rakkomandazzjonijiet u l-aħjar prattiki;<QUOT.END CODE="201D" ID="QE0026" REF.START="QS0026"/>,</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <?PAGE NO='5'?>
+    <CORRECTION>
+      <DESCRIPTION>Fil-paġna 77, il-punt (o) tal-Artikolu 70(1):</DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>minflok:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201C" ID="QS0027" REF.END="QE0027"/>(o)</NO.P>
+                <TXT>iwettaq l-akkreditazzjoni ta’ korpi ta’ ċertifikazzjoni u r-rieżami perjodiku tiegħu skont l-Artikolu 43 u jżomm reġistru pubbliku ta’ korpi akkreditati skont l-Artikolu 43(6) u tal-kontrolluri jew il-proċessuri akkreditati stabbiliti f’pajjiżi terzi skont l-Artikolu 42(7);<QUOT.END CODE="201D" ID="QE0027" REF.START="QS0027"/>,</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>aqra:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201C" ID="QS0028" REF.END="QE0028"/>(o)</NO.P>
+                <TXT>japprova l-kriterji ta’ ċertifikazzjoni skont l-Artikolu 42(5) u jżomm reġistru pubbliku ta’ mekkaniżmi ta’ ċertifikazzjoni u ta’ siġilli u marki ta’ protezzjoni tad-<HT TYPE="ITALIC">data</HT> skont l-Artikolu 42(8) u tal-kontrolluri jew proċessuri ċertifikati stabbiliti f’pajjiżi terzi skont l-Artikolu 42(7);<QUOT.END CODE="201D" ID="QE0028" REF.START="QS0028"/>.</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>Fil-paġna 77, il-punt (p) tal-Artikolu 70(1):</DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>minflok:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201C" ID="QS0029" REF.END="QE0029"/>(p)</NO.P>
+                <TXT>jispeċifika r-rekwiżiti msemmija fl-Artikolu 43(3) bil-ħsieb tal-akkreditazzjoni ta’ korpi ta’ ċertifikazzjoni taħt l-Artikolu 42;<QUOT.END CODE="201D" ID="QE0029" REF.START="QS0029"/>,</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>aqra:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201C" ID="QS0030" REF.END="QE0030"/>(p)</NO.P>
+                <TXT>japprova r-rekwiżiti msemmija fl-Artikolu 43(3) bil-ħsieb tal-akkreditazzjoni ta’ korpi ta’ ċertifikazzjoni msemmija fl-Artikolu 43;<QUOT.END CODE="201D" ID="QE0030" REF.START="QS0030"/>.</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+  </CONTENTS.CORR>
+</CORR>

@@ -1,0 +1,1774 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CORR xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://formex.publications.europa.eu/schema/formex-05.56-20160701.xd">
+  <BIB.INSTANCE>
+    <DOCUMENT.REF FILE="L_2018127HR.01000201.doc.xml">
+      <COLL>L</COLL>
+      <NO.OJ>127</NO.OJ>
+      <YEAR>2018</YEAR>
+      <LG.OJ>HR</LG.OJ>
+      <PAGE.FIRST>2</PAGE.FIRST>
+      <PAGE.SEQ>1</PAGE.SEQ>
+      <VOLUME.REF>01</VOLUME.REF>
+    </DOCUMENT.REF>
+    <DATE ISO="20180523">20180523</DATE>
+    <LG.DOC>HR</LG.DOC>
+    <NO.SEQ>0002</NO.SEQ>
+    <PAGE.FIRST>2</PAGE.FIRST>
+    <PAGE.SEQ>1</PAGE.SEQ>
+    <PAGE.LAST>13</PAGE.LAST>
+    <PAGE.TOTAL>12</PAGE.TOTAL>
+  </BIB.INSTANCE>
+  <TITLE>
+    <TI>
+      <P>Ispravak Uredbe (EU) 2016/679 Europskog parlamenta i Vijeća od <DATE ISO="20160427">27. travnja 2016.</DATE> o zaštiti pojedinaca u vezi s obradom osobnih podataka i o slobodnom kretanju takvih podataka te o stavljanju izvan snage Direktive 95/46/EZ (Opća uredba o zaštiti podataka)</P>
+      <P>(<REF.DOC.OJ COLL="L" DATE.PUB="20160504" NO.OJ="119">Službeni list Europske unije L 119 od 4. svibnja 2016.</REF.DOC.OJ>)</P>
+    </TI>
+  </TITLE>
+  <CONTENTS.CORR>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>1.</NO.P>
+          <TXT>Na stranici 10. u uvodnoj izjavi 51. trećoj rečenici:</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>umjesto:</P>
+        <QUOT.S LEVEL="1">
+          <CONSID>
+            <NP>
+              <NO.P><QUOT.START CODE="201E" ID="QS0001" REF.END="QE0001"/>(51)</NO.P>
+              <TXT>… Obradu fotografija ne bi trebalo sustavno smatrati obradom posebnih kategorija osobnih podataka jer su one biti obuhvaćene samo definicijom biometrijskih podataka pri obradi posebnim tehničkim sredstvima kojima se omogućuje jedinstvena identifikacija ili autentifikacija pojedinca. …<QUOT.END CODE="201D" ID="QE0001" REF.START="QS0001"/>;</TXT>
+            </NP>
+          </CONSID>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>treba stajati:</P>
+        <QUOT.S LEVEL="1">
+          <CONSID>
+            <NP>
+              <NO.P><QUOT.START CODE="201E" ID="QS0002" REF.END="QE0002"/>(51)</NO.P>
+              <TXT>… Obradu fotografija ne bi trebalo sustavno smatrati obradom posebnih kategorija osobnih podataka jer su one obuhvaćene definicijom biometrijskih podataka samo pri obradi posebnim tehničkim sredstvima kojima se omogućuje jedinstvena identifikacija ili autentifikacija pojedinca. …<QUOT.END CODE="201D" ID="QE0002" REF.START="QS0002"/>.</TXT>
+            </NP>
+          </CONSID>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>2.</NO.P>
+          <TXT>Na stranici 10. u uvodnoj izjavi 53. drugoj rečenici:</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>umjesto:</P>
+        <QUOT.S LEVEL="1">
+          <CONSID>
+            <NP>
+              <NO.P><QUOT.START CODE="201E" ID="QS0003" REF.END="QE0003"/>(53)</NO.P>
+              <TXT>… Stoga bi se ovom Uredbom trebali utvrditi usklađeni uvjeti za obradu posebnih kategorija osobnih podataka koji se odnose na zdravlje, za posebne potrebe, osobito kada obradu takvih podataka za određene zdravstvene svrhe provode osobe koje podliježu zakonskoj obvezi čuvanja poslovne tajne. …<QUOT.END CODE="201D" ID="QE0003" REF.START="QS0003"/>;</TXT>
+            </NP>
+          </CONSID>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>treba stajati:</P>
+        <QUOT.S LEVEL="1">
+          <CONSID>
+            <NP>
+              <NO.P><QUOT.START CODE="201E" ID="QS0004" REF.END="QE0004"/>(53)</NO.P>
+              <TXT>… Stoga bi se ovom Uredbom trebali utvrditi usklađeni uvjeti za obradu posebnih kategorija osobnih podataka koji se odnose na zdravlje, za posebne potrebe, osobito kada obradu takvih podataka za određene zdravstvene svrhe provode osobe koje podliježu pravnoj obvezi čuvanja profesionalne tajne. …<QUOT.END CODE="201D" ID="QE0004" REF.START="QS0004"/>.</TXT>
+            </NP>
+          </CONSID>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>3.</NO.P>
+          <TXT>Na stranici 14. u uvodnoj izjavi 71. petoj i šestoj rečenici:</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>umjesto:</P>
+        <QUOT.S LEVEL="1">
+          <CONSID>
+            <NP>
+              <NO.P><QUOT.START CODE="201E" ID="QS0005" REF.END="QE0005"/>(71)</NO.P>
+              <TXT>… Takve se mjere ne bi smjele odnositi na djecu.</TXT>
+              <P>Kako bi se osigurala poštena i transparentna obrada podataka s obzirom na ispitanika, uzimajući u obzir posebne okolnosti i kontekst u kojem se osobni podaci obrađuju, voditelj obrade trebao bi poduzeti odgovarajuće matematičke i statističke postupke za izradu profila, provesti odgovarajuće tehničke i organizacijske mjere kako bi se posebno osiguralo da budu ispravljeni čimbenici koji dovode do netočnosti u osobnim podacima i da se rizici od pojave pogrešaka svedu na minimum, te osobne podatke osigurati na način kojim se uzima u obzir potencijalne rizike za interese i prava ispitanika i kojim se, među ostalim, sprečavaju diskriminacijski učinci na pojedince na temelju rasnog ili etničkog porijekla, političkog mišljenja, vjere ili uvjerenja, članstva u sindikatu, genetskog ili zdravstvenog stanja ili spolne orijentacije, ili koji rezultiraju mjerama koje imaju takav učinak.<QUOT.END CODE="201D" ID="QE0005" REF.START="QS0005"/>;</P>
+            </NP>
+          </CONSID>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>treba stajati:</P>
+        <QUOT.S LEVEL="1">
+          <CONSID>
+            <NP>
+              <NO.P><QUOT.START CODE="201E" ID="QS0006" REF.END="QE0006"/>(71)</NO.P>
+              <TXT>… Takve se mjere ne bi smjele odnositi na djecu.</TXT>
+              <P>Kako bi se osigurala poštena i transparentna obrada podataka s obzirom na ispitanika, uzimajući u obzir posebne okolnosti i kontekst u kojem se osobni podaci obrađuju, voditelj obrade trebao bi poduzeti odgovarajuće matematičke i statističke postupke za izradu profila, provesti odgovarajuće tehničke i organizacijske mjere kako bi se posebno osiguralo da budu ispravljeni čimbenici koji dovode do netočnosti u osobnim podacima i da se rizici od pojave pogrešaka svedu na minimum, te osobne podatke osigurati na način kojim se uzima u obzir potencijalne rizike za interese i prava ispitanika i spriječiti, među ostalim, diskriminacijske učinke na pojedince na temelju rasnog ili etničkog porijekla, političkog mišljenja, vjere ili uvjerenja, članstva u sindikatu, genetskog ili zdravstvenog stanja ili spolne orijentacije, ili obradu koja rezultira mjerama koje imaju takav učinak.<QUOT.END CODE="201D" ID="QE0006" REF.START="QS0006"/>.</P>
+            </NP>
+          </CONSID>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>4.</NO.P>
+          <TXT>Na stranici 14. u uvodnoj izjavi 74. prvoj rečenici:</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>umjesto:</P>
+        <QUOT.S LEVEL="1">
+          <CONSID>
+            <NP>
+              <NO.P><QUOT.START CODE="201E" ID="QS0007" REF.END="QE0007"/>(74)</NO.P>
+              <TXT>Trebalo bi uspostaviti dužnosti i odgovornosti voditelja obrade za svaku obradu osobnih podataka koju provede sm voditelj obrade ili netko drugi u ime voditelja obrade. …<QUOT.END CODE="201D" ID="QE0007" REF.START="QS0007"/>;</TXT>
+            </NP>
+          </CONSID>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>treba stajati:</P>
+        <QUOT.S LEVEL="1">
+          <CONSID>
+            <NP>
+              <NO.P><QUOT.START CODE="201E" ID="QS0008" REF.END="QE0008"/>(74)</NO.P>
+              <TXT>Trebalo bi uspostaviti dužnost i odgovornost voditelja obrade za svaku obradu osobnih podataka koju provede sâm voditelj obrade ili netko drugi u ime voditelja obrade. …<QUOT.END CODE="201D" ID="QE0008" REF.START="QS0008"/>.</TXT>
+            </NP>
+          </CONSID>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <?PAGE NO='3'?>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>5.</NO.P>
+          <TXT>Na stranici 15. u uvodnoj izjavi 75. prvoj rečenici:</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>umjesto:</P>
+        <QUOT.S LEVEL="1">
+          <CONSID>
+            <NP>
+              <NO.P><QUOT.START CODE="201E" ID="QS0009" REF.END="QE0009"/>(75)</NO.P>
+              <TXT>Rizik za prava i obveze pojedinaca, različitih vjerojatnosti i ozbiljnosti, može proizaći iz obrade osobnih podataka koja bi mogla prouzročiti fizičku, materijalnu ili nematerijalnu štetu, posebno ako ta obrada može dovesti do diskriminacije, krađe identiteta ili prijevare, financijskog gubitka, štete za ugled, gubitka povjerljivosti osobnih podataka zaštićenih poslovnom tajnom, …<QUOT.END CODE="201D" ID="QE0009" REF.START="QS0009"/>;</TXT>
+            </NP>
+          </CONSID>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>treba stajati:</P>
+        <QUOT.S LEVEL="1">
+          <CONSID>
+            <NP>
+              <NO.P><QUOT.START CODE="201E" ID="QS0010" REF.END="QE0010"/>(75)</NO.P>
+              <TXT>Rizik za prava i obveze pojedinaca, različitih vjerojatnosti i ozbiljnosti, može proizaći iz obrade osobnih podataka koja bi mogla prouzročiti fizičku, materijalnu ili nematerijalnu štetu, posebno ako ta obrada može dovesti do diskriminacije, krađe identiteta ili prijevare, financijskog gubitka, štete za ugled, gubitka povjerljivosti osobnih podataka zaštićenih profesionalnom tajnom, …<QUOT.END CODE="201D" ID="QE0010" REF.START="QS0010"/>.</TXT>
+            </NP>
+          </CONSID>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>6.</NO.P>
+          <TXT>Na stranici 15. u uvodnoj izjavi 78. prvoj rečenici:</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>umjesto:</P>
+        <QUOT.S LEVEL="1">
+          <CONSID>
+            <NP>
+              <NO.P><QUOT.START CODE="201E" ID="QS0011" REF.END="QE0011"/>(78)</NO.P>
+              <TXT>Zaštita prava i sloboda pojedinaca s obzirom na obradu osobnih podataka zahtijeva da se poduzmu odgovarajuće tehničke i organizacijske mjere radi osiguravanja poštovanja uvjeta ove Uredbe. …<QUOT.END CODE="201D" ID="QE0011" REF.START="QS0011"/>;</TXT>
+            </NP>
+          </CONSID>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>treba stajati:</P>
+        <QUOT.S LEVEL="1">
+          <CONSID>
+            <NP>
+              <NO.P><QUOT.START CODE="201E" ID="QS0012" REF.END="QE0012"/>(78)</NO.P>
+              <TXT>Zaštita prava i sloboda pojedinaca s obzirom na obradu osobnih podataka zahtijeva da se poduzmu odgovarajuće tehničke i organizacijske mjere radi osiguravanja poštovanja zahtjeva iz ove Uredbe. …<QUOT.END CODE="201D" ID="QE0012" REF.START="QS0012"/>.</TXT>
+            </NP>
+          </CONSID>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>7.</NO.P>
+          <TXT>Na stranici 16. u uvodnoj izjavi 81. zadnjoj rečenici:</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>umjesto:</P>
+        <QUOT.S LEVEL="1">
+          <CONSID>
+            <NP>
+              <NO.P><QUOT.START CODE="201E" ID="QS0013" REF.END="QE0013"/>(81)</NO.P>
+              <TXT>… Nakon što završi obradu u ime voditelja obrade, izvršitelj obrade trebao bi, prema izboru voditelja obrade, vratiti ili izbrisati osobne podatke osim ako postoji obveza pohrane osobnih podataka sukladno pravu Unije ili pravu države članice kojem izvršitelj obrade podliježe.<QUOT.END CODE="201D" ID="QE0013" REF.START="QS0013"/>;</TXT>
+            </NP>
+          </CONSID>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>treba stajati:</P>
+        <QUOT.S LEVEL="1">
+          <CONSID>
+            <NP>
+              <NO.P><QUOT.START CODE="201E" ID="QS0014" REF.END="QE0014"/>(81)</NO.P>
+              <TXT>… Nakon što završi obradu u ime voditelja obrade, izvršitelj obrade trebao bi, prema izboru voditelja obrade, vratiti ili izbrisati osobne podatke osim ako postoji zahtjev za pohranom osobnih podataka sukladno pravu Unije ili pravu države članice kojem izvršitelj obrade podliježe.<QUOT.END CODE="201D" ID="QE0014" REF.START="QS0014"/>.</TXT>
+            </NP>
+          </CONSID>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>8.</NO.P>
+          <TXT>Na stranici 16. u uvodnoj izjavi 85. prvoj rečenici:</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>umjesto:</P>
+        <QUOT.S LEVEL="1">
+          <CONSID>
+            <NP>
+              <NO.P><QUOT.START CODE="201E" ID="QS0015" REF.END="QE0015"/>(85)</NO.P>
+              <TXT>… šteta za ugled, gubitak povjerljivosti osobnih podataka zaštićenih poslovnom tajnom ili bilo koju drugu ekonomsku ili društvenu štetu za dotičnog pojedinca.<QUOT.END CODE="201D" ID="QE0015" REF.START="QS0015"/>;</TXT>
+            </NP>
+          </CONSID>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>treba stajati:</P>
+        <QUOT.S LEVEL="1">
+          <CONSID>
+            <NP>
+              <NO.P><QUOT.START CODE="201E" ID="QS0016" REF.END="QE0016"/>(85)</NO.P>
+              <TXT>… šteta za ugled, gubitak povjerljivosti osobnih podataka zaštićenih profesionalnom tajnom ili bilo koju drugu ekonomsku ili društvenu štetu za dotičnog pojedinca.<QUOT.END CODE="201D" ID="QE0016" REF.START="QS0016"/>.</TXT>
+            </NP>
+          </CONSID>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>9.</NO.P>
+          <TXT>Na stranici 20. u uvodnoj izjavi 108. predzadnjoj i zadnjoj rečenici:</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>umjesto:</P>
+        <QUOT.S LEVEL="1">
+          <CONSID>
+            <NP>
+              <NO.P><QUOT.START CODE="201E" ID="QS0017" REF.END="QE0017"/>(108)</NO.P>
+              <TXT>… Tijela javne vlasti ili tijela s javnim ovlastima ili tijela u trećim zemljama ili pri međunarodnim organizacijama s odgovarajućim dužnostima ili ovlastima mogu također obavljati prijenose, među ostalim na temelju odredaba koje se uključuju u administrativne aranžmane poput memoranduma o razumijevanju, kojima se ispitaniku osiguravaju ostvariva i učinkovita prava. Kada se zaštitne mjere predviđaju u administrativnim aranžmanima koji nisu pravno obvezujući, trebalo bi ishoditi ovlaštenje nadležnog nadzornog tijela.<QUOT.END CODE="201D" ID="QE0017" REF.START="QS0017"/>;</TXT>
+            </NP>
+          </CONSID>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>treba stajati:</P>
+        <QUOT.S LEVEL="1">
+          <CONSID>
+            <NP>
+              <NO.P><QUOT.START CODE="201E" ID="QS0018" REF.END="QE0018"/>(108)</NO.P>
+              <TXT>… Tijela javne vlasti ili javna tijela također mogu obavljati prijenose tijelima javne vlasti ili javnim tijelima u trećim zemljama ili međunarodnim organizacijama s odgovarajućim dužnostima ili ovlastima, među ostalim na temelju odredaba koje se unose u administrativne dogovore, poput memoranduma o razumijevanju, kojima se ispitanicima osiguravaju provediva i djelotvorna prava. Kada se zaštitne mjere predviđaju u administrativnim dogovorima koji nisu pravno obvezujući, trebalo bi ishoditi ovlaštenje nadležnog nadzornog tijela.<QUOT.END CODE="201D" ID="QE0018" REF.START="QS0018"/>.</TXT>
+            </NP>
+          </CONSID>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <?PAGE NO='4'?>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>10.</NO.P>
+          <TXT>Na stranici 21. u uvodnoj izjavi 112. drugoj i petoj rečenici:</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>umjesto:</P>
+        <QUOT.S LEVEL="1">
+          <CONSID>
+            <NP>
+              <NO.P><QUOT.START CODE="201E" ID="QS0019" REF.END="QE0019"/>(112)</NO.P>
+              <TXT>Prijenos osobnih podataka trebalo bi također smatrati zakonitim ako je nužan za zaštitu interesa koji je temeljan za vitalne interese ispitanika ili druge osobe, uključujući tjelesni integritet ili život, ako ispitanik nije u stanju dati privolu. … Svaki prijenos osobnih podataka ispitanika koji tjelesno ili pravno nije u stanju dati privolu u međunarodnu humanitarnu organizaciju, s ciljem izvršenja zadaće obuhvaćene ženevskim konvencijama ili poštovanja međunarodnog humanitarnog prava mjerodavnog u oružanim sukobima, mogao bi se smatrati nužnim zbog važnosti javnog interesa ili zbog toga što je od vitalnog interesa za ispitanika.<QUOT.END CODE="201D" ID="QE0019" REF.START="QS0019"/>;</TXT>
+            </NP>
+          </CONSID>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>treba stajati:</P>
+        <QUOT.S LEVEL="1">
+          <CONSID>
+            <NP>
+              <NO.P><QUOT.START CODE="201E" ID="QS0020" REF.END="QE0020"/>(112)</NO.P>
+              <TXT>Prijenos osobnih podataka trebalo bi također smatrati zakonitim ako je nužan za zaštitu interesa koji je temeljan za životno važne interese ispitanika ili druge osobe, uključujući tjelesni integritet ili život, ako ispitanik nije u stanju dati privolu. …. Svaki prijenos osobnih podataka ispitanika, koji tjelesno ili pravno nije u stanju dati privolu, u međunarodnu humanitarnu organizaciju, s ciljem izvršenja zadaće obuhvaćene ženevskim konvencijama ili poštovanja međunarodnog humanitarnog prava mjerodavnog u oružanim sukobima, mogao bi se smatrati nužnim zbog važnosti javnog interesa ili zbog toga što je od životno važnog interesa za ispitanika.<QUOT.END CODE="201D" ID="QE0020" REF.START="QS0020"/>.</TXT>
+            </NP>
+          </CONSID>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>11.</NO.P>
+          <TXT>Na stranici 25. u uvodnoj izjavi 141. prvoj rečenici:</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>umjesto:</P>
+        <QUOT.S LEVEL="1">
+          <CONSID>
+            <NP>
+              <NO.P><QUOT.START CODE="201E" ID="QS0021" REF.END="QE0021"/>(141)</NO.P>
+              <TXT>Svaki bi ispitanik trebao imati pravo podnijeti pritužbu jednom nadzornom tijelu, posebno u državi članici u kojoj ima uobičajeno boravište i imati pravo na učinkoviti pravni lijek u skladu s člankom 47. Povelje … .<QUOT.END CODE="201D" ID="QE0021" REF.START="QS0021"/>;</TXT>
+            </NP>
+          </CONSID>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>treba stajati:</P>
+        <QUOT.S LEVEL="1">
+          <CONSID>
+            <NP>
+              <NO.P><QUOT.START CODE="201E" ID="QS0022" REF.END="QE0022"/>(141)</NO.P>
+              <TXT>Svaki bi ispitanik trebao imati pravo podnijeti pritužbu jednom nadzornom tijelu, posebno u državi članici u kojoj ima uobičajeno boravište, i imati pravo na učinkoviti sudski pravni lijek u skladu s člankom 47. Povelje … .<QUOT.END CODE="201D" ID="QE0022" REF.START="QS0022"/>.</TXT>
+            </NP>
+          </CONSID>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>12.</NO.P>
+          <TXT>Na stranici 26. u uvodnoj izjavi 142. prvoj i drugoj rečenici:</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>umjesto:</P>
+        <QUOT.S LEVEL="1">
+          <CONSID>
+            <NP>
+              <NO.P><QUOT.START CODE="201E" ID="QS0023" REF.END="QE0023"/>(142)</NO.P>
+              <TXT>… da nadzornom tijelu podnese pritužbu u njegovo ime, da ostvari pravo na pravni lijek u ime ispitanikâ ili da ostvari pravo na naknadu u ime ispitanikâ ako je to predviđeno pravom države članice. Država članica može predvidjeti da takvo tijelo, organizacija ili udruženje ima pravo, neovisno o mandatu ispitanika, podnijeti u toj državi članici pritužbu i imati pravo na učinkoviti pravni lijek … .<QUOT.END CODE="201D" ID="QE0023" REF.START="QS0023"/>;</TXT>
+            </NP>
+          </CONSID>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>treba stajati:</P>
+        <QUOT.S LEVEL="1">
+          <CONSID>
+            <NP>
+              <NO.P><QUOT.START CODE="201E" ID="QS0024" REF.END="QE0024"/>(142)</NO.P>
+              <TXT>… da nadzornom tijelu podnese pritužbu u njegovo ime, da ostvari pravo na sudski pravni lijek u ime ispitanikâ ili da ostvari pravo na naknadu u ime ispitanikâ ako je to predviđeno pravom države članice. Država članica može predvidjeti da takvo tijelo, organizacija ili udruženje ima pravo, neovisno o mandatu ispitanika, podnijeti u toj državi članici pritužbu i imati pravo na učinkoviti sudski pravni lijek … .<QUOT.END CODE="201D" ID="QE0024" REF.START="QS0024"/>.</TXT>
+            </NP>
+          </CONSID>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>13.</NO.P>
+          <TXT>Na stranici 26. u uvodnoj izjavi 143. četvrtoj, šestoj i sedmoj rečenici:</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>umjesto:</P>
+        <QUOT.S LEVEL="1">
+          <CONSID>
+            <NP>
+              <NO.P><QUOT.START CODE="201E" ID="QS0025" REF.END="QE0025"/>(143)</NO.P>
+              <TXT>… Ne dovodeći u pitanje to pravo u skladu s člankom 263. UFEU-a, svaka fizička ili pravna osoba trebala bi imati učinkovit pravni lijek pred nadležnim nacionalnim sudom protiv odluke nadzornog tijela koja proizvodi pravne učinke prema toj osobi. … Pravo na učinkovit pravni lijek međutim ne obuhvaća mjere nadzornih tijela koje nisu pravno obvezujuće poput mišljenja ili savjeta koja je dalo nadzorno tijelo. Postupci protiv nadzornog tijela trebali bi se pokrenuti pred sudovima države članice u kojoj je nadzorno tijelo ima poslovni nastan te bi se trebali voditi u skladu s postupovnim pravom te države članice.<QUOT.END CODE="201D" ID="QE0025" REF.START="QS0025"/>;</TXT>
+            </NP>
+          </CONSID>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>treba stajati:</P>
+        <QUOT.S LEVEL="1">
+          <CONSID>
+            <NP>
+              <NO.P><QUOT.START CODE="201E" ID="QS0026" REF.END="QE0026"/>(143)</NO.P>
+              <TXT>… Ne dovodeći u pitanje to pravo u skladu s člankom 263. UFEU-a, svaka fizička ili pravna osoba trebala bi imati učinkovit sudski pravni lijek pred nadležnim nacionalnim sudom protiv odluke nadzornog tijela koja proizvodi pravne učinke prema toj osobi. … Pravo na učinkovit sudski pravni lijek međutim ne obuhvaća mjere nadzornih tijela koje nisu pravno obvezujuće poput mišljenja ili savjeta koje je dalo nadzorno tijelo. Postupci protiv nadzornog tijela trebali bi se pokrenuti pred sudovima države članice u kojoj je nadzorno tijelo osnovano te bi se trebali voditi u skladu s postupovnim pravom te države članice.<QUOT.END CODE="201D" ID="QE0026" REF.START="QS0026"/>.</TXT>
+            </NP>
+          </CONSID>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <?PAGE NO='5'?>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>14.</NO.P>
+          <TXT>Na stranici 27. u uvodnoj izjavi 147.:</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>umjesto:</P>
+        <QUOT.S LEVEL="1">
+          <CONSID>
+            <NP>
+              <NO.P><QUOT.START CODE="201E" ID="QS0027" REF.END="QE0027"/>(147)</NO.P>
+              <TXT>Ako su posebna pravila o nadležnosti sadržana u ovoj Uredbi, posebno u vezi s postupcima kojima se traži pravni lijek, među ostalim i naknada, … . <QUOT.END CODE="201D" ID="QE0027" REF.START="QS0027"/>;</TXT>
+            </NP>
+          </CONSID>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>treba stajati:</P>
+        <QUOT.S LEVEL="1">
+          <CONSID>
+            <NP>
+              <NO.P><QUOT.START CODE="201E" ID="QS0028" REF.END="QE0028"/>(147)</NO.P>
+              <TXT>Ako su posebna pravila o nadležnosti sadržana u ovoj Uredbi, posebno u vezi s postupcima kojima se traži sudski pravni lijek, među ostalim i naknada, … . <QUOT.END CODE="201D" ID="QE0028" REF.START="QS0028"/>.</TXT>
+            </NP>
+          </CONSID>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>15.</NO.P>
+          <TXT>Na stranici 28. u uvodnoj izjavi 150. predzadnjoj rečenici:</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>umjesto:</P>
+        <QUOT.S LEVEL="1">
+          <CONSID>
+            <NP>
+              <NO.P><QUOT.START CODE="201E" ID="QS0029" REF.END="QE0029"/>(150)</NO.P>
+              <TXT>… Države članice trebale bi utvrditi i trebaju li i do koje mjere primjenjivati upravne novčane kazne za državna tijela.<QUOT.END CODE="201D" ID="QE0029" REF.START="QS0029"/>;</TXT>
+            </NP>
+          </CONSID>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>treba stajati:</P>
+        <QUOT.S LEVEL="1">
+          <CONSID>
+            <NP>
+              <NO.P><QUOT.START CODE="201E" ID="QS0030" REF.END="QE0030"/>(150)</NO.P>
+              <TXT>… Države članice trebale bi utvrditi i trebaju li i do koje mjere primjenjivati upravne novčane kazne za tijela javne vlasti.<QUOT.END CODE="201D" ID="QE0030" REF.START="QS0030"/>.</TXT>
+            </NP>
+          </CONSID>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>16.</NO.P>
+          <TXT>Na stranici 35. u članku 5. stavku 1. točki (a)</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>umjesto:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0031" REF.END="QE0031"/>(a)</NO.P>
+                <TXT>zakonito, pošteno i transparentno obrađivani s obzirom na ispitanika (<QUOT.START CODE="201E" ID="QS0032" REF.END="QE0032"/>zakonitost, poštenosti transparentnost<QUOT.END CODE="201D" ID="QE0032" REF.START="QS0032"/>);<QUOT.END CODE="201D" ID="QE0031" REF.START="QS0031"/>;</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>treba stajati:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0033" REF.END="QE0033"/>(a)</NO.P>
+                <TXT>zakonito, pošteno i transparentno obrađivani s obzirom na ispitanika (<QUOT.START CODE="201E" ID="QS0034" REF.END="QE0034"/>zakonitost, poštenost i transparentnost<QUOT.END CODE="201D" ID="QE0034" REF.START="QS0034"/>);<QUOT.END CODE="201D" ID="QE0033" REF.START="QS0033"/>.</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>17.</NO.P>
+          <TXT>Na stranici 36. u članku 6. stavku 1. točki (d):</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>umjesto:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0035" REF.END="QE0035"/>(d)</NO.P>
+                <TXT>obrada je nužna kako bi se zaštitili ključni interesi ispitanika ili druge fizičke osobe;<QUOT.END CODE="201D" ID="QE0035" REF.START="QS0035"/>;</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>treba stajati:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0036" REF.END="QE0036"/>(d)</NO.P>
+                <TXT>obrada je nužna kako bi se zaštitili životno važni interesi ispitanika ili druge fizičke osobe;<QUOT.END CODE="201D" ID="QE0036" REF.START="QS0036"/>.</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>18.</NO.P>
+          <TXT>Na stranici 36. u članku 6. stavku 2.:</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>umjesto:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="006.002">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0037" REF.END="QE0037"/>2.</NO.PARAG>
+            <ALINEA>… tako da se preciznije odrede posebni uvjeti za obradu te druge mjere za osiguravanje zakonite i poštene obrade, među ostalim za druge posebne situacije obrade kako je predviđeno u poglavlju IX.<QUOT.END CODE="201D" ID="QE0037" REF.START="QS0037"/>;</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>treba stajati:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="006.002">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0038" REF.END="QE0038"/>2.</NO.PARAG>
+            <ALINEA>… tako da se preciznije odrede posebni zahtjevi za obradu te druge mjere za osiguravanje zakonite i poštene obrade, među ostalim za druge posebne situacije obrade kako je predviđeno u poglavlju IX.<QUOT.END CODE="201D" ID="QE0038" REF.START="QS0038"/>.</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>19.</NO.P>
+          <TXT>Na stranici 39. u članku 9. stavku 3.:</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>umjesto:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="009.003">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0039" REF.END="QE0039"/>3.</NO.PARAG>
+            <ALINEA>Osobni podaci iz stavka 1. mogu se obrađivati u svrhe navedene u stavku 2. točki (h) kada te podatke obrađuje stručno tijelo ili se podaci obrađuju pod odgovornošću stručnog tijela koje podliježe obvezi čuvanja poslovne tajne sukladno pravu Unije ili …<QUOT.END CODE="201D" ID="QE0039" REF.START="QS0039"/>;</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>treba stajati:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="009.003">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0040" REF.END="QE0040"/>3.</NO.PARAG>
+            <ALINEA>Osobni podaci iz stavka 1. mogu se obrađivati u svrhe navedene u stavku 2. točki (h) kada te podatke obrađuje stručnjak ili se podaci obrađuju pod odgovornošću stručnjaka koji podliježe obvezi čuvanja profesionalne tajne sukladno pravu Unije ili …<QUOT.END CODE="201D" ID="QE0040" REF.START="QS0040"/>.</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <?PAGE NO='6'?>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>20.</NO.P>
+          <TXT>Na stranici 40. u članku 12. stavku 4.:</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>umjesto:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="012.004">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0041" REF.END="QE0041"/>4.</NO.PARAG>
+            <ALINEA>… i o mogućnosti podnošenja pritužbe nadzornom tijelu i traženja pravnog lijeka.<QUOT.END CODE="201D" ID="QE0041" REF.START="QS0041"/>;</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>treba stajati:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="012.004">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0042" REF.END="QE0042"/>4.</NO.PARAG>
+            <ALINEA>… i o mogućnosti podnošenja pritužbe nadzornom tijelu i traženja sudskog pravnog lijeka.<QUOT.END CODE="201D" ID="QE0042" REF.START="QS0042"/>.</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>21.</NO.P>
+          <TXT>Na stranici 41. u članku 13. stavku 2. točki (e):</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>umjesto:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0043" REF.END="QE0043"/>(e)</NO.P>
+                <TXT>informaciju o tome je li pružanje osobnih podataka zakonska ili ugovorna obveza ili uvjet nužan za sklapanje ugovora te ima li ispitanik obvezu pružanja osobnih podataka i koje su moguće posljedice ako se takvi podaci ne pruže;<QUOT.END CODE="201D" ID="QE0043" REF.START="QS0043"/>;</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>treba stajati:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0044" REF.END="QE0044"/>(e)</NO.P>
+                <TXT>informaciju o tome je li pružanje osobnih podataka zakonska ili ugovorna obveza ili zahtjev nužan za sklapanje ugovora te ima li ispitanik obvezu pružanja osobnih podataka i koje su moguće posljedice ako se takvi podaci ne pruže;<QUOT.END CODE="201D" ID="QE0044" REF.START="QS0044"/>.</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>22.</NO.P>
+          <TXT>Na stranici 45. u članku 20. stavku 1. uvodnom tekstu:</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>umjesto:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="020.001">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0045" REF.END="QE0045"/>1.</NO.PARAG>
+            <ALINEA>Ispitanik ima pravo zaprimiti osobne podatke koji se odnose na njega, a koje je pružio voditelju obrade u strukturiranom, uobičajeno upotrebljavanom i strojno čitljivom formatu …<QUOT.END CODE="201D" ID="QE0045" REF.START="QS0045"/>;</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>treba stajati:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="020.001">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0046" REF.END="QE0046"/>1.</NO.PARAG>
+            <ALINEA>Ispitanik ima pravo zaprimiti osobne podatke koji se odnose na njega, a koje je pružio voditelju obrade, u strukturiranom, uobičajeno upotrebljavanom i strojno čitljivom formatu …<QUOT.END CODE="201D" ID="QE0046" REF.START="QS0046"/>.</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>23.</NO.P>
+          <TXT>Na stranici 55. u članku 37. stavku 1. točki (c):</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>umjesto:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0047" REF.END="QE0047"/>(c)</NO.P>
+                <TXT>osnovne djelatnosti voditelja obrade ili izvršitelja obrade sastoje se od opsežne obrade posebnih kategorija podataka na temelju članka 9. i osobnih podataka u vezi s kaznenim osudama i kažnjivim djelima iz članka 10.<QUOT.END CODE="201D" ID="QE0047" REF.START="QS0047"/>;</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>treba stajati:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0048" REF.END="QE0048"/>(c)</NO.P>
+                <TXT>osnovne djelatnosti voditelja obrade ili izvršitelja obrade sastoje se od opsežne obrade posebnih kategorija podataka na temelju članka 9. ili osobnih podataka u vezi s kaznenim osudama i kažnjivim djelima iz članka 10.<QUOT.END CODE="201D" ID="QE0048" REF.START="QS0048"/>.</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>24.</NO.P>
+          <TXT>Na stranici 55. u članku 38. u naslovu:</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>umjesto:</P>
+        <QUOT.S LEVEL="1">
+          <STI.ART><QUOT.START CODE="201E" ID="QS0049" REF.END="QE0049"/>Radno mjesto službenika za zaštitu podataka<QUOT.END CODE="201D" ID="QE0049" REF.START="QS0049"/>;</STI.ART>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>treba stajati:</P>
+        <QUOT.S LEVEL="1">
+          <STI.ART><QUOT.START CODE="201E" ID="QS0050" REF.END="QE0050"/>Položaj službenika za zaštitu podataka<QUOT.END CODE="201D" ID="QE0050" REF.START="QS0050"/>.</STI.ART>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>25.</NO.P>
+          <TXT>Na stranici 57. u članku 40. stavku 3.:</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>umjesto:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="040.003">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0051" REF.END="QE0051"/>3.</NO.PARAG>
+            <ALINEA>Osim što ih poštuju voditelji obrade i izvršitelji obrade koji podliježu ovoj Uredbi, kodekse ponašanja koji su odobreni na temelju stavka 5. ovog članka i koji imaju opću valjanost na temelju stavka 4. ovog članka … .<QUOT.END CODE="201D" ID="QE0051" REF.START="QS0051"/>;</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>treba stajati:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="040.003">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0052" REF.END="QE0052"/>3.</NO.PARAG>
+            <ALINEA>Osim što ih poštuju voditelji obrade i izvršitelji obrade koji podliježu ovoj Uredbi, kodekse ponašanja koji su odobreni na temelju stavka 5. ovog članka i koji imaju opću valjanost na temelju stavka 9. ovog članka … .<QUOT.END CODE="201D" ID="QE0052" REF.START="QS0052"/>.</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <?PAGE NO='7'?>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>26.</NO.P>
+          <TXT>Na stranici 58. u članku 41. stavku 3.:</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>umjesto:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="041.003">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0053" REF.END="QE0053"/>3.</NO.PARAG>
+            <ALINEA>Nadležno nadzorno tijelo predaje nacrt kriterija za akreditaciju tijela iz stavka 1. ovog članka Odboru u skladu s mehanizmom konzistentnosti iz članka 63.<QUOT.END CODE="201D" ID="QE0053" REF.START="QS0053"/>;</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>treba stajati:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="041.003">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0054" REF.END="QE0054"/>3.</NO.PARAG>
+            <ALINEA>Nadležno nadzorno tijelo predaje Odboru nacrt zahtjevâ za akreditaciju tijela iz stavka 1. ovog članka u skladu s mehanizmom konzistentnosti iz članka 63.<QUOT.END CODE="201D" ID="QE0054" REF.START="QS0054"/>.</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>27.</NO.P>
+          <TXT>Na stranici 58., u članku 41. stavcima 5. i 6.:</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>umjesto:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="041.005">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0055" REF.END="QE0055"/>5.</NO.PARAG>
+            <ALINEA>Nadležno nadzorno tijelo povlači akreditaciju tijela iz stavka 1. ako se ne ispune uvjeti za akreditaciju ili oni više nisu ispunjeni, ili radnje koje provodi tijelo krše ovu Uredbu.</ALINEA>
+          </PARAG>
+          <PARAG IDENTIFIER="041.006">
+            <NO.PARAG>6.</NO.PARAG>
+            <ALINEA>Ovaj članak ne primjenjuje se na obradu obavljaju tijela javne vlasti i javna tijela.<QUOT.END CODE="201D" ID="QE0055" REF.START="QS0055"/>;</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>treba stajati:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="041.005">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0056" REF.END="QE0056"/>5.</NO.PARAG>
+            <ALINEA>Nadležno nadzorno tijelo povlači akreditaciju tijela iz stavka 1. ako se ne ispune zahtjevi za akreditaciju ili oni više nisu ispunjeni, ili ako radnje koje provodi tijelo krše ovu Uredbu.</ALINEA>
+          </PARAG>
+          <PARAG IDENTIFIER="041.006">
+            <NO.PARAG>6.</NO.PARAG>
+            <ALINEA>Ovaj članak ne primjenjuje se na obradu koju obavljaju tijela javne vlasti i javna tijela.<QUOT.END CODE="201D" ID="QE0056" REF.START="QS0056"/>.</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>28.</NO.P>
+          <TXT>Na stranici 59. u članku 42. stavku 5.:</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>umjesto:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="042.005">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0057" REF.END="QE0057"/>5.</NO.PARAG>
+            <ALINEA>Certificiranje na temelju ovog članka izdaju certifikacijska tijela iz članka 43. ili nadležno nadzorno tijelo, na temelju kriterija koje je odobrilo to nadležno nadzorno tijelo na temelju članka 58. stavka 3., ili Odbor na temelju članka 63.Ako je Odbor odobrio kriterije, iz toga može proizaći zajednička certifikacija: Europski pečat za zaštitu podataka.<QUOT.END CODE="201D" ID="QE0057" REF.START="QS0057"/>;</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>treba stajati:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="042.005">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0058" REF.END="QE0058"/>5.</NO.PARAG>
+            <ALINEA>Certifikat na temelju ovog članka izdaju certifikacijska tijela iz članka 43. ili nadležno nadzorno tijelo, na temelju kriterija koje je odobrilo to nadležno nadzorno tijelo na temelju članka 58. stavka 3., ili Odbor na temelju članka 63. Ako je Odbor odobrio kriterije, iz toga može proizaći zajednička certifikacija: Europski pečat za zaštitu podataka.<QUOT.END CODE="201D" ID="QE0058" REF.START="QS0058"/>.</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>29.</NO.P>
+          <TXT>Na stranici 59. u članku 42. stavku 7.:</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>umjesto:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="042.007">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0059" REF.END="QE0059"/>7.</NO.PARAG>
+            <ALINEA>Certifikat se voditelju obrade ili izvršitelju obrade izdaje na najviše tri godine i može se obnoviti pod istim uvjetima ako su i dalje ispunjeni relevantni zahtjevi. Certifikacijska tijela iz članka 43. ili nadležno nadzorno tijelo povlače certifikat prema potrebi ako se ne ispune zahtjevi za certificiranja ili ako oni više nisu ispunjeni.<QUOT.END CODE="201D" ID="QE0059" REF.START="QS0059"/>;</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>treba stajati:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="042.007">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0060" REF.END="QE0060"/>7.</NO.PARAG>
+            <ALINEA>Certifikat se voditelju obrade ili izvršitelju obrade izdaje na najviše tri godine i može se obnoviti pod istim uvjetima ako su i dalje ispunjeni relevantni kriteriji. Certifikacijska tijela iz članka 43. ili nadležno nadzorno tijelo povlače certifikat prema potrebi ako se ne ispune kriteriji za certificiranje ili ako oni više nisu ispunjeni.<QUOT.END CODE="201D" ID="QE0060" REF.START="QS0060"/>.</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>30.</NO.P>
+          <TXT>Na stranici 59. u članku 43. stavku 1. prvoj rečenici:</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>umjesto:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="043.001">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0061" REF.END="QE0061"/>1.</NO.PARAG>
+            <ALINEA>Ne dovodeći u pitanje zadaće i ovlasti nadležnog nadzornog tijela iz članaka 57. i 58., certifikacijska tijela s odgovarajućim stupnjem stručnosti iz područja zaštite podataka, nakon što se o tome obavijesti nadležno tijelo kako bi ono moglo prema potrebi izvršavati svoje ovlasti na temelju članka 58. stavka 2. točke (h), izdaje i obnavlja certificiranje.<QUOT.END CODE="201D" ID="QE0061" REF.START="QS0061"/>;</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>treba stajati:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="043.001">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0062" REF.END="QE0062"/>1.</NO.PARAG>
+            <ALINEA>Ne dovodeći u pitanje zadaće i ovlasti nadležnog nadzornog tijela iz članaka 57. i 58., certifikacijska tijela s odgovarajućim stupnjem stručnosti iz područja zaštite podataka, nakon što o tome obavijeste nadzorno tijelo kako bi ono moglo prema potrebi izvršavati svoje ovlasti na temelju članka 58. stavka 2. točke (h), izdaju i obnavljaju certifikat.<QUOT.END CODE="201D" ID="QE0062" REF.START="QS0062"/>.</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <?PAGE NO='8'?>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>31.</NO.P>
+          <TXT>Na stranici 60. u članku 43. stavku 3. prvoj rečenici:</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>umjesto:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="043.003">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0063" REF.END="QE0063"/>3.</NO.PARAG>
+            <ALINEA>Akreditacija certifikacijskih tijela iz stavaka 1. i 2. ovog članka provodi se na temelju kriterija koje je odobrilo nadzorno tijelo nadležno na temelju članka 55. ili članka 56. ili Odbor na temelju članka 63.<QUOT.END CODE="201D" ID="QE0063" REF.START="QS0063"/>;</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>treba stajati:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="043.003">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0064" REF.END="QE0064"/>3.</NO.PARAG>
+            <ALINEA>Akreditacija certifikacijskih tijela iz stavaka 1. i 2. ovog članka provodi se na temelju zahtjeva koje je odobrilo nadzorno tijelo nadležno na temelju članka 55. ili članka 56. ili Odbor na temelju članka 63.<QUOT.END CODE="201D" ID="QE0064" REF.START="QS0064"/>.</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>32.</NO.P>
+          <TXT>Na stranici 60. u članku 43. stavku 6.:</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>umjesto:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="043.006">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0065" REF.END="QE0065"/>6.</NO.PARAG>
+            <ALINEA>Nadzorno tijelo u lako dostupnom obliku objavljuje zahtjeve iz stavka 3. ovog članka i kriterije iz članka 42. stavka 5. Nadzorna tijela prosljeđuju te zahtjeve i kriterije Odboru. Odbor sve mehanizme certificiranja i pečate za zaštitu podataka unosi u evidenciju te ih objavljuje na bilo koji prikladan način.<QUOT.END CODE="201D" ID="QE0065" REF.START="QS0065"/>;</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>treba stajati:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="043.006">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0066" REF.END="QE0066"/>6.</NO.PARAG>
+            <ALINEA>Nadzorno tijelo u lako dostupnom obliku objavljuje zahtjeve iz stavka 3. ovog članka i kriterije iz članka 42. stavka 5. Nadzorna tijela također prosljeđuju te zahtjeve i kriterije Odboru.<QUOT.END CODE="201D" ID="QE0066" REF.START="QS0066"/>.</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>33.</NO.P>
+          <TXT>Na stranici 62. u članku 46. stavku 1.:</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>umjesto:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="046.001">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0067" REF.END="QE0067"/>1.</NO.PARAG>
+            <ALINEA>Ako nije donesena odluka na temelju članka 45. stavka 3., voditelj obrade ili izvršitelj obrade trećoj zemlji ili međunarodnoj organizaciji osobne podatke mogu prenijeti samo ako je voditelj obrade ili izvršitelj obrade predvidio odgovarajuće zaštitne mjere i pod uvjetom da su ispitanicima na raspolaganju provediva prava i učinkovita sudska zaštita.<QUOT.END CODE="201D" ID="QE0067" REF.START="QS0067"/>;</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>treba stajati:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="046.001">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0068" REF.END="QE0068"/>1.</NO.PARAG>
+            <ALINEA>Ako nije donesena odluka na temelju članka 45. stavka 3., voditelj obrade ili izvršitelj obrade trećoj zemlji ili međunarodnoj organizaciji osobne podatke mogu prenijeti samo ako je voditelj obrade ili izvršitelj obrade predvidio odgovarajuće zaštitne mjere i pod uvjetom da su ispitanicima na raspolaganju provediva prava i učinkoviti pravni lijekovi.<QUOT.END CODE="201D" ID="QE0068" REF.START="QS0068"/>.</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>34.</NO.P>
+          <TXT>Na stranici 63. u članku 47. stavku 1. točki (c):</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>umjesto:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0069" REF.END="QE0069"/>(c)</NO.P>
+                <TXT>ispunjavaju uvjete utvrđene u stavku 2.<QUOT.END CODE="201D" ID="QE0069" REF.START="QS0069"/>;</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>treba stajati:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0070" REF.END="QE0070"/>(c)</NO.P>
+                <TXT>ispunjavaju zahtjeve utvrđene u stavku 2.<QUOT.END CODE="201D" ID="QE0070" REF.START="QS0070"/>.</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>35.</NO.P>
+          <TXT>Na stranici 63. u članku 47. stavku 2. točki (d):</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>umjesto:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0071" REF.END="QE0071"/>(d)</NO.P>
+                <TXT>… mjera za osiguravanje sigurnosti podataka i uvjete u pogledu daljnjih prijenosa tijelima koja nisu obvezana obvezujućim korporativnim pravilima;<QUOT.END CODE="201D" ID="QE0071" REF.START="QS0071"/>;</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>treba stajati:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0072" REF.END="QE0072"/>(d)</NO.P>
+                <TXT>… mjera za osiguravanje sigurnosti podataka i zahtjeve u pogledu daljnjih prijenosa tijelima koja nisu obvezana obvezujućim korporativnim pravilima;<QUOT.END CODE="201D" ID="QE0072" REF.START="QS0072"/>.</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>36.</NO.P>
+          <TXT>Na stranici 63. u članku 47. stavku 2. točki (m):</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>umjesto:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0073" REF.END="QE0073"/>(m)</NO.P>
+                <TXT>mehanizme za izvješćivanje nadležnog nadzornog tijela o bilo kakvim pravnim obvezama koje se na člana grupe poduzetnika ili grupe poduzeća koja se bave zajedničkom gospodarskom djelatnošću primjenjuju u trećoj zemlji …<QUOT.END CODE="201D" ID="QE0073" REF.START="QS0073"/>;</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>treba stajati:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0074" REF.END="QE0074"/>(m)</NO.P>
+                <TXT>mehanizme za izvješćivanje nadležnog nadzornog tijela o bilo kakvim pravnim zahtjevima koji se na člana grupe poduzetnika ili grupe poduzeća koja se bave zajedničkom gospodarskom djelatnošću primjenjuju u trećoj zemlji …<QUOT.END CODE="201D" ID="QE0074" REF.START="QS0074"/>.</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <?PAGE NO='9'?>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>37.</NO.P>
+          <TXT>Na stranici 68. u članku 57. stavku 1. točki (k)</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>umjesto:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0075" REF.END="QE0075"/>(k)</NO.P>
+                <TXT>utvrđuje i vodi popis u vezi s uvjetima za procjenu učinka na zaštitu podataka u skladu s člankom 35. stavkom 4.;<QUOT.END CODE="201D" ID="QE0075" REF.START="QS0075"/>;</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>treba stajati:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0076" REF.END="QE0076"/>(k)</NO.P>
+                <TXT>utvrđuje i vodi popis u vezi sa zahtjevom za procjenu učinka na zaštitu podataka u skladu s člankom 35. stavkom 4.;<QUOT.END CODE="201D" ID="QE0076" REF.START="QS0076"/>.</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>38.</NO.P>
+          <TXT>Na stranici 69. u članku 57. stavku 1. točki (p):</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>umjesto:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0077" REF.END="QE0077"/>(p)</NO.P>
+                <TXT>sastavlja i objavljuje kriterije za akreditaciju tijela za praćenje kodeksa ponašanja u skladu s člankom 41. i akreditaciju certifikacijskog tijela u skladu s člankom 43.;<QUOT.END CODE="201D" ID="QE0077" REF.START="QS0077"/>;</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>treba stajati:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0078" REF.END="QE0078"/>(p)</NO.P>
+                <TXT>sastavlja i objavljuje zahtjeve za akreditaciju tijela za praćenje kodeksa ponašanja u skladu s člankom 41. i za akreditaciju certifikacijskog tijela u skladu s člankom 43.<QUOT.END CODE="201D" ID="QE0078" REF.START="QS0078"/>.</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>39.</NO.P>
+          <TXT>Na stranici 70. u članku 58. stavku 2. točki (i):</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>umjesto:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0079" REF.END="QE0079"/>(i)</NO.P>
+                <TXT>izreći upravnu novčanu kaznu u skladu s člankom 79. uz mjere, ili umjesto mjera koje se navode u ovom stavku, ovisno o okolnostima svakog pojedinog slučaja;<QUOT.END CODE="201D" ID="QE0079" REF.START="QS0079"/>;</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>treba stajati:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0080" REF.END="QE0080"/>(i)</NO.P>
+                <TXT>izreći upravnu novčanu kaznu u skladu s člankom 83. uz mjere, ili umjesto mjera koje se navode u ovom stavku, ovisno o okolnostima svakog pojedinog slučaja;<QUOT.END CODE="201D" ID="QE0080" REF.START="QS0080"/>.</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>40.</NO.P>
+          <TXT>Na stranici 70. u članku 58. stavku 4.:</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>umjesto:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="058.004">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0081" REF.END="QE0081"/>4.</NO.PARAG>
+            <ALINEA>Izvršavanje ovlasti dodijeljenih nadzornom tijelu u skladu s ovim člankom podliježe odgovarajućim zaštitnim mjerama, među ostalim učinkovitom pravnom lijeku i odgovarajućem postupku utvrđenim u pravu Unije i pravu države članice u skladu s Poveljom.<QUOT.END CODE="201D" ID="QE0081" REF.START="QS0081"/>;</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>treba stajati:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="058.004">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0082" REF.END="QE0082"/>4.</NO.PARAG>
+            <ALINEA>Izvršavanje ovlasti dodijeljenih nadzornom tijelu u skladu s ovim člankom podliježe odgovarajućim zaštitnim mjerama, među ostalim učinkovitom sudskom pravnom lijeku i odgovarajućem postupku, utvrđenim u pravu Unije i pravu države članice u skladu s Poveljom.<QUOT.END CODE="201D" ID="QE0082" REF.START="QS0082"/>.</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>41.</NO.P>
+          <TXT>Na stranici 71. u članku 60. stavku 9. drugoj rečenici:</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>umjesto:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="060.009">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0083" REF.END="QE0083"/>9.</NO.PARAG>
+            <ALINEA>Vodeće nadzorno tijelo donosi odluku za dio koji se odnosi na djelovanja u vezi s voditeljem obrade i dostavlja je u glavni ili jedini poslovni nastan voditelja obrade ili izvršitelja obrade na državnom području svoje države članice te o tome izvješćuje podnositelja pritužbe, dok nadzorno tijelo podnositelja pritužbe donosi odluku za dio koji se odnosi na odbacivanje ili odbijanje te pritužbe i o toj ga pritužbi obavješćujete o tome izvješćuje voditelja obrade ili izvršitelja obrade.<QUOT.END CODE="201D" ID="QE0083" REF.START="QS0083"/>;</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>treba stajati:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="060.009">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0084" REF.END="QE0084"/>9.</NO.PARAG>
+            <ALINEA>Vodeće nadzorno tijelo donosi odluku za dio koji se odnosi na djelovanja u vezi s voditeljem obrade i dostavlja je u glavni ili jedini poslovni nastan voditelja obrade ili izvršitelja obrade na državnom području svoje države članice te o tome izvješćuje podnositelja pritužbe, dok nadzorno tijelo podnositelja pritužbe donosi odluku za dio koji se odnosi na odbacivanje ili odbijanje te pritužbe i dostavlja je tom podnositelju pritužbe te o tome izvješćuje voditelja obrade ili izvršitelja obrade.<QUOT.END CODE="201D" ID="QE0084" REF.START="QS0084"/>.</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <?PAGE NO='10'?>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>42.</NO.P>
+          <TXT>Na stranici 74. u članku 64. stavku 1. točki (c):</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>umjesto:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0085" REF.END="QE0085"/>(c)</NO.P>
+                <TXT>ima za cilj odobriti kriterije za akreditaciju tijela na temelju članka 41. stavka 3. ili certifikacijskog tijela na temelju članka 43. stavka 3.;<QUOT.END CODE="201D" ID="QE0085" REF.START="QS0085"/>;</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>treba stajati:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0086" REF.END="QE0086"/>(c)</NO.P>
+                <TXT>ima za cilj odobriti zahtjeve za akreditaciju tijela na temelju članka 41. stavka 3., certifikacijskog tijela na temelju članka 43. stavka 3. ili kriterije za certifikaciju iz članka 42. stavka 5.;<QUOT.END CODE="201D" ID="QE0086" REF.START="QS0086"/>.</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>43.</NO.P>
+          <TXT>Na stranici 74. u članku 64. stavcima 6., 7. i 8.:</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>umjesto:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="064.006">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0087" REF.END="QE0087"/>6.</NO.PARAG>
+            <ALINEA>Nadležno nadzorno tijelo ne donosi svoj nacrt odluke iz stavka 1. tijekom roka iz stavka 3.</ALINEA>
+          </PARAG>
+          <PARAG IDENTIFIER="064.007">
+            <NO.PARAG>7.</NO.PARAG>
+            <ALINEA>Nadzorno tijelo iz stavka 1. osobito uvažava mišljenje Odbora i u roku od dva tjedna od zaprimanja mišljenja elektroničkim putem obavješćuje predsjednika Odbora o tome zadržava li ili mijenja svoj nacrt odluke, te izmijenjeni nacrt odluke, ako ga ima, dostavlja u standardiziranom formatu.</ALINEA>
+          </PARAG>
+          <PARAG IDENTIFIER="064.008">
+            <NO.PARAG>8.</NO.PARAG>
+            <ALINEA>Ako predmetno nadzorno tijelo obavijesti predsjednika Odbora u roku navedenom u stavku 7. ovog članka da ne namjerava u obzir uzeti mišljenje Odbora, u cijelosti ili djelomično, uz relevantno obrazloženje, primjenjuje se članak 65. stavak 1.<QUOT.END CODE="201D" ID="QE0087" REF.START="QS0087"/>;</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>treba stajati:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="064.006">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0088" REF.END="QE0088"/>6.</NO.PARAG>
+            <ALINEA>Nadležno nadzorno tijelo iz stavka 1. ne donosi svoj nacrt odluke iz stavka 1. tijekom roka iz stavka 3.</ALINEA>
+          </PARAG>
+          <PARAG IDENTIFIER="064.007">
+            <NO.PARAG>7.</NO.PARAG>
+            <ALINEA>Nadležno nadzorno tijelo iz stavka 1. osobito uvažava mišljenje Odbora i u roku od dva tjedna od zaprimanja mišljenja elektroničkim putem obavješćuje predsjednika Odbora o tome zadržava li ili mijenja svoj nacrt odluke, te izmijenjeni nacrt odluke, ako ga ima, dostavlja u standardiziranom formatu.</ALINEA>
+          </PARAG>
+          <PARAG IDENTIFIER="064.008">
+            <NO.PARAG>8.</NO.PARAG>
+            <ALINEA>Ako nadležno nadzorno tijelo iz stavka 1. obavijesti predsjednika Odbora u roku navedenom u stavku 7. ovog članka da ne namjerava u obzir uzeti mišljenje Odbora, u cijelosti ili djelomično, uz relevantno obrazloženje, primjenjuje se članak 65. stavak 1.<QUOT.END CODE="201D" ID="QE0088" REF.START="QS0088"/>.</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>44.</NO.P>
+          <TXT>Na stranici 74. u članku 65. stavku 1. točki (a):</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>umjesto:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0089" REF.END="QE0089"/>(a)</NO.P>
+                <TXT>ako je, u slučaju iz članka 60. stavka 4., predmetno nadzorno tijelo podnijelo relevantan i obrazložen prigovor na nacrt odluke vodećeg tijela ili je vodeće tijelo odbilo takav prigovor kao nerelevantan ili neobrazložen. …;<QUOT.END CODE="201D" ID="QE0089" REF.START="QS0089"/>;</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>treba stajati:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0090" REF.END="QE0090"/>(a)</NO.P>
+                <TXT>ako je, u slučaju iz članka 60. stavka 4., predmetno nadzorno tijelo podnijelo relevantan i obrazložen prigovor na nacrt odluke vodećeg nadzornog tijela, a vodeće nadzorno tijelo nije uzelo u obzir prigovor ili je takav prigovor odbilo kao nerelevantan ili neobrazložen. …;<QUOT.END CODE="201D" ID="QE0090" REF.START="QS0090"/>.</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>45.</NO.P>
+          <TXT>Na stranici 75. u članku 65. stavku 5. trećoj rečenici:</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>umjesto:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="065.005">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0091" REF.END="QE0091"/>5.</NO.PARAG>
+            <ALINEA>… Odluka se bez odlaganja objavljuje na internetskim stranicama Odbora nakon što je nadzorno tijelo priopćilo konačnu odluku iz stavka 7.<QUOT.END CODE="201D" ID="QE0091" REF.START="QS0091"/>;</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>treba stajati:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="065.005">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0092" REF.END="QE0092"/>5.</NO.PARAG>
+            <ALINEA>… Odluka se bez odlaganja objavljuje na internetskim stranicama Odbora nakon što je nadzorno tijelo priopćilo konačnu odluku iz stavka 6.<QUOT.END CODE="201D" ID="QE0092" REF.START="QS0092"/>.</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>46.</NO.P>
+          <TXT>Na stranici 76. u članku 69. stavku 2.:</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>umjesto:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="069.002">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0093" REF.END="QE0093"/>2.</NO.PARAG>
+            <ALINEA>Ne dovodeći u pitanje zahtjeve Komisije iz članka 70. stavka 1. točke (b) i članka 70. stavka 2., Odbor pri obavljanju svojih zadaća ili izvršavanju svojih ovlasti ne smije tražiti ni primati upute ni od koga.<QUOT.END CODE="201D" ID="QE0093" REF.START="QS0093"/>;</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>treba stajati:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="069.002">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0094" REF.END="QE0094"/>2.</NO.PARAG>
+            <ALINEA>Ne dovodeći u pitanje zahtjeve Komisije iz članka 70. stavaka 1. i 2., Odbor pri obavljanju svojih zadaća ili izvršavanju svojih ovlasti ne smije tražiti ni primati upute ni od koga.<QUOT.END CODE="201D" ID="QE0094" REF.START="QS0094"/>.</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <?PAGE NO='11'?>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>47.</NO.P>
+          <TXT>Na stranici 77. u članku 70. stavku 1. točki (j):</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>umjesto:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0095" REF.END="QE0095"/>(j)</NO.P>
+                <TXT>izdaje smjernice, preporuke i primjere najbolje prakse u skladu s točkom (e) ovog članka u svrhu dodatnog određivanja kriterija i uvjeta za prijenose osobnih podataka na temelju članka 49. stavka 1.;<QUOT.END CODE="201D" ID="QE0095" REF.START="QS0095"/>;</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>treba stajati:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0096" REF.END="QE0096"/>(j)</NO.P>
+                <TXT>izdaje smjernice, preporuke i primjere najbolje prakse u skladu s točkom (e) ovog članka u svrhu dodatnog određivanja kriterija i zahtjeva za prijenose osobnih podataka na temelju članka 49. stavka 1.;<QUOT.END CODE="201D" ID="QE0096" REF.START="QS0096"/>.</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>48.</NO.P>
+          <TXT>Na stranici 77. u članku 70. stavku 1. točki (l):</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>umjesto:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0097" REF.END="QE0097"/>(l)</NO.P>
+                <TXT>preispituje praktičnu primjenu smjernica, preporuka i primjera najbolje prakse iz točaka (e) i (f);<QUOT.END CODE="201D" ID="QE0097" REF.START="QS0097"/>;</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>treba stajati:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0098" REF.END="QE0098"/>(l)</NO.P>
+                <TXT>preispituje praktičnu primjenu smjernica, preporuka i primjera najbolje prakse;<QUOT.END CODE="201D" ID="QE0098" REF.START="QS0098"/>.</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>49.</NO.P>
+          <TXT>Na stranici 77. u članku 70. stavku 1. točki (o):</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>umjesto:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0099" REF.END="QE0099"/>(o)</NO.P>
+                <TXT>provodi akreditacije certifikacijskih tijela i periodično preispitivanje akreditacija u skladu s člankom 43. te vodi javnu evidenciju akreditiranih tijela u skladu s člankom 43. stavkom 6. i akreditiranih voditelja obrade ili izvršitelja obrade s poslovnim nastanom u trećim zemljama u skladu s člankom 42. stavkom 7.;<QUOT.END CODE="201D" ID="QE0099" REF.START="QS0099"/>;</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>treba stajati:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0100" REF.END="QE0100"/>(o)</NO.P>
+                <TXT>odobrava kriterije za certifikaciju u skladu s člankom 42. stavkom 5. te vodi javnu evidenciju mehanizama certificiranja, pečata i oznaka za zaštitu podataka u skladu s člankom 42. stavkom 8. i certificiranih voditelja obrade ili izvršitelja obrade s poslovnim nastanom u trećim zemljama u skladu s člankom 42. stavkom 7.;<QUOT.END CODE="201D" ID="QE0100" REF.START="QS0100"/>.</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>50.</NO.P>
+          <TXT>Na stranici 77. u članku 70. stavku 1. točki (p):</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>umjesto:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0101" REF.END="QE0101"/>(p)</NO.P>
+                <TXT>određuje zahtjeve iz članka 43.stavka 3. s obzirom na akreditaciju certifikacijskih tijela u skladu s člankom 42.;<QUOT.END CODE="201D" ID="QE0101" REF.START="QS0101"/>;</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>treba stajati:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0102" REF.END="QE0102"/>(p)</NO.P>
+                <TXT>odobrava zahtjeve iz članka 43. stavka 3. s obzirom na akreditaciju certifikacijskih tijela iz članka 43.;<QUOT.END CODE="201D" ID="QE0102" REF.START="QS0102"/>.</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>51.</NO.P>
+          <TXT>Na stranici 80. u članku 77.:</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>umjesto:</P>
+        <QUOT.S LEVEL="1">
+          <ARTICLE IDENTIFIER="077">
+            <TI.ART><QUOT.START CODE="201E" ID="QS0103" REF.END="QE0103"/>Članak 77.</TI.ART>
+            <STI.ART>Pravo na pritužbu nadzornom tijelu</STI.ART>
+            <PARAG IDENTIFIER="077.001">
+              <NO.PARAG>1.</NO.PARAG>
+              <ALINEA>Ne dovodeći u pitanje druga upravna ili sudska pravna sredstva, svaki ispitanik ima pravo podnijeti pritužbu nadzornom tijelu, … .</ALINEA>
+            </PARAG>
+            <PARAG IDENTIFIER="077.002">
+              <NO.PARAG>2.</NO.PARAG>
+              <ALINEA>Nadzorno tijelo kojem je podnesena pritužba obavješćuje podnositelja pritužbe o napretku i ishodu pritužbe, uključujući mogućnost pravni lijek na temelju članka 78.<QUOT.END CODE="201D" ID="QE0103" REF.START="QS0103"/>;</ALINEA>
+            </PARAG>
+          </ARTICLE>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>treba stajati:</P>
+        <QUOT.S LEVEL="1">
+          <ARTICLE IDENTIFIER="077">
+            <TI.ART><QUOT.START CODE="201E" ID="QS0104" REF.END="QE0104"/>Članak 77.</TI.ART>
+            <STI.ART>Pravo na pritužbu nadzornom tijelu</STI.ART>
+            <PARAG IDENTIFIER="077.001">
+              <NO.PARAG>1.</NO.PARAG>
+              <ALINEA>Ne dovodeći u pitanje nijedan drugi upravni ili sudski pravni lijek, svaki ispitanik ima pravo podnijeti pritužbu nadzornom tijelu, … .</ALINEA>
+            </PARAG>
+            <PARAG IDENTIFIER="077.002">
+              <NO.PARAG>2.</NO.PARAG>
+              <ALINEA>Nadzorno tijelo kojem je podnesena pritužba obavješćuje podnositelja pritužbe o napretku i ishodu pritužbe, među ostalim o mogućnosti sudskog pravnog lijeka na temelju članka 78.<QUOT.END CODE="201D" ID="QE0104" REF.START="QS0104"/>.</ALINEA>
+            </PARAG>
+          </ARTICLE>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <?PAGE NO='12'?>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>52.</NO.P>
+          <TXT>Na stranici 80. u članku 78.</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>umjesto:</P>
+        <QUOT.S LEVEL="1">
+          <ARTICLE IDENTIFIER="078">
+            <TI.ART><QUOT.START CODE="201E" ID="QS0105" REF.END="QE0105"/>Članak 78.</TI.ART>
+            <STI.ART>Pravo na učinkoviti pravni lijek protiv nadzornog tijela</STI.ART>
+            <PARAG IDENTIFIER="078.001">
+              <NO.PARAG>1.</NO.PARAG>
+              <ALINEA>Ne dovodeći u pitanje nijedan drugi upravni ili izvansudski pravni lijek, svaka fizička ili pravna osoba ima pravo na učinkoviti pravni lijek protiv pravno obvezujuće odluke nekog nadzornog tijela koja se na nju odnosi.</ALINEA>
+            </PARAG>
+            <PARAG IDENTIFIER="078.002">
+              <NO.PARAG>2.</NO.PARAG>
+              <ALINEA>Ne dovodeći u pitanje nijedan drugi upravni ili izvansudski pravni lijek svaki ispitanik ima pravo na učinkoviti pravni lijek ako nadzorno tijelo … .<QUOT.END CODE="201D" ID="QE0105" REF.START="QS0105"/>;</ALINEA>
+            </PARAG>
+          </ARTICLE>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>treba stajati:</P>
+        <QUOT.S LEVEL="1">
+          <ARTICLE IDENTIFIER="078">
+            <TI.ART><QUOT.START CODE="201E" ID="QS0106" REF.END="QE0106"/>Članak 78.</TI.ART>
+            <STI.ART>Pravo na učinkoviti sudski pravni lijek protiv nadzornog tijela</STI.ART>
+            <PARAG IDENTIFIER="078.001">
+              <NO.PARAG>1.</NO.PARAG>
+              <ALINEA>Ne dovodeći u pitanje nijedan drugi upravni ili izvansudski pravni lijek, svaka fizička ili pravna osoba ima pravo na učinkoviti sudski pravni lijek protiv pravno obvezujuće odluke nekog nadzornog tijela koja se na nju odnosi.</ALINEA>
+            </PARAG>
+            <PARAG IDENTIFIER="078.002">
+              <NO.PARAG>2.</NO.PARAG>
+              <ALINEA>Ne dovodeći u pitanje nijedan drugi upravni ili izvansudski pravni lijek svaki ispitanik ima pravo na učinkoviti sudski pravni lijek ako nadzorno tijelo … .<QUOT.END CODE="201D" ID="QE0106" REF.START="QS0106"/>.</ALINEA>
+            </PARAG>
+          </ARTICLE>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>53.</NO.P>
+          <TXT>Na stranici 80. u članku 79. u naslovu i stavku 1.</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>umjesto:</P>
+        <QUOT.S LEVEL="1">
+          <STI.ART><QUOT.START CODE="201E" ID="QS0107" REF.END="QE0107"/>Pravo na učinkoviti pravni lijek protiv voditelja obrade ili izvršitelja obrade</STI.ART>
+          <PARAG IDENTIFIER="079.001">
+            <NO.PARAG>1.</NO.PARAG>
+            <ALINEA>Ne dovodeći u pitanje nijedan dostupan upravni ili izvansudski pravni lijek, uključujući pravo na podnošenje pritužbe nadzornom tijelu na temelju članka 77., ispitanik ima pravo na učinkoviti pravni lijek ako smatra da su mu zbog obrade njegovih osobnih podataka protivno ovoj Uredbi prekršena njegova prava iz ove Uredbe.<QUOT.END CODE="201D" ID="QE0107" REF.START="QS0107"/>;</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>treba stajati:</P>
+        <QUOT.S LEVEL="1">
+          <STI.ART><QUOT.START CODE="201E" ID="QS0108" REF.END="QE0108"/>Pravo na učinkoviti sudski pravni lijek protiv voditelja obrade ili izvršitelja obrade</STI.ART>
+          <PARAG IDENTIFIER="079.001">
+            <NO.PARAG>1.</NO.PARAG>
+            <ALINEA>Ne dovodeći u pitanje nijedan dostupan upravni ili izvansudski pravni lijek, uključujući pravo na podnošenje pritužbe nadzornom tijelu na temelju članka 77., ispitanik ima pravo na učinkoviti sudski pravni lijek ako smatra da su mu zbog obrade njegovih osobnih podataka protivno ovoj Uredbi prekršena njegova prava iz ove Uredbe.<QUOT.END CODE="201D" ID="QE0108" REF.START="QS0108"/></ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>54.</NO.P>
+          <TXT>Na stranici 83. u članku 83. stavku 5. uvodnom tekstu:</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>umjesto:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="083.005">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0109" REF.END="QE0109"/>5.</NO.PARAG>
+            <ALINEA>Za kršenja sljedećih odredaba, u skladu sa stavkom 2.a, mogu se izreći upravne novčane kazne…<QUOT.END CODE="201D" ID="QE0109" REF.START="QS0109"/>;</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>treba stajati:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="083.005">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0110" REF.END="QE0110"/>5.</NO.PARAG>
+            <ALINEA>Za kršenja sljedećih odredaba, u skladu sa stavkom 2., mogu se izreći upravne novčane kazne…<QUOT.END CODE="201D" ID="QE0110" REF.START="QS0110"/>.</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>55.</NO.P>
+          <TXT>Na stranici 83. u članku 83. stavcima 7., 8. i 9.</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>umjesto:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="083.007">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0111" REF.END="QE0111"/>7.</NO.PARAG>
+            <ALINEA>Ne dovodeći u pitanje korektivne ovlasti nadzornih tijela iz članka 58. stavka 2. svaka država članica može utvrditi pravila mogu li se i u kojoj mjeri tijelima javne vlasti ili tijelima s poslovnim nastanom u toj državi članici izreći upravne novčane kazne.</ALINEA>
+          </PARAG>
+          <PARAG IDENTIFIER="083.008">
+            <NO.PARAG>8.</NO.PARAG>
+            <ALINEA>Na izvršavanje ovlasti nadzornog tijela u skladu s ovim člankom primjenjuju se odgovarajuće postupovne zaštitne mjere u skladu s pravom Unije i pravom države članice, uključujući učinkoviti pravni lijek i pravilno postupanje.</ALINEA>
+          </PARAG>
+          <PARAG IDENTIFIER="083.009">
+            <NO.PARAG>9.</NO.PARAG>
+            <ALINEA>Ako pravnim sustavom države članice nisu predviđene upravne novčane kazne, ovaj se članak može primjenjivati na način da novčanu kaznu pokreće nadležno nadzorno tijelo, a izriču je nadležni nacionalni sudovi pritom osiguravajući da su ta pravna sredstva učinkovita i imaju istovrijedan učinak kao i upravne novčane kazne koje izriču nadzorna tijela.<QUOT.END CODE="201D" ID="QE0111" REF.START="QS0111"/>;</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>treba stajati:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="083.007">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0112" REF.END="QE0112"/>7.</NO.PARAG>
+            <ALINEA>Ne dovodeći u pitanje korektivne ovlasti nadzornih tijela iz članka 58. stavka 2. svaka država članica može utvrditi pravila mogu li se i u kojoj mjeri tijelima javne vlasti i javnim tijelima osnovanima u toj državi članici izreći upravne novčane kazne.</ALINEA>
+          </PARAG>
+          <?PAGE NO='13'?>
+          <PARAG IDENTIFIER="083.008">
+            <NO.PARAG>8.</NO.PARAG>
+            <ALINEA>Na izvršavanje ovlasti nadzornog tijela u skladu s ovim člankom primjenjuju se odgovarajuće postupovne zaštitne mjere u skladu s pravom Unije i pravom države članice, uključujući učinkoviti sudski pravni lijek i pravilno postupanje.</ALINEA>
+          </PARAG>
+          <PARAG IDENTIFIER="083.009">
+            <NO.PARAG>9.</NO.PARAG>
+            <ALINEA>Ako pravnim sustavom države članice nisu predviđene upravne novčane kazne, ovaj se članak može primjenjivati na način da novčanu kaznu pokreće nadležno nadzorno tijelo, a izriču je nadležni nacionalni sudovi pritom osiguravajući da su ti pravni lijekovi učinkoviti i imaju istovrijedan učinak kao i upravne novčane kazne koje izriču nadzorna tijela.<QUOT.END CODE="201D" ID="QE0112" REF.START="QS0112"/>.</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>56.</NO.P>
+          <TXT>Na stranici 83. u članku 84. stavku 1.:</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>umjesto:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="084.001">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0113" REF.END="QE0113"/>1.</NO.PARAG>
+            <ALINEA>Države članice utvrđuju pravila o ostalim sankcijama koje se primjenjuju na kršenja odredaba ove Uredbe, te poduzimaju sve potrebne mjere kako bi se osigurala njihova provedba. … .<QUOT.END CODE="201D" ID="QE0113" REF.START="QS0113"/>;</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>treba stajati:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="084.001">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0114" REF.END="QE0114"/>1.</NO.PARAG>
+            <ALINEA>Države članice utvrđuju pravila o ostalim sankcijama koje se primjenjuju na kršenja ove Uredbe, a posebno na ona kršenja koja ne podliježu upravnim novčanim kaznama na temelju članka 83., te poduzimaju sve potrebne mjere kako bi se osigurala njihova provedba. … .<QUOT.END CODE="201D" ID="QE0114" REF.START="QS0114"/>.</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>57.</NO.P>
+          <TXT>Na stranici 84. u članku 86.:</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>umjesto:</P>
+        <QUOT.S LEVEL="1">
+          <ALINEA><QUOT.START CODE="201E" ID="QS0115" REF.END="QE0115"/>Tijelo javne vlasti, javno ili privatno tijelo može otkriti osobne podatke iz službenih dokumenata koje posjeduje to tijelo javne vlasti ili to tijelo u svrhu obavljanja zadaće u javnom interesu u skladu s pravom Unije ili pravom države članice koje se primjenjuje na to tijelo javne vlasti ili to tijelo kako bi se uskladio javni pristup službenim dokumentima s pravom na zaštitu osobnih podataka u skladu s ovom Uredbom.<QUOT.END CODE="201D" ID="QE0115" REF.START="QS0115"/>;</ALINEA>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>treba stajati:</P>
+        <QUOT.S LEVEL="1">
+          <ALINEA><QUOT.START CODE="201E" ID="QS0116" REF.END="QE0116"/>Tijelo javne vlasti, javno ili privatno tijelo može, u skladu s pravom Unije ili pravom države članice koje se primjenjuje na to tijelo javne vlasti ili to tijelo, otkriti osobne podatke iz službenih dokumenata, koje posjeduje u svrhu obavljanja zadaće u javnom interesu, kako bi se uskladio javni pristup službenim dokumentima s pravom na zaštitu osobnih podataka u skladu s ovom Uredbom.<QUOT.END CODE="201D" ID="QE0116" REF.START="QS0116"/>.</ALINEA>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+  </CONTENTS.CORR>
+</CORR>

@@ -1,0 +1,578 @@
+<?xml version="1.0" encoding="utf-8"?>
+<CORR xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://formex.publications.europa.eu/schema/formex-05.56-20160701.xd">
+  <BIB.INSTANCE>
+    <DOCUMENT.REF FILE="L_2018127HU.01000201.doc.xml">
+      <COLL>L</COLL>
+      <NO.OJ>127</NO.OJ>
+      <YEAR>2018</YEAR>
+      <LG.OJ>HU</LG.OJ>
+      <PAGE.FIRST>2</PAGE.FIRST>
+      <PAGE.SEQ>1</PAGE.SEQ>
+      <VOLUME.REF>01</VOLUME.REF>
+    </DOCUMENT.REF>
+    <DATE ISO="20180523">20180523</DATE>
+    <LG.DOC>HU</LG.DOC>
+    <NO.SEQ>0002</NO.SEQ>
+    <PAGE.FIRST>2</PAGE.FIRST>
+    <PAGE.SEQ>1</PAGE.SEQ>
+    <PAGE.LAST>6</PAGE.LAST>
+    <PAGE.TOTAL>5</PAGE.TOTAL>
+  </BIB.INSTANCE>
+  <TITLE>
+    <TI>
+      <P>Helyesbítés a természetes személyeknek a személyes adatok kezelése tekintetében történő védelméről és az ilyen adatok szabad áramlásáról, valamint a 95/46/EK irányelv hatályon kívül helyezéséről szóló, <DATE ISO="20160427">2016. április 27-i</DATE> (EU) 2016/679 európai parlamenti és tanácsi rendelethez (általános adatvédelmi rendelet)</P>
+      <P>(<REF.DOC.OJ COLL="L" DATE.PUB="20160504" NO.OJ="119">Az Európai Unió Hivatalos Lapja L 119., 2016. május 4.</REF.DOC.OJ>)</P>
+    </TI>
+  </TITLE>
+  <CONTENTS.CORR>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>1.</NO.P>
+          <TXT>A 14. oldalon a (71) preambulumbekezdés ötödik és hatodik mondatában:</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>a következő szövegrész:</P>
+        <QUOT.S LEVEL="1">
+          <CONSID>
+            <NP>
+              <NO.P><QUOT.START CODE="201E" ID="QS0001" REF.END="QE0001"/>(71)</NO.P>
+              <TXT>… Az ilyen intézkedés gyermekre nem vonatkozhat.</TXT>
+              <P>Az érintett szempontjából tekintve tisztességes és átlátható adatkezelés biztosítása érdekében – az adatkezelés konkrét körülményeinek figyelembevételével – az adatkezelő a profilalkotáshoz megfelelő matematikai és statisztikai eljárásokat alkalmaz, olyan technikai és szervezési intézkedéseket vezet be, amelyek biztosítják különösen az adatok pontatlanságát előidéző tényezők korrekcióját és a hibalehetőségek minimálisra csökkentését, továbbá a személyes adatok biztonságáról oly módon gondoskodik, amely az érintett érdekeit és jogait potenciálisan veszélyeztető tényezőket figyelembe veszi, és amely megakadályozza egyebek között az olyan hatások érvényesülését, amelyek a természetes személyek közötti hátrányos megkülönböztetést eredményeznek faji vagy etnikai származás, politikai vélemény, vallási vagy világnézeti meggyőződés, szakszervezeti tagság, genetikai vagy egészségi állapot, szexuális irányultság vagy nemi identitás alapján, illetve amelyek ilyen hatást kiváltó intézkedésekhez vezetnek. A személyes adatok különleges kategóriáit célzó automatizált döntéshozatal és profilalkotás csak bizonyos meghatározott feltételek mellett engedélyezhető.<QUOT.END CODE="201D" ID="QE0001" REF.START="QS0001"/>,</P>
+            </NP>
+          </CONSID>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>helyesen:</P>
+        <QUOT.S LEVEL="1">
+          <CONSID>
+            <NP>
+              <NO.P><QUOT.START CODE="201E" ID="QS0002" REF.END="QE0002"/>(71)</NO.P>
+              <TXT>… Az ilyen intézkedés gyermekre nem vonatkozhat. Az érintett szempontjából tekintve tisztességes és átlátható adatkezelés biztosítása érdekében – figyelembe véve azokat a körülményeket és kontextust, amelyben a személyes adatokat kezelik – az adatkezelő a profilalkotáshoz megfelelő matematikai és statisztikai eljárásokat alkalmaz, olyan technikai és szervezési intézkedéseket vezet be, amelyek biztosítják különösen az adatok pontatlanságát előidéző tényezők korrekcióját és a hibalehetőségek minimálisra csökkentését, továbbá a személyes adatok biztonságáról oly módon gondoskodik, amely az érintett érdekeit és jogait potenciálisan veszélyeztető tényezőket figyelembe veszi, és megakadályozza többek között az olyan hatások érvényesülését, amelyek a természetes személyek közötti hátrányos megkülönböztetést eredményeznek faji vagy etnikai származás, politikai vélemény, vallási vagy világnézeti meggyőződés, szakszervezeti tagság, genetikai vagy egészségi állapot, szexuális irányultság vagy nemi identitás alapján, illetve azokat az adatkezeléseket, amelyek ilyen hatást kiváltó intézkedéseket eredményeznek. A személyes adatok különleges kategóriáin alapuló automatizált döntéshozatal és profilalkotás csak bizonyos meghatározott feltételek mellett engedélyezhető.<QUOT.END CODE="201D" ID="QE0002" REF.START="QS0002"/>.</TXT>
+            </NP>
+          </CONSID>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>2.</NO.P>
+          <TXT>A 34. oldalon a 4. cikk 20. pontjában:</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>a következő szövegrész:</P>
+        <QUOT.S LEVEL="1">
+          <DLIST SEPARATOR=":">
+            <DLIST.ITEM>
+              <PREFIX><QUOT.START CODE="201E" ID="QS0003" REF.END="QE0003"/>20.</PREFIX>
+              <TERM><QUOT.START CODE="00BB" ID="QS0004" REF.END="QE0004"/>kötelező erejű vállalati szabályok<QUOT.END CODE="00AB" ID="QE0004" REF.START="QS0004"/></TERM>
+              <DEFINITION>a személyes adatok védelmére vonatkozó szabályzat, amelyet az Unió valamely tagállamának területén tevékenységi hellyel rendelkező adatkezelő vagy adatfeldolgozó egy vagy több harmadik országban a személyes adatoknak az ugyanazon vállalkozáscsoporton vagy közös gazdasági tevékenységet folytató vállalkozások ugyanazon csoportján belüli adatkezelő vagy adatfeldolgozó részéről történő továbbítása vagy ilyen továbbítások sorozata tekintetében követ;<QUOT.END CODE="201D" ID="QE0003" REF.START="QS0003"/>,</DEFINITION>
+            </DLIST.ITEM>
+          </DLIST>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>helyesen:</P>
+        <QUOT.S LEVEL="1">
+          <DLIST SEPARATOR=":">
+            <DLIST.ITEM>
+              <PREFIX><QUOT.START CODE="201E" ID="QS0005" REF.END="QE0005"/>20.</PREFIX>
+              <TERM><QUOT.START CODE="00BB" ID="QS0006" REF.END="QE0006"/>kötelező erejű vállalati szabályok<QUOT.END CODE="00AB" ID="QE0006" REF.START="QS0006"/></TERM>
+              <DEFINITION>a személyes adatok védelmére vonatkozó szabályzat, amelyet az Unió valamely tagállamának területén tevékenységi hellyel rendelkező adatkezelő vagy adatfeldolgozó egy vagy több harmadik országban a személyes adatoknak az ugyanazon vállalkozáscsoporton vagy közös gazdasági tevékenységet folytató vállalkozások ugyanazon csoportján belüli adatkezelő vagy adatfeldolgozó részére történő továbbítása vagy ilyen továbbítások sorozata tekintetében követ;<QUOT.END CODE="201D" ID="QE0005" REF.START="QS0005"/>.</DEFINITION>
+            </DLIST.ITEM>
+          </DLIST>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <?PAGE NO='3'?>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>3.</NO.P>
+          <TXT>A 39. oldalon a 10. cikkben:</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>a következő szövegrész:</P>
+        <QUOT.S LEVEL="1">
+          <ALINEA><QUOT.START CODE="201E" ID="QS0007" REF.END="QE0007"/>A büntetőjogi felelősség megállapítására vonatkozó határozatokra és a bűncselekményekre, illetve a kapcsolódó biztonsági intézkedésekre vonatkozó személyes adatoknak a 6. cikk (1) bekezdése alapján történő kezelésére kizárólag abban az esetben kerülhet sor, ha az közhatalmi szerv adatkezelésében történik, vagy ha az adatkezelést az érintett jogai és szabadságai tekintetében megfelelő garanciákat nyújtó uniós vagy tagállami jog lehetővé teszi. A büntetőjogi felelősség megállapítására vonatkozó határozatok teljes körű nyilvántartása csak közhatalmi szerv által végzett adatkezelés keretében történhet.<QUOT.END CODE="201D" ID="QE0007" REF.START="QS0007"/>,</ALINEA>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>helyesen:</P>
+        <QUOT.S LEVEL="1">
+          <ALINEA><QUOT.START CODE="201E" ID="QS0008" REF.END="QE0008"/>A büntetőjogi felelősség megállapítására vonatkozó határozatokra és a bűncselekményekre, illetve a kapcsolódó biztonsági intézkedésekre vonatkozó személyes adatoknak a 6. cikk (1) bekezdése alapján történő kezelésére kizárólag abban az esetben kerülhet sor, ha az közhatalmi szerv felügyelete alatt történik, vagy ha az adatkezelést az érintett jogai és szabadságai tekintetében megfelelő garanciákat nyújtó uniós vagy tagállami jog lehetővé teszi. A büntetőjogi felelősség megállapítására vonatkozó határozatok teljes körű nyilvántartása csak közhatalmi szerv által végzett adatkezelés keretében történhet.<QUOT.END CODE="201D" ID="QE0008" REF.START="QS0008"/>.</ALINEA>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>4.</NO.P>
+          <TXT>Az 55. oldalon a 37. cikk (7) bekezdésében:</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>a következő szövegrész:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="037.007">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0009" REF.END="QE0009"/>(7)</NO.PARAG>
+            <ALINEA>Az adatkezelő vagy az adatfeldolgozó közzéteszi az adatvédelmi tisztviselő nevét és elérhetőségét, és azokat a felügyeleti hatósággal közli.<QUOT.END CODE="201D" ID="QE0009" REF.START="QS0009"/>,</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>helyesen:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="037.007">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0010" REF.END="QE0010"/>(7)</NO.PARAG>
+            <ALINEA>Az adatkezelő vagy az adatfeldolgozó közzéteszi az adatvédelmi tisztviselő elérhetőségeit, és azokat közli a felügyeleti hatósággal.<QUOT.END CODE="201D" ID="QE0010" REF.START="QS0010"/>.</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>5.</NO.P>
+          <TXT>Az 56. oldalon a 39. cikk (1) bekezdése b) pontjában:</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>a következő szövegrész:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0011" REF.END="QE0011"/>b)</NO.P>
+                <TXT>ellenőrzi az e rendeletnek, valamint az egyéb uniós vagy tagállami adatvédelmi rendelkezéseknek, továbbá az adatkezelő vagy az adatfeldolgozó személyes adatok védelmével kapcsolatos belső szabályainak való megfelelést, ideértve a feladatkörök kijelölését, az adatkezelési műveletekben vevő személyzet tudatosság-növelését és képzését, valamint a kapcsolódó auditokat is;<QUOT.END CODE="201D" ID="QE0011" REF.START="QS0011"/>,</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>helyesen:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0012" REF.END="QE0012"/>b)</NO.P>
+                <TXT>ellenőrzi az e rendeletnek, valamint az egyéb uniós vagy tagállami adatvédelmi rendelkezéseknek, továbbá az adatkezelő vagy az adatfeldolgozó személyes adatok védelmével kapcsolatos belső szabályainak való megfelelést, ideértve a feladatkörök kijelölését, az adatkezelési műveletekben részt vevő személyzet tudatosság-növelését és képzését, valamint a kapcsolódó auditokat is;<QUOT.END CODE="201D" ID="QE0012" REF.START="QS0012"/>.</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>6.</NO.P>
+          <TXT>Az 58. oldalon a 41. cikk (3) bekezdésében:</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>a következő szövegrész:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="041.003">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0013" REF.END="QE0013"/>(3)</NO.PARAG>
+            <ALINEA>A 63. cikkben említett, egységességi mechanizmusnak megfelelően az illetékes felügyeleti hatóság az e cikk (1) bekezdésében említett szervezet akkreditációjával kapcsolatos szempontok tervezetét a Testületnek benyújtja.<QUOT.END CODE="201D" ID="QE0013" REF.START="QS0013"/>,</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>helyesen:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="041.003">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0014" REF.END="QE0014"/>(3)</NO.PARAG>
+            <ALINEA>A 63. cikkben említett, egységességi mechanizmusnak megfelelően az illetékes felügyeleti hatóság az e cikk (1) bekezdésében említett szervezet akkreditációjával kapcsolatos követelmények tervezetét a Testületnek benyújtja.<QUOT.END CODE="201D" ID="QE0014" REF.START="QS0014"/>.</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <?PAGE NO='4'?>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>7.</NO.P>
+          <TXT>Az 58. oldalon a 41. cikk (5) bekezdésében:</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>a következő szövegrész:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="041.005">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0015" REF.END="QE0015"/>(5)</NO.PARAG>
+            <ALINEA>Az illetékes felügyeleti hatóság visszavonja az (1) bekezdésben említett szervezet akkreditációját, ha az az akkreditációs feltételeknek nem vagy már nem felel meg, vagy ha a szerv intézkedései megsértik e rendeletet.<QUOT.END CODE="201D" ID="QE0015" REF.START="QS0015"/>,</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>helyesen:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="041.005">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0016" REF.END="QE0016"/>(5)</NO.PARAG>
+            <ALINEA>Az illetékes felügyeleti hatóság visszavonja az (1) bekezdésben említett szervezet akkreditációját, ha az akkreditációs követelményeknek nem vagy már nem felel meg, vagy ha a szerv intézkedései megsértik e rendeletet.<QUOT.END CODE="201D" ID="QE0016" REF.START="QS0016"/>.</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>8.</NO.P>
+          <TXT>Az 59. oldalon a 42. cikk (7) bekezdésében:</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>a következő szövegrész:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="042.007">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0017" REF.END="QE0017"/>(7)</NO.PARAG>
+            <ALINEA>Az adatkezelő vagy adatfeldolgozó részére a tanúsítványt legfeljebb hároméves időtartamra lehet kiállítani, amely azonos feltételek mellett a tanúsítvány megújítható, feltéve, hogy a vonatkozó követelmények továbbra is teljesülnek. Adott esetben, ha a tanúsításra vonatkozó követelmények nem vagy már nem teljesülnek, a 43. cikkben említett tanúsító szervezet vagy az illetékes felügyeleti hatóság a tanúsítványt visszavonja.<QUOT.END CODE="201D" ID="QE0017" REF.START="QS0017"/>,</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>helyesen:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="042.007">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0018" REF.END="QE0018"/>(7)</NO.PARAG>
+            <ALINEA>Az adatkezelő vagy adatfeldolgozó részére a tanúsítványt legfeljebb hároméves időtartamra lehet kiállítani, amely azonos feltételek mellett a tanúsítvány megújítható, feltéve, hogy a vonatkozó szempontok továbbra is teljesülnek. Adott esetben, ha a tanúsításra vonatkozó szempontok nem vagy már nem teljesülnek, a 43. cikkben említett tanúsító szervezet vagy az illetékes felügyeleti hatóság a tanúsítványt visszavonja.<QUOT.END CODE="201D" ID="QE0018" REF.START="QS0018"/>.</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>9.</NO.P>
+          <TXT>A 60. oldalon a 43. cikk (3) bekezdésének első mondatában:</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>a következő szövegrész:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="043.003">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0019" REF.END="QE0019"/>(3)</NO.PARAG>
+            <ALINEA>Az e cikk (1) és (2) bekezdésében említett tanúsító szervezet akkreditálását az 55. vagy az 56. cikk alapján illetékes felügyeleti hatóság által, illetve az 57. cikknek megfelelően a Testület által jóváhagyott szempontok alapján kell elvégezni.<QUOT.END CODE="201D" ID="QE0019" REF.START="QS0019"/>,</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>helyesen:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="043.003">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0020" REF.END="QE0020"/>(3)</NO.PARAG>
+            <ALINEA>Az e cikk (1) és (2) bekezdésében említett tanúsító szervezet akkreditálását az 55. vagy az 56. cikk alapján illetékes felügyeleti hatóság által, illetve a 63. cikknek megfelelően a Testület által jóváhagyott követelmények alapján kell elvégezni.<QUOT.END CODE="201D" ID="QE0020" REF.START="QS0020"/>.</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>10.</NO.P>
+          <TXT>A 60. oldalon a 43. cikk (6) bekezdésében:</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>a következő szövegrész:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="043.006">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0021" REF.END="QE0021"/>(6)</NO.PARAG>
+            <ALINEA>Az e cikk (3) bekezdésében említett követelményeket és a 42. cikk (5) bekezdésében említett szempontokat a felügyeleti hatóság könnyen hozzáférhető formában közzéteszi. A felügyeleti hatóságok ezeket a követelményeket és szempontokat a Testület részére is továbbítják. A Testület valamennyi tanúsítási mechanizmust és adatvédelmi bélyegzőt egy nyilvántartásban állítja össze, és azokat megfelelő módon nyilvánosan elérhetővé teszi.<QUOT.END CODE="201D" ID="QE0021" REF.START="QS0021"/>,</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>helyesen:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="043.006">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0022" REF.END="QE0022"/>(6)</NO.PARAG>
+            <ALINEA>Az e cikk (3) bekezdésében említett követelményeket és a 42. cikk (5) bekezdésében említett szempontokat a felügyeleti hatóság könnyen hozzáférhető formában közzéteszi. A felügyeleti hatóságok ezeket a követelményeket és szempontokat a Testület részére is továbbítják.<QUOT.END CODE="201D" ID="QE0022" REF.START="QS0022"/>.</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>11.</NO.P>
+          <TXT>A 69. oldalon az 57. cikk (1) bekezdésének p) pontjában:</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>a következő szövegrész:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0023" REF.END="QE0023"/>p)</NO.P>
+                <TXT>meghatározza és közzéteszi a magatartási kódexnek való megfelelést ellenőrző 41. cikk szerinti szervezet és a 43. cikk szerinti tanúsító szervezet akkreditációjára vonatkozó szempontokat;<QUOT.END CODE="201D" ID="QE0023" REF.START="QS0023"/>,</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>helyesen:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0024" REF.END="QE0024"/>p)</NO.P>
+                <TXT>meghatározza és közzéteszi a magatartási kódexnek való megfelelést ellenőrző 41. cikk szerinti szervezet és a 43. cikk szerinti tanúsító szervezet akkreditációjára vonatkozó követelményeket;<QUOT.END CODE="201D" ID="QE0024" REF.START="QS0024"/>.</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <?PAGE NO='5'?>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>12.</NO.P>
+          <TXT>A 74. oldalon a 64. cikk (1) bekezdése c) pontjában:</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>a következő szövegrész:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0025" REF.END="QE0025"/>c)</NO.P>
+                <TXT>a 41. cikk (3) bekezdése szerint valamely szervezet, illetve a 43 cikk (3) bekezdése szerint valamely tanúsító szervezet akkreditációjára vonatkozó szempontok jóváhagyására irányul;<QUOT.END CODE="201D" ID="QE0025" REF.START="QS0025"/>,</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>helyesen:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0026" REF.END="QE0026"/>c)</NO.P>
+                <TXT>a 41. cikk (3) bekezdése szerinti valamely szervezet akkreditációjára vonatkozó követelmények, a 43. cikk (3) bekezdése szerinti valamely tanúsító szervezet akkreditációjára vonatkozó követelmények, vagy a 42. cikk (5) bekezdésében említett tanúsítványra vonatkozó szempontok jóváhagyására irányul;<QUOT.END CODE="201D" ID="QE0026" REF.START="QS0026"/>.</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>13.</NO.P>
+          <TXT>A 74. oldalon a 64. cikk (6), (7) és (8) bekezdésében:</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>a következő szövegrész:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="064.006">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0027" REF.END="QE0027"/>(6)</NO.PARAG>
+            <ALINEA>Az illetékes felügyeleti hatóság a (3) bekezdésben említett határidőn belül nem fogadhatja el az (1) bekezdésben említett döntéstervezetét.</ALINEA>
+          </PARAG>
+          <PARAG IDENTIFIER="064.007">
+            <NO.PARAG>(7)</NO.PARAG>
+            <ALINEA>Az (1) bekezdésben említett felügyeleti hatóság a lehető legnagyobb mértékben figyelembe veszi a Testület véleményét, és a vélemény kézhezvételét követő két héten belül, elektronikus úton, egységes formátum alkalmazásával közli a Testület elnökével, hogy a döntéstervezetet változatlan formában fenntartja-e, vagy pedig módosítani fogja, és adott esetben megküldi a módosított döntéstervezetet.</ALINEA>
+          </PARAG>
+          <PARAG IDENTIFIER="064.008">
+            <NO.PARAG>(8)</NO.PARAG>
+            <ALINEA>Ha az érintett felügyeleti hatóság az e cikk (7) bekezdésében említett határidőn belül, a releváns indokok megadásával arról tájékoztatja a Testület elnökét, hogy egészében vagy részben nem kíván a Testület véleménye alapján eljárni, akkor a 65. cikk (1) bekezdését kell alkalmazni.<QUOT.END CODE="201D" ID="QE0027" REF.START="QS0027"/>,</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>helyesen:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="064.006">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0028" REF.END="QE0028"/>(6)</NO.PARAG>
+            <ALINEA>Az (1) bekezdésben említett illetékes felügyeleti hatóság a (3) bekezdésben említett határidőn belül nem fogadhatja el az (1) bekezdésben említett döntéstervezetét.</ALINEA>
+          </PARAG>
+          <PARAG IDENTIFIER="064.007">
+            <NO.PARAG>(7)</NO.PARAG>
+            <ALINEA>Az (1) bekezdésben említett illetékes felügyeleti hatóság a lehető legnagyobb mértékben figyelembe veszi a Testület véleményét, és a vélemény kézhezvételét követő két héten belül, elektronikus úton, egységes formátum alkalmazásával közli a Testület elnökével, hogy a döntéstervezetet változatlan formában fenntartja-e, vagy pedig módosítani fogja, és adott esetben megküldi a módosított döntéstervezetet.</ALINEA>
+          </PARAG>
+          <PARAG IDENTIFIER="064.008">
+            <NO.PARAG>(8)</NO.PARAG>
+            <ALINEA>Ha az (1) bekezdésben említett illetékes felügyeleti hatóság az e cikk (7) bekezdésében említett határidőn belül, a releváns indokok megadásával arról tájékoztatja a Testület elnökét, hogy egészében vagy részben nem kíván a Testület véleménye alapján eljárni, akkor a 65. cikk (1) bekezdését kell alkalmazni.<QUOT.END CODE="201D" ID="QE0028" REF.START="QS0028"/>.</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>14.</NO.P>
+          <TXT>A 74. oldalon a 65. cikk (1) bekezdése a) pontjában:</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>a következő szövegrész:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0029" REF.END="QE0029"/>a)</NO.P>
+                <TXT>ha a 60. cikk (4) bekezdésében említett esetben valamely érintett felügyeleti hatóság releváns és megalapozott kifogást emelt a fő felügyeleti hatóság döntéstervezetével szemben, vagy ha a fő felügyeleti hatóság elutasított egy ilyen kifogást arra hivatkozva, hogy az nem releváns vagy nem megalapozott. A kötelező erejű döntésnek ki kell terjednie a releváns és megalapozott kifogásban szereplő összes kérdésre, különösen arra, hogy a rendelet sérült-e;<QUOT.END CODE="201D" ID="QE0029" REF.START="QS0029"/>,</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>helyesen:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0030" REF.END="QE0030"/>a)</NO.P>
+                <TXT>ha a 60. cikk (4) bekezdésében említett esetben valamely érintett felügyeleti hatóság releváns és megalapozott kifogást emelt a fő felügyeleti hatóság döntéstervezetével szemben, és a fő felügyeleti hatóság nem értett egyet a kifogással, vagy az ilyen kifogást elutasította arra hivatkozva, hogy az nem releváns vagy nem megalapozott. A kötelező erejű döntésnek ki kell terjednie a releváns és megalapozott kifogásban szereplő összes kérdésre, különösen arra, hogy a rendelet sérült-e;<QUOT.END CODE="201D" ID="QE0030" REF.START="QS0030"/>.</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <?PAGE NO='6'?>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>15.</NO.P>
+          <TXT>A 76. oldalon a 69. cikk (2) bekezdésében:</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>a következő szövegrész:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="069.002">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0031" REF.END="QE0031"/>(2)</NO.PARAG>
+            <ALINEA>A 70. cikk (1) bekezdésének b) pontjában és a 70. cikk (2) bekezdésében említett, a Bizottságtól érkező kérések sérelme nélkül, a Testület feladatainak ellátása, illetve hatásköreinek gyakorlása során nem kérhet, és nem fogadhat el utasítást.<QUOT.END CODE="201D" ID="QE0031" REF.START="QS0031"/>,</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>helyesen:</P>
+        <QUOT.S LEVEL="1">
+          <PARAG IDENTIFIER="069.002">
+            <NO.PARAG><QUOT.START CODE="201E" ID="QS0032" REF.END="QE0032"/>(2)</NO.PARAG>
+            <ALINEA>A 70. cikk (1) és (2) bekezdésében említett, a Bizottságtól érkező kérések sérelme nélkül, a Testület feladatainak ellátása, illetve hatásköreinek gyakorlása során nem kérhet, és nem fogadhat el utasítást.<QUOT.END CODE="201D" ID="QE0032" REF.START="QS0032"/>.</ALINEA>
+          </PARAG>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>16.</NO.P>
+          <TXT>A 77. oldalon a 70. cikk (1) bekezdése l) pontjában:</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>a következő szövegrész:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0033" REF.END="QE0033"/>l)</NO.P>
+                <TXT>felülvizsgálja az e), illetve f) pontban említett iránymutatások, ajánlások és legjobb gyakorlatok gyakorlati alkalmazását;<QUOT.END CODE="201D" ID="QE0033" REF.START="QS0033"/>,</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>helyesen:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0034" REF.END="QE0034"/>l)</NO.P>
+                <TXT>felülvizsgálja az iránymutatások, ajánlások és legjobb gyakorlatok gyakorlati alkalmazását;<QUOT.END CODE="201D" ID="QE0034" REF.START="QS0034"/>.</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>17.</NO.P>
+          <TXT>A 77. oldalon a 70. cikk (1) bekezdése o) pontjában:</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>a következő szövegrész:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0035" REF.END="QE0035"/>o)</NO.P>
+                <TXT>a 43. cikknek megfelelően elvégzi a tanúsító szervezetek akkreditációját és annak rendszeres felülvizsgálatát, nyilvános nyilvántartást vezet egyrészt a 43. cikk (6) bekezdése szerint az akkreditált szervezetekről, másrészt a 42. cikk (7) bekezdése szerint a harmadik országban tevékenységi hellyel rendelkező akkreditált adatkezelőkről és adatfeldolgozókról;<QUOT.END CODE="201D" ID="QE0035" REF.START="QS0035"/>,</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>helyesen:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0036" REF.END="QE0036"/>o)</NO.P>
+                <TXT>jóváhagyja a 42. cikk (5) bekezdése szerinti tanúsítványra vonatkozó szempontokat, és nyilvános nyilvántartást vezet a 42. cikk (8) bekezdése szerint a tanúsítási mechanizmusokról, illetve az adatvédelmi bélyegzőkről és jelölésekről, valamint a 42. cikk (7) bekezdése szerint a harmadik országban tevékenységi hellyel rendelkező tanúsított adatkezelőkről és adatfeldolgozókról;<QUOT.END CODE="201D" ID="QE0036" REF.START="QS0036"/>.</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+    <CORRECTION>
+      <DESCRIPTION>
+        <NP>
+          <NO.P>18.</NO.P>
+          <TXT>A 77. oldalon a 70. cikk (1) bekezdése p) pontjában:</TXT>
+        </NP>
+      </DESCRIPTION>
+      <OLD.CORR FOR.READ="YES">
+        <P>a következő szövegrész:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0037" REF.END="QE0037"/>p)</NO.P>
+                <TXT>részletesen meghatározza a 43. cikk (3) bekezdésében említett követelményeket a tanúsító szervezetek 42. cikk szerinti akkreditációja céljából;<QUOT.END CODE="201D" ID="QE0037" REF.START="QS0037"/>,</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </OLD.CORR>
+      <NEW.CORR FOR.READ="YES">
+        <P>helyesen:</P>
+        <QUOT.S LEVEL="1">
+          <LIST TYPE="alpha">
+            <ITEM>
+              <NP>
+                <NO.P><QUOT.START CODE="201E" ID="QS0038" REF.END="QE0038"/>p)</NO.P>
+                <TXT>jóváhagyja a 43. cikk (3) bekezdésében említett követelményeket a tanúsító szervezetek 43. cikkben említett akkreditációja céljából;<QUOT.END CODE="201D" ID="QE0038" REF.START="QS0038"/>.</TXT>
+              </NP>
+            </ITEM>
+          </LIST>
+        </QUOT.S>
+      </NEW.CORR>
+    </CORRECTION>
+  </CONTENTS.CORR>
+</CORR>
