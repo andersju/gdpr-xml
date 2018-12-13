@@ -11,6 +11,8 @@ This repository contains *Regulation (EU) 2016/679 of the European Parliament an
 
 `consolidated`: The XML versions of the consolidated GDPR (i.e., with corrections integrated), *without* the preamble and its 173 recitals. [[source](https://publications.europa.eu/en/publication-detail/-/publication/5f2552c2-cc45-11e6-ad7c-01aa75ed71a1/language-en/format-PDF/source-82709144)]
 
+`consolidated-with-corrected-preamble`: The XML files from `consolidated`, with the preambles from `formatted` added, and the preamble corrections merged in.
+
 ## Why?
 I wanted to make nice HTML versions of the GDPR. [EUR-Lex](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32016R0679)
 has terrible HTML versions generated from XML, but doesn't provide the actual XML.
