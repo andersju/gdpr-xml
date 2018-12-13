@@ -1,13 +1,15 @@
 # GDPR in XML
-This repository contains *Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation)*, a.k.a., the GDPR, in the 24 languages of the EU.
+This repository contains *Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection of natural persons with regard to the processing of personal data and on the free movement of such data, and repealing Directive 95/46/EC (General Data Protection Regulation)*, a.k.a., the GDPR, in the 24 languages of the EU in various forms:
 
-In `original/` you'll find the original, untouched files.
+`original/`: The original, untouched XML versions of the GDPR [[source](https://publications.europa.eu/en/publication-detail/-/publication/3e485e15-11bd-11e6-ba9a-01aa75ed71a1/language-en)]
 
-In `formatted/` you'll find the same files after having run them through `xmllint --format` to reformat/reindent.
+`formatted/`: The XML files from `original` after having run them through `xmllint --format` to reformat/reindent.
 
-In `corr-2018-original/` you'll find the [corrections](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2018.127.01.0002.01.ENG&toc=OJ:L:2018:127:FULL) (corrigendum) published in 2018.
+`corr-2018-original/`:  The untouched XML versions of the [corrections](https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2018.127.01.0002.01.ENG&toc=OJ:L:2018:127:FULL) (corrigendum) published in 2018. [[source](https://publications.europa.eu/en/publication-detail/-/publication/683d5816-5e52-11e8-ab9c-01aa75ed71a1/language-en/format-PDF/source-82709747)]
 
-In `corr-2018-formatted/` you'll find formatted versions of the corrections.
+`corr-2018-formatted/`: The XML files from `corr-2018-original` after having run them through `xmllint --format`.
+
+`consolidated`: The XML versions of the consolidated GDPR (i.e., with corrections integrated), *without* the preamble and its 173 recitals. [[source](https://publications.europa.eu/en/publication-detail/-/publication/5f2552c2-cc45-11e6-ad7c-01aa75ed71a1/language-en/format-PDF/source-82709144)]
 
 ## Why?
 I wanted to make nice HTML versions of the GDPR. [EUR-Lex](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32016R0679)
@@ -17,6 +19,7 @@ has terrible HTML versions generated from XML, but doesn't provide the actual XM
 provides the XML files, but makes it slightly annoying to get direct links, and the links look like they'd make Tim Berners-Lee [shed a tear](https://www.w3.org/Provider/Style/URI).
 The links eventually resolve to zip files with hopeless names like `3e485e15-11bd-11e6-ba9a-01aa75ed71a1.zip`.
 Within the zip files, the XML files are identically named for each language: `DOC_1_1.xml` and `DOC_2_1.xml`.
+(The corrections and consolidated XML files as provided by the EU Publications Office suffer from the same issues.)
 
 The files in `original/` are the ones from publications.europa.eu. They are identical to (i.e., have the same hash as) the corresponding
 files in the zip archive of the *Official Journal of the European Union, L 119, 4 May 2016*. E.g., [JOx_FMX_EN_2016.ZIP](http://data.europa.eu/euodp/repository/ec/publ/op-jo-formex/JOx_FMX_EN/JOx_FMX_EN_2016.ZIP)
