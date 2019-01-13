@@ -1,0 +1,77 @@
+html {
+  color: #333;
+  font-family: "Constantia", "Lucida Bright", "Lucidabright", "Lucida Serif", "Lucida",
+  "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", "Georgia", serif;
+  font-size: 18px;
+  line-height: 1.4;
+  margin: 1rem auto;
+  max-width: 50rem;
+  padding: 0 1rem;
+}
+
+
+@media only screen and (min-width: 40.063em) {
+  body {
+    font-size: 112.5%;
+  }
+}
+
+h1 {
+  font-size: 1.953rem;
+}
+
+h2 {
+  font-size: 1.563rem;
+}
+
+h3 {
+  font-size: 1.25rem;
+}
+
+h1,
+h2,
+h3,
+h4,
+.sti-art,
+.sti-div {
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Avenir Next", "Avenir",
+  "Segoe UI", "Lucida Grande", "Helvetica Neue", "Helvetica",  "Fira Sans",
+  "Roboto", "Noto", "Droid Sans", "Cantarell", "Oxygen", "Ubuntu", "Franklin Gothic Medium",
+  "Century Gothic", "Liberation Sans", sans-serif;
+  display: block;
+  font-style: italic;
+  text-align: center;
+}
+
+h2,
+h3 {
+  font-weight: normal;
+}
+
+.sti-art,
+.sti-div {
+  font-style: normal;
+  font-weight: bold;
+}
+
+.sti-div {
+  font-size: 1.25rem;
+}
+
+.sti-art {
+  font-size: 1rem;
+}
+
+.page-title {
+  font-size: 1.563rem;
+  font-style: normal;
+  font-weight: normal;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+
+.intro {
+  border-bottom: 2px solid #D3D3D3;
+}

@@ -13,6 +13,10 @@ This repository contains *Regulation (EU) 2016/679 of the European Parliament an
 
 `consolidated-with-corrected-preamble`: The XML files from `consolidated`, with the preambles from `formatted` added, and the preamble corrections merged in.
 
+`gdpr-articles.xsl` and `gdpr-recitals.xsl` are (ugly) XSL transformations that can be used with e.g. xsltproc to generate
+HTML versions of the files in `consolidated-with-corrected-preamble`. These are used by the bash script `generate.sh` to
+create https://gdpr.dataskydd.net/.
+
 ## Why?
 I wanted to make nice HTML versions of the GDPR. [EUR-Lex](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32016R0679)
 has terrible HTML versions generated from XML, but doesn't provide the actual XML.
@@ -29,9 +33,6 @@ files in the zip archive of the *Official Journal of the European Union, L 119, 
 contains `JOLFMX_2016_119_1_EN.zip` which in turn contains `L_2016119EN.01000101.xml` and `L_2016119EN.01000101.doc.xml`, which are
 identical to this repository's `original/L_2016119EN.01000101.xml` and `original/L_2016119EN.01000101.doc.xml`.
 
-So, the purpose of this repo is just to make it slightly less cumbersome if you want to work with multiple language versions of the GDPR.
-For good measure I've also included the XML Schema, `formex-05.55-20141201.xd`, just in case it changes URL at some point.
-
-At some point I hope to have some transformations here for nice HTML.
+So, the purpose of this repo is just to make it slightly less cumbersome if you want to work with multiple language versions of the GDPR. Feel free to use the XSL files for any purpose.
 
 The XML files are © European Union, 2016, here [legally reused](https://publications.europa.eu/en/web/about-us/legal-notices/eu-law-and-publications-website#copyright).
