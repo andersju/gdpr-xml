@@ -4,15 +4,19 @@ html {
   "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", "Georgia", serif;
   font-size: 18px;
   line-height: 1.4;
-  margin: 1rem auto;
+  margin: 0.5rem auto;
   max-width: 50rem;
-  padding: 0 1rem;
+  padding: 0 0.5rem;
 }
 
+a {
+  text-decoration: none;
+}
 
 @media only screen and (min-width: 40.063em) {
   body {
     font-size: 112.5%;
+    margin: 1rem auto;
   }
 }
 
@@ -74,4 +78,37 @@ h3 {
 
 .intro {
   border-bottom: 2px solid #D3D3D3;
+}
+
+ol,
+ul {
+  list-style-type: none;
+}
+
+body > ul,
+body > .footnotes > ul {
+  padding-left: 0;
+}
+
+body > ul > li {
+  margin-bottom: 1rem;
+}
+
+body > ul > li > ul > li,
+body > ul > li > ul > li > ul > li
+ {
+  margin-bottom: 0.5rem;
+  margin-top: 0.5rem;
+}
+
+body > ul > li > ul,
+body > ul > li > ul > li > ul,
+ {
+  margin-bottom: 0.5rem;
+  margin-top: 0.5rem;
+}
+
+section.footnotes {
+  border-top: 1px solid #D3D3D3;
+  margin-top: 1rem;
 }

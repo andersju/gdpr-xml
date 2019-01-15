@@ -11,12 +11,11 @@
 
   <xsl:template match="/">
     <xsl:text disable-output-escaping='yes'>&lt;!DOCTYPE html&gt;</xsl:text>
-    <html>
-      <xsl:attribute name="lang">
-        <xsl:value-of select="translate(/CONS.ACT/CONS.DOC/BIB.INSTANCE/LG.DOC, $lowercase, $uppercase)" />
-      </xsl:attribute>
+    <html lang="{translate(/CONS.ACT/CONS.DOC/BIB.INSTANCE/LG.DOC, $lowercase, $uppercase)}">
       <head>
         <meta charset="UTF-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1"/>
+        <meta name="referrer" content="no-referrer"/>
         <title>GDPR articles (<xsl:value-of select="/CONS.ACT/CONS.DOC/BIB.INSTANCE/LG.DOC" />)</title>
         <link rel="stylesheet" href="../../style.css"/>
       </head>
@@ -58,58 +57,53 @@
   </xsl:template>
 
   <xsl:template name="footnotes">
-    <ol>
-      <xsl:for-each select="/CONS.ACT/CONS.DOC/ENACTING.TERMS/descendant::NOTE[@TYPE='FOOTNOTE']">
-        <li>
-          <xsl:attribute name="id">
-            cite-note-<xsl:value-of select="@NOTE.ID" />
-          </xsl:attribute>
-          <a href="#cite-ref-{@NOTE.ID}">^</a><xsl:text> </xsl:text>
-          <xsl:value-of select="." />
-        </li>
-      </xsl:for-each>
-    </ol>
+    <section class="footnotes">
+      <ul>
+        <xsl:for-each select="/CONS.ACT/CONS.DOC/ENACTING.TERMS/descendant::NOTE[@TYPE='FOOTNOTE']">
+          <li id="cite-note-{@NOTE.ID}">
+            <a href="#cite-ref-{@NOTE.ID}">^</a><xsl:text> </xsl:text>
+            <xsl:apply-templates match="." />
+          </li>
+        </xsl:for-each>
+      </ul>
+    </section>
   </xsl:template>
 
   <xsl:template name="toc">
     <xsl:param name="division" />
-    <a href="#ch{position()}"><xsl:value-of select="$division/TITLE" /></a><br />
+    <a href="#ch{position()}">
+      <xsl:value-of select="$division/TITLE/TI" /><xsl:text disable-output-escaping="yes"> <![CDATA[&ndash;]]> </xsl:text><xsl:value-of select="$division/TITLE/STI" />
+    </a><br />
 
       <xsl:for-each select="$division/ARTICLE">
-        <a href="#art{@IDENTIFIER}"><xsl:value-of select="TI.ART" /></a> - <xsl:value-of select="STI.ART" /><br />
+        <a href="#art{@IDENTIFIER}"><xsl:value-of select="TI.ART" /></a><xsl:text disable-output-escaping="yes"> <![CDATA[&ndash;]]> </xsl:text><xsl:value-of select="STI.ART" /><br />
       </xsl:for-each>
 
       <xsl:for-each select="$division/DIVISION">
-          <xsl:value-of select="TITLE/TI" /> - <xsl:value-of select="TITLE/STI" /><br />
-          <xsl:for-each select="ARTICLE">
-            <a href="#art{@IDENTIFIER}"><xsl:value-of select="TI.ART" /></a> - <xsl:value-of select="STI.ART" /><br />
-          </xsl:for-each>
-
+        <a href="#{translate(TITLE/TI, ' ', '')}">
+          <xsl:value-of select="TITLE/TI" /><xsl:text disable-output-escaping="yes"> <![CDATA[&ndash;]]> </xsl:text><xsl:value-of select="TITLE/STI" />
+        </a>
+        <br />
+        <xsl:for-each select="ARTICLE">
+          <a href="#art{@IDENTIFIER}"><xsl:value-of select="TI.ART" /></a><xsl:text disable-output-escaping="yes"> <![CDATA[&ndash;]]> </xsl:text><xsl:value-of select="STI.ART" /><br />
+        </xsl:for-each>
       </xsl:for-each>
   </xsl:template>
 
   <xsl:template match="/CONS.ACT/CONS.DOC/ENACTING.TERMS/DIVISION">
-    <a>
-      <xsl:attribute name="href">
-        #ch<xsl:value-of select="position()" />
-      </xsl:attribute>
-      <h2 id="ch">
-        <xsl:attribute name="id">
-          ch<xsl:value-of select="position()" />
-        </xsl:attribute>
-        <xsl:value-of select="normalize-space(TITLE/TI)"/>
+    <a href="#ch{position()}">
+      <h2 id="ch{position()}">
+        <xsl:value-of select="normalize-space(TITLE/TI)"/><xsl:text disable-output-escaping="yes"> <![CDATA[&ndash;]]> </xsl:text><xsl:value-of select="TITLE/STI" />
       </h2>
     </a>
-    <xsl:apply-templates select="TITLE/STI"/>
+    <!--<xsl:apply-templates select="TITLE/STI"/>-->
 
     <xsl:apply-templates select="ARTICLE" />
     <xsl:apply-templates select="DIVISION" />
   </xsl:template>
 
   <xsl:template match="/CONS.ACT/CONS.DOC/ENACTING.TERMS/DIVISION/DIVISION">
-    <h2><xsl:value-of select="normalize-space(TITLE/TI)"/></h2>
-
-    <xsl:apply-templates select="TITLE/STI"/>
+    <h2 id="{translate(TITLE/TI, ' ', '')}"><xsl:value-of select="normalize-space(TITLE/TI)"/><xsl:text disable-output-escaping="yes"> <![CDATA[&ndash;]]> </xsl:text><xsl:value-of select="normalize-space(TITLE/STI)"/></h2>
 
     <xsl:apply-templates select="ARTICLE" />
     <xsl:apply-templates select="DIVISION" />
@@ -120,53 +114,57 @@
   </xsl:template>
 
   <xsl:template match="ARTICLE">
-    <a>
-      <xsl:attribute name="href">
-        #art<xsl:value-of select="@IDENTIFIER" />
-      </xsl:attribute>
-      <h3>
-        <xsl:attribute name="id">
-          art<xsl:value-of select="@IDENTIFIER" />
-        </xsl:attribute>
-        <xsl:value-of select="TI.ART" />
-      </h3>
+    <a href="#art{@IDENTIFIER}">
+      <h3 id="art{@IDENTIFIER}"><xsl:value-of select="TI.ART" /></h3>
     </a>
     <p class="sti-art"><strong><xsl:value-of select="STI.ART"/></strong></p>
-    <ol>
+
+    <ul>
       <xsl:apply-templates select="PARAG" />
       <xsl:apply-templates select="ALINEA" />
-    </ol>
+    </ul>
   </xsl:template>
 
   <xsl:template match="PARAG">
     <li>
-      <xsl:apply-templates select="ALINEA" />
+      <xsl:apply-templates select="NO.PARAG" /><xsl:text> </xsl:text><xsl:apply-templates select="ALINEA[1]"/>
+    </li>
+    <xsl:for-each select="ALINEA[position()>1]">
+      <li>
+        <xsl:apply-templates select="."/>
+      </li>
+    </xsl:for-each>
+  </xsl:template>
+
+  <xsl:template match="PARAG/ALINEA">
+    <xsl:apply-templates select="node()"/>
+  </xsl:template>
+
+  <xsl:template match="PARAG/ALINEA/LIST|ARTICLE/ALINEA/LIST|ARTICLE/ALINEA/LIST/ITEM/NP/P/LIST">
+    <ul>
+      <xsl:apply-templates select="node()"/>
+    </ul>
+  </xsl:template>
+
+  <xsl:template match="PARAG/ALINEA/LIST/ITEM|ARTICLE/ALINEA/LIST/ITEM|ARTICLE/ALINEA/LIST/ITEM/NP/P/LIST/ITEM">
+    <li>
+      <xsl:if test="../@TYPE='DASH'">
+        <xsl:text disable-output-escaping="yes"><![CDATA[&mdash;]]></xsl:text>
+      </xsl:if>
+      <xsl:apply-templates select="node()"/>
     </li>
   </xsl:template>
 
-<!--  <xsl:template match="ALINEA[not(P)]">
-    <p><xsl:value-of select="."/></p>
-  </xsl:template>-->
-
-  <xsl:template match="LIST/ITEM|CONSID">
-    <p>
-      <xsl:apply-templates select="@*|node()"/>
-    </p>
+  <xsl:template match="ARTICLE/ALINEA">
+    <li>
+      <xsl:apply-templates select="node()"/>
+    </li>
   </xsl:template>
-
-<!--
-  <xsl:template match="NP/P/LIST/ITEM">
-    <p><xsl:value-of select="normalize-space(NP/NO.P)" /><xsl:text> </xsl:text><xsl:value-of select="normalize-space(NP/TXT)" /></p>
-  </xsl:template>-->
 
   <xsl:template match="TITLE/TI/P">
-    <span><xsl:value-of select="normalize-space(.)"/></span>
-  </xsl:template>
-
-  <xsl:template match="P">
-    <p>
-      <xsl:apply-templates select="@*|node()"/>
-    </p>
+    <span>
+      <xsl:value-of select="normalize-space(.)"/>
+    </span>
   </xsl:template>
 
   <xsl:template match="HT[@TYPE='ITALIC']">
@@ -188,12 +186,23 @@
   </xsl:template>
 
   <xsl:template match="NOTE[@TYPE='FOOTNOTE']">
-    <sup>
-      <xsl:attribute name="id">
-        cite-ref-<xsl:value-of select="@NOTE.ID" />
-      </xsl:attribute>
+    <sup id="cite-ref-{@NOTE.ID}">
       <a href="#cite-note-{@NOTE.ID}"><xsl:value-of select="number(substring(@NOTE.ID, 2))" /></a>
     </sup>
   </xsl:template>
 
+  <!-- ughhhhhh. -->
+  <xsl:template match="QUOT.START"><xsl:text disable-output-escaping="yes">&lt;q&gt;</xsl:text></xsl:template>
+  <xsl:template match="QUOT.END"><xsl:text disable-output-escaping="yes">&lt;/q&gt;</xsl:text></xsl:template>
+
+  <xsl:decimal-format name="european" decimal-separator=',' grouping-separator='&#160;' />
+  <xsl:template match="FT[@TYPE='NUMBER']">
+    <xsl:value-of select="format-number(text(), '#&#160;###,##;(#&#160;###,##)', 'european')" />
+  </xsl:template>
+
+  <xsl:template match="REF.DOC.OJ">
+    <a href="https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:{@COLL}:{substring(@DATE.PUB, 1, 4)}:{@NO.OJ}:TOC">
+      <xsl:value-of select="." />
+    </a>
+  </xsl:template>
 </xsl:stylesheet>

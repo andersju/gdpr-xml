@@ -11,6 +11,8 @@
     <html>
       <head>
         <meta charset="UTF-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1"/>
+        <meta name="referrer" content="no-referrer"/>
         <title>GDPR recitals (<xsl:value-of select="/CONS.ACT/CONS.DOC/BIB.INSTANCE/LG.DOC" />)</title>
         <link rel="stylesheet" href="../../style.css"/>
       </head>
@@ -56,7 +58,7 @@
             cite-note-<xsl:value-of select="@NOTE.ID" />
           </xsl:attribute>
           <a href="#cite-ref-{@NOTE.ID}">^</a><xsl:text> </xsl:text>
-          <xsl:value-of select="P" />
+          <xsl:apply-templates match="." />
         </li>
       </xsl:for-each>
     </ol>
@@ -67,10 +69,6 @@
       <xsl:apply-templates select="ALINEA" />
     </li>
   </xsl:template>
-
-<!--  <xsl:template match="ALINEA[not(P)]">
-    <p><xsl:value-of select="."/></p>
-  </xsl:template>-->
 
   <xsl:template match="CONSID">
     <xsl:variable name="recitalnumber">
@@ -90,13 +88,12 @@
     </p>
   </xsl:template>
 
-<!--
-  <xsl:template match="NP/P/LIST/ITEM">
-    <p><xsl:value-of select="normalize-space(NP/NO.P)" /><xsl:text> </xsl:text><xsl:value-of select="normalize-space(NP/TXT)" /></p>
-  </xsl:template>-->
-
   <xsl:template match="TITLE/TI/P">
     <span><xsl:value-of select="normalize-space(.)"/></span>
+  </xsl:template>
+
+  <xsl:template match="NOTE[@TYPE='FOOTNOTE']/P">
+    <xsl:apply-templates select="node()"/>
   </xsl:template>
 
   <xsl:template match="P">
@@ -130,6 +127,12 @@
       </xsl:attribute>
       <a href="#cite-note-{@NOTE.ID}"><xsl:value-of select="number(substring(@NOTE.ID, 2))" /></a>
     </sup>
+  </xsl:template>
+
+  <xsl:template match="REF.DOC.OJ">
+    <a href="https://eur-lex.europa.eu/legal-content/EN/AUTO/?uri=OJ:{@COLL}:{substring(@DATE.PUB, 1, 4)}:{@NO.OJ}:TOC">
+      <xsl:value-of select="." />
+    </a>
   </xsl:template>
 
 </xsl:stylesheet>
