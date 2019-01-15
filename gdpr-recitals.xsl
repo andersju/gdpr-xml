@@ -39,10 +39,11 @@
           </h1>
         </header>
 -->
-        <xsl:apply-templates select="/CONS.ACT/CONS.DOC/PREAMBLE/PREAMBLE.INIT"/>
-        <xsl:apply-templates select="/CONS.ACT/CONS.DOC/PREAMBLE/GR.VISA"/>
-
-        <xsl:apply-templates select="/CONS.ACT/CONS.DOC/PREAMBLE/GR.CONSID"/>
+        <main>
+          <xsl:apply-templates select="/CONS.ACT/CONS.DOC/PREAMBLE/PREAMBLE.INIT"/>
+          <xsl:apply-templates select="/CONS.ACT/CONS.DOC/PREAMBLE/GR.VISA"/>
+          <xsl:apply-templates select="/CONS.ACT/CONS.DOC/PREAMBLE/GR.CONSID"/>
+        </main>
 
         <xsl:call-template name="footnotes" />
       </body>

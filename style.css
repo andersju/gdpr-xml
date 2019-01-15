@@ -2,7 +2,7 @@ html {
   color: #333;
   font-family: "Constantia", "Lucida Bright", "Lucidabright", "Lucida Serif", "Lucida",
   "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", "Georgia", serif;
-  font-size: 18px;
+  font-size: 16px;
   line-height: 1.4;
   margin: 0.5rem auto;
   max-width: 50rem;
@@ -13,10 +13,18 @@ a {
   text-decoration: none;
 }
 
+ul {
+  padding-left: 1rem;
+}
+
 @media only screen and (min-width: 40.063em) {
   body {
-    font-size: 112.5%;
+    font-size: 125%;
     margin: 1rem auto;
+  }
+
+  ul {
+    padding-left: 2rem;
   }
 }
 
@@ -24,10 +32,7 @@ nav {
   text-align: center;
 }
 
-h1 {
-  font-size: 1.953rem;
-}
-
+h1,
 h2 {
   font-size: 1.563rem;
 }
@@ -78,7 +83,6 @@ h3 {
 }
 
 .page-title {
-  font-size: 1.563rem;
   font-style: normal;
   font-weight: normal;
 }
@@ -96,25 +100,18 @@ ul {
   list-style-type: none;
 }
 
-body > ul,
-body > .footnotes > ul {
+main > ul,
+main > .footnotes > ul {
   padding-left: 0;
 }
 
-body > ul > li {
+main > ul > li {
   margin-bottom: 1rem;
 }
 
-body > ul > li > ul > li,
-body > ul > li > ul > li > ul > li
- {
-  margin-bottom: 0.5rem;
-  margin-top: 0.5rem;
-}
-
-body > ul > li > ul,
-body > ul > li > ul > li > ul,
- {
+main ul li ul,
+main ul li ul li
+{
   margin-bottom: 0.5rem;
   margin-top: 0.5rem;
 }

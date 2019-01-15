@@ -36,20 +36,22 @@
           <p>This is a service by <a href="https://dataskydd.net/english">Dataskydd.net</a>. The texts are © European Union, 2018.</p>
         </section>
 
-        <h2><xsl:apply-templates select="/CONS.ACT/CONS.DOC/TITLE"/></h2>
+        <main>
+          <h2><xsl:apply-templates select="/CONS.ACT/CONS.DOC/TITLE"/></h2>
 
-        <ul>
-          <xsl:for-each select="/CONS.ACT/CONS.DOC/ENACTING.TERMS/DIVISION">
-              <xsl:call-template name="toc">
-                <xsl:with-param name="division" select="."/>
-              </xsl:call-template>
-          </xsl:for-each>
-        </ul>
+          <ul>
+            <xsl:for-each select="/CONS.ACT/CONS.DOC/ENACTING.TERMS/DIVISION">
+                <xsl:call-template name="toc">
+                  <xsl:with-param name="division" select="."/>
+                </xsl:call-template>
+            </xsl:for-each>
+          </ul>
 
-        <xsl:apply-templates select="/CONS.ACT/CONS.DOC/ENACTING.TERMS/DIVISION"/>
+          <xsl:apply-templates select="/CONS.ACT/CONS.DOC/ENACTING.TERMS/DIVISION"/>
 
-        <xsl:apply-templates select="/CONS.ACT/CONS.DOC/FINAL/P"/>
-        <xsl:apply-templates select="/CONS.ACT/CONS.DOC/FINAL/SIGNATURE"/>
+          <xsl:apply-templates select="/CONS.ACT/CONS.DOC/FINAL/P"/>
+          <!--<xsl:apply-templates select="/CONS.ACT/CONS.DOC/FINAL/SIGNATURE"/>-->
+        </main>
 
         <xsl:call-template name="footnotes" />
       </body>
