@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- HERE BE DRAGONS -->
 <xsl:stylesheet version="1.0"
   xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
   xmlns="http://www.w3.org/1999/xhtml"
@@ -109,15 +110,15 @@
         <xsl:value-of select="normalize-space(TITLE/TI)"/><xsl:text disable-output-escaping="yes"> <![CDATA[&ndash;]]> </xsl:text><xsl:value-of select="TITLE/STI" />
       </h2>
     </a>
-    <!--<xsl:apply-templates select="TITLE/STI"/>-->
 
     <xsl:apply-templates select="ARTICLE" />
     <xsl:apply-templates select="DIVISION" />
   </xsl:template>
 
   <xsl:template match="/CONS.ACT/CONS.DOC/ENACTING.TERMS/DIVISION/DIVISION">
-
-    <h2 id="{translate(normalize-space(concat(../TITLE/TI, TITLE/TI)), ' ', '')}"><xsl:value-of select="normalize-space(TITLE/TI)"/><xsl:text disable-output-escaping="yes"> <![CDATA[&ndash;]]> </xsl:text><xsl:value-of select="normalize-space(TITLE/STI)"/></h2>
+    <a href="#{translate(normalize-space(concat(../TITLE/TI, TITLE/TI)), ' ', '')}">
+      <h2 id="{translate(normalize-space(concat(../TITLE/TI, TITLE/TI)), ' ', '')}"><xsl:value-of select="normalize-space(TITLE/TI)"/><xsl:text disable-output-escaping="yes"> <![CDATA[&ndash;]]> </xsl:text><xsl:value-of select="normalize-space(TITLE/STI)"/></h2>
+    </a>
 
     <xsl:apply-templates select="ARTICLE" />
     <xsl:apply-templates select="DIVISION" />
