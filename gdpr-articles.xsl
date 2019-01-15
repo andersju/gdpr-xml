@@ -36,7 +36,7 @@
           <p>This is a service by <a href="https://dataskydd.net/english">Dataskydd.net</a>. The texts are © European Union, 2018.</p>
         </section>
 
-        <main>
+        <main class="articles">
           <h2><xsl:apply-templates select="/CONS.ACT/CONS.DOC/TITLE"/></h2>
 
           <ul>

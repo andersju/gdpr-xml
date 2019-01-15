@@ -48,5 +48,5 @@ done
 cat <<EOF >> site/index.html
   </ul>
   </body>
-  </html>
+</html>
 EOF
