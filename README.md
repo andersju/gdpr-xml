@@ -15,7 +15,7 @@ This repository contains *Regulation (EU) 2016/679 of the European Parliament an
 
 `gdpr-articles.xsl` and `gdpr-recitals.xsl` are (ugly) XSL transformations that can be used with e.g. xsltproc to generate
 HTML versions of the files in `consolidated-with-corrected-preamble`. These are used by the bash script `generate.sh` to
-create https://gdpr.dataskydd.net/.
+create https://gdpr.dataskydd.net/. The script creates `site/{bg,cs,da,..}/{art,rec}/index.html`, `site/index.html`, and copies `style.css` into it.
 
 ## Why?
 I wanted to make nice HTML versions of the GDPR. [EUR-Lex](https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=CELEX:32016R0679)

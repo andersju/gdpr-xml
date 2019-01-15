@@ -21,26 +21,29 @@
       </head>
       <body>
         <header>
+          <nav>
+            Articles · <a href="../rec/">Recitals</a> · <a href="../../">Other languages</a>
+          </nav>
+
           <h1 class="page-title">
             GDPR articles (<xsl:value-of select="/CONS.ACT/CONS.DOC/BIB.INSTANCE/LG.DOC" />)
           </h1>
         </header>
         <section class="intro">
-          <p>This page contains the articles of the GDPR. For the recitals, <a href="../rec">see here</a>. For other languages, <a href="../../">see the index.</a></p>
-          <p>Please note that this is not the official version of the GDPR; for that, <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32016R0679">see the official version</a> (and the 2018 <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32016R0679R%2802%29">corrigendum</a>). There may be errors here; if you find any, please <a href="mailto:info@dataskydd.net">contact us</a>.</p>
+          <p>This page contains the articles of the GDPR. Please note that this is not the official version; for that, <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32016R0679">see the official version</a> (and the 2018 <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32016R0679R%2802%29">corrigendum</a>). There may be errors here; if you find any, please <a href="mailto:info@dataskydd.net">contact us</a> or <a href="https://github.com/andersju/gdpr-xml">create an issue on GitHub</a>.</p>
           <p>The following was generated from <a href="https://publications.europa.eu/en/publication-detail/-/publication/5f2552c2-cc45-11e6-ad7c-01aa75ed71a1/language-en/format-PDF/source-82709144">XML files of the consolidated GDPR</a> (i.e., with corrections integrated). These files did not include the preamble containing the recitals, so these were added from <a href="https://publications.europa.eu/en/publication-detail/-/publication/3e485e15-11bd-11e6-ba9a-01aa75ed71a1/language-en">the XML version of the original GDPR</a>, and the preamble corrections were then merged in.</p>
           <p>This is a service by <a href="https://dataskydd.net/english">Dataskydd.net</a>. The texts are © European Union, 2018.</p>
         </section>
 
         <h2><xsl:apply-templates select="/CONS.ACT/CONS.DOC/TITLE"/></h2>
 
-        <xsl:for-each select="/CONS.ACT/CONS.DOC/ENACTING.TERMS/DIVISION">
-          <p>
-            <xsl:call-template name="toc">
-              <xsl:with-param name="division" select="."/>
-            </xsl:call-template>
-          </p>
-        </xsl:for-each>
+        <ul>
+          <xsl:for-each select="/CONS.ACT/CONS.DOC/ENACTING.TERMS/DIVISION">
+              <xsl:call-template name="toc">
+                <xsl:with-param name="division" select="."/>
+              </xsl:call-template>
+          </xsl:for-each>
+        </ul>
 
         <xsl:apply-templates select="/CONS.ACT/CONS.DOC/ENACTING.TERMS/DIVISION"/>
 
@@ -58,36 +61,46 @@
 
   <xsl:template name="footnotes">
     <section class="footnotes">
-      <ul>
+      <ol>
         <xsl:for-each select="/CONS.ACT/CONS.DOC/ENACTING.TERMS/descendant::NOTE[@TYPE='FOOTNOTE']">
           <li id="cite-note-{@NOTE.ID}">
             <a href="#cite-ref-{@NOTE.ID}">^</a><xsl:text> </xsl:text>
             <xsl:apply-templates match="." />
           </li>
         </xsl:for-each>
-      </ul>
+      </ol>
     </section>
   </xsl:template>
 
   <xsl:template name="toc">
     <xsl:param name="division" />
-    <a href="#ch{position()}">
+    <li>
+      <a href="#ch{position()}">
       <xsl:value-of select="$division/TITLE/TI" /><xsl:text disable-output-escaping="yes"> <![CDATA[&ndash;]]> </xsl:text><xsl:value-of select="$division/TITLE/STI" />
-    </a><br />
+      </a><br />
 
-      <xsl:for-each select="$division/ARTICLE">
-        <a href="#art{@IDENTIFIER}"><xsl:value-of select="TI.ART" /></a><xsl:text disable-output-escaping="yes"> <![CDATA[&ndash;]]> </xsl:text><xsl:value-of select="STI.ART" /><br />
-      </xsl:for-each>
-
-      <xsl:for-each select="$division/DIVISION">
-        <a href="#{translate(TITLE/TI, ' ', '')}">
-          <xsl:value-of select="TITLE/TI" /><xsl:text disable-output-escaping="yes"> <![CDATA[&ndash;]]> </xsl:text><xsl:value-of select="TITLE/STI" />
-        </a>
-        <br />
-        <xsl:for-each select="ARTICLE">
-          <a href="#art{@IDENTIFIER}"><xsl:value-of select="TI.ART" /></a><xsl:text disable-output-escaping="yes"> <![CDATA[&ndash;]]> </xsl:text><xsl:value-of select="STI.ART" /><br />
+      <ul>
+        <xsl:for-each select="$division/ARTICLE">
+          <li>
+            <a href="#art{@IDENTIFIER}"><xsl:value-of select="TI.ART" /></a><xsl:text disable-output-escaping="yes"> <![CDATA[&ndash;]]> </xsl:text><xsl:value-of select="STI.ART" />
+          </li>
         </xsl:for-each>
-      </xsl:for-each>
+
+        <xsl:for-each select="$division/DIVISION">
+          <li>
+            <a href="#{translate(normalize-space(concat(../TITLE/TI, TITLE/TI)), ' ', '')}">
+              <xsl:value-of select="TITLE/TI" /><xsl:text disable-output-escaping="yes"> <![CDATA[&ndash;]]> </xsl:text><xsl:value-of select="TITLE/STI" />
+            </a>
+          </li>
+          
+          <li>
+            <xsl:for-each select="ARTICLE">
+              <a href="#art{@IDENTIFIER}"><xsl:value-of select="TI.ART" /></a><xsl:text disable-output-escaping="yes"> <![CDATA[&ndash;]]> </xsl:text><xsl:value-of select="STI.ART" /><br />
+            </xsl:for-each>
+          </li>
+        </xsl:for-each>
+      </ul>
+    </li>
   </xsl:template>
 
   <xsl:template match="/CONS.ACT/CONS.DOC/ENACTING.TERMS/DIVISION">
@@ -103,7 +116,8 @@
   </xsl:template>
 
   <xsl:template match="/CONS.ACT/CONS.DOC/ENACTING.TERMS/DIVISION/DIVISION">
-    <h2 id="{translate(TITLE/TI, ' ', '')}"><xsl:value-of select="normalize-space(TITLE/TI)"/><xsl:text disable-output-escaping="yes"> <![CDATA[&ndash;]]> </xsl:text><xsl:value-of select="normalize-space(TITLE/STI)"/></h2>
+
+    <h2 id="{translate(normalize-space(concat(../TITLE/TI, TITLE/TI)), ' ', '')}"><xsl:value-of select="normalize-space(TITLE/TI)"/><xsl:text disable-output-escaping="yes"> <![CDATA[&ndash;]]> </xsl:text><xsl:value-of select="normalize-space(TITLE/STI)"/></h2>
 
     <xsl:apply-templates select="ARTICLE" />
     <xsl:apply-templates select="DIVISION" />
