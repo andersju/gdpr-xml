@@ -43,6 +43,12 @@
         </header>
 -->
         <main>
+          <p class="recital-list">
+            <xsl:for-each select="/CONS.ACT/CONS.DOC/PREAMBLE/GR.CONSID/CONSID">
+              <a href="#rec{position()}"><xsl:value-of select="position()" /></a><xsl:text> </xsl:text>
+            </xsl:for-each>
+          </p>
+
           <xsl:apply-templates select="/CONS.ACT/CONS.DOC/PREAMBLE/PREAMBLE.INIT"/>
           <xsl:apply-templates select="/CONS.ACT/CONS.DOC/PREAMBLE/GR.VISA"/>
           <xsl:apply-templates select="/CONS.ACT/CONS.DOC/PREAMBLE/GR.CONSID"/>

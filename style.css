@@ -29,6 +29,7 @@ ul {
 }
 
 nav {
+  display: block;
   text-align: center;
 }
 
@@ -47,20 +48,21 @@ h3,
 h4,
 .sti-art,
 .sti-div,
+.recital-list,
 nav {
   font-family: system-ui, -apple-system, BlinkMacSystemFont, "Avenir Next", "Avenir",
   "Segoe UI", "Lucida Grande", "Helvetica Neue", "Helvetica",  "Fira Sans",
   "Roboto", "Noto", "Droid Sans", "Cantarell", "Oxygen", "Ubuntu", "Franklin Gothic Medium",
   "Century Gothic", "Liberation Sans", sans-serif;
-  display: block;
-  text-align: center;
 }
 
 h1,
 h2,
 h3,
 h4 {
+  display: block;
   font-style: italic;
+  text-align: center;
 }
 
 h2,
@@ -74,8 +76,10 @@ h3 {
 
 .sti-art,
 .sti-div {
+  display: block;
   font-style: normal;
   font-weight: bold;
+  text-align: center;
 }
 
 .sti-div {
