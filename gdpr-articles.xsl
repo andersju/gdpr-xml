@@ -85,7 +85,7 @@
       <ul>
         <xsl:for-each select="$division/ARTICLE">
           <li>
-            <a href="#art{@IDENTIFIER}"><xsl:value-of select="TI.ART" /></a><xsl:text disable-output-escaping="yes"> <![CDATA[&ndash;]]> </xsl:text><xsl:value-of select="STI.ART" />
+            <a href="#art{number(@IDENTIFIER)}"><xsl:value-of select="TI.ART" /></a><xsl:text disable-output-escaping="yes"> <![CDATA[&ndash;]]> </xsl:text><xsl:value-of select="STI.ART" />
           </li>
         </xsl:for-each>
 
@@ -98,7 +98,7 @@
           
           <li>
             <xsl:for-each select="ARTICLE">
-              <a href="#art{@IDENTIFIER}"><xsl:value-of select="TI.ART" /></a><xsl:text disable-output-escaping="yes"> <![CDATA[&ndash;]]> </xsl:text><xsl:value-of select="STI.ART" /><br />
+              <a href="#art{number(@IDENTIFIER)}"><xsl:value-of select="TI.ART" /></a><xsl:text disable-output-escaping="yes"> <![CDATA[&ndash;]]> </xsl:text><xsl:value-of select="STI.ART" /><br />
             </xsl:for-each>
           </li>
         </xsl:for-each>
@@ -131,8 +131,8 @@
   </xsl:template>
 
   <xsl:template match="ARTICLE">
-    <a href="#art{@IDENTIFIER}">
-      <h3 id="art{@IDENTIFIER}"><xsl:value-of select="TI.ART" /></h3>
+    <a href="#art{number(@IDENTIFIER)}">
+      <h3 id="art{number(@IDENTIFIER)}"><xsl:value-of select="TI.ART" /></h3>
     </a>
     <p class="sti-art"><strong><xsl:value-of select="STI.ART"/></strong></p>
 
